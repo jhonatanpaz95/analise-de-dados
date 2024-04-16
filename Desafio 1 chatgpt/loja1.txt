@@ -1,0 +1,31 @@
+Produto,Preço Unitário,Quantidade Vendida,Mês,Faturamento Total
+Whey Protein,150,200,Janeiro,30000
+BCAA,80,150,Janeiro,12000
+Creatina,50,100,Janeiro,5000
+Glutamina,70,120,Janeiro,8400
+Termogênico,120,80,Janeiro,9600
+Multivitamínico,40,180,Janeiro,7200
+HMB,90,60,Janeiro,5400
+Omega 3,30,250,Janeiro,7500
+Proteína Vegana,160,70,Janeiro,11200
+ZMA,65,110,Janeiro,7150
+Whey Protein,150,180,Fevereiro,27000
+BCAA,80,140,Fevereiro,11200
+Creatina,50,90,Fevereiro,4500
+Glutamina,70,110,Fevereiro,7700
+Termogênico,120,70,Fevereiro,8400
+Multivitamínico,40,170,Fevereiro,6800
+HMB,90,50,Fevereiro,4500
+Omega 3,30,240,Fevereiro,7200
+Proteína Vegana,160,60,Fevereiro,9600
+ZMA,65,100,Fevereiro,6500
+Whey Protein,150,190,Março,28500
+BCAA,80,130,Março,10400
+Creatina,50,80,Março,4000
+Glutamina,70,100,Março,7000
+Termogênico,120,60,Março,7200
+Multivitamínico,40,160,Março,6400
+HMB,90,40,Março,4000
+Omega 3,30,230,Março,6900
+Proteína Vegana,160,50,Março,8000
+ZMA,65,90,Março,5850
