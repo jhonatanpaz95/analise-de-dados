@@ -1,0 +1,1628 @@
+id,default,idade,sexo,dependentes,escolaridade,estado_civil,salario_anual,tipo_cartao,meses_de_relacionamento,qtd_produtos,iteracoes_12m,meses_inativo_12m,limite_credito,valor_transacoes_12m,qtd_transacoes_12m
+708508758,1,62,F,0,mestrado,casado,menos que $40K,blue,49,2,3,3,1438.73,692.25,16
+708300483,1,66,F,0,doutorado,casado,na,blue,56,5,3,4,7882.47,704.78,16
+779471883,1,54,F,1,mestrado,casado,menos que $40K,blue,40,2,1,3,1438.08,705.59,19
+714374133,1,56,M,2,mestrado,casado,$120K +,blue,36,1,3,3,15769.34,602.6,15
+712030833,1,48,M,2,mestrado,casado,$60K - $80K,silver,35,2,4,4,34516.6,691.1,15
+711013983,1,55,F,4,na,casado,$40K - $60K,blue,45,2,3,4,2158.57,615.02,12
+711887583,1,47,M,2,na,casado,$80K - $120K,blue,37,2,3,3,5449.1,836.55,18
+720201033,1,53,M,2,mestrado,casado,$80K - $120K,blue,41,3,2,3,11669.07,720.82,23
+789322833,1,48,F,5,ensino medio,casado,menos que $40K,blue,38,1,3,3,8025.36,673.64,18
+767712558,1,59,M,1,graduacao,solteiro,$60K - $80K,blue,53,2,3,3,14979.44,530.36,10
+712950783,1,48,F,4,sem educacao formal,casado,menos que $40K,blue,38,3,3,2,2732.31,739.82,16
+713741358,1,46,M,5,mestrado,solteiro,$80K - $120K,blue,33,6,3,3,32975.61,597.86,17
+708953883,1,53,M,2,na,casado,$80K - $120K,blue,36,2,1,2,3212.38,757.7,20
+708868233,1,68,M,0,ensino medio,casado,menos que $40K,blue,52,1,2,3,1438.72,760.47,21
+719808558,1,55,F,2,mestrado,casado,menos que $40K,blue,43,2,3,4,1438.49,886.93,27
+711551958,1,59,M,2,doutorado,casado,$60K - $80K,blue,46,3,3,3,1438.61,844.25,24
+772336458,1,60,F,1,sem educacao formal,casado,$40K - $60K,blue,50,4,3,4,1438.57,702.15,12
+720997383,1,52,M,1,sem educacao formal,casado,$80K - $120K,blue,36,2,3,3,1857.31,829.9,17
+710299608,1,53,F,2,na,casado,menos que $40K,blue,33,2,3,3,2859.73,817.64,30
+821797008,1,49,M,5,graduacao,casado,$40K - $60K,blue,45,2,3,2,1438.71,815.11,21
+708874533,1,45,F,2,graduacao,casado,menos que $40K,blue,36,1,2,3,3387.36,510.16,24
+712125258,1,46,M,4,ensino medio,casado,$120K +,blue,30,3,3,3,2442.35,701.37,19
+772390908,1,59,M,0,ensino medio,solteiro,$40K - $60K,blue,48,2,3,4,3616.78,687.81,17
+778867533,1,59,F,0,doutorado,casado,$40K - $60K,blue,40,1,1,4,1438.04,689.19,23
+771809733,1,64,F,0,ensino medio,casado,$40K - $60K,blue,53,1,3,3,3353.71,960.89,18
+719211558,1,45,M,2,mestrado,solteiro,$60K - $80K,blue,36,1,2,1,3401.34,744.28,18
+718621608,1,54,F,2,ensino medio,casado,na,blue,44,3,1,3,6094.27,909.43,14
+720272958,1,48,M,2,ensino medio,casado,$120K +,blue,36,3,3,3,27126.02,1000.75,25
+709173108,1,54,F,4,mestrado,casado,na,blue,40,6,2,2,2532.68,799.6,21
+708330858,1,57,M,3,mestrado,casado,$120K +,blue,38,2,3,3,8249.68,678.76,11
+709278258,1,54,M,2,na,casado,$40K - $60K,blue,44,4,2,3,2902.27,996.12,26
+714871683,1,58,M,1,sem educacao formal,casado,$40K - $60K,blue,36,2,3,4,1438.23,715.18,13
+708288108,1,43,M,4,doutorado,na,$80K - $120K,blue,30,2,3,5,5639,647.1,15
+717354558,1,57,M,2,sem educacao formal,casado,$120K +,blue,40,3,3,3,3106.12,683.34,17
+714639783,1,42,M,3,graduacao,casado,$60K - $80K,blue,34,3,3,3,13450.22,1000.97,18
+778868958,1,42,F,2,mestrado,casado,menos que $40K,blue,23,3,3,3,1929.53,857.65,36
+710940183,1,49,F,3,mestrado,casado,menos que $40K,blue,38,6,2,3,2185.35,715.45,20
+709547658,1,39,M,2,sem educacao formal,solteiro,$60K - $80K,blue,36,5,3,3,13961.22,783.91,20
+712159083,1,58,F,4,na,casado,menos que $40K,blue,46,2,3,3,2536.46,901.87,35
+711791583,1,52,F,1,mestrado,solteiro,menos que $40K,blue,40,1,2,2,2317.39,884.01,19
+712315683,1,53,F,2,sem educacao formal,solteiro,menos que $40K,blue,45,1,1,1,1981.93,973.88,25
+789842283,1,54,M,2,mestrado,casado,$60K - $80K,blue,42,3,2,3,4320.56,706.26,21
+719418933,1,53,M,2,sem educacao formal,casado,$80K - $120K,blue,36,1,3,3,4503.98,748.51,20
+781794708,1,35,M,3,doutorado,na,$80K - $120K,blue,29,2,3,1,17030.72,715.56,25
+714272658,1,43,F,2,sem educacao formal,solteiro,menos que $40K,blue,24,2,2,3,2962.93,929.33,31
+767294658,1,56,M,2,graduacao,solteiro,$120K +,blue,50,2,3,2,16867.12,654.61,14
+708241233,1,52,F,3,doutorado,solteiro,menos que $40K,blue,47,3,2,3,2972.3,922.94,25
+716223708,1,45,F,3,sem educacao formal,solteiro,na,blue,36,3,3,3,4028.27,791.44,22
+719443683,1,50,M,1,na,solteiro,$120K +,blue,39,3,3,2,27512.95,1149.6,25
+779610033,1,58,M,1,graduacao,casado,$80K - $120K,blue,47,3,3,3,12151.06,918.45,14
+709345008,1,53,F,2,doutorado,casado,na,blue,39,1,3,2,1438.67,807.5,22
+721417233,1,45,M,2,mestrado,casado,$60K - $80K,blue,25,3,3,5,1438.45,709.22,27
+769137108,1,43,F,2,doutorado,casado,menos que $40K,blue,37,3,1,3,1438.57,974.45,28
+717640083,1,59,M,1,ensino medio,casado,$60K - $80K,blue,36,3,3,2,6705.54,731.33,18
+794977533,1,62,M,0,ensino medio,casado,$60K - $80K,blue,56,3,2,3,8077.58,906.24,16
+752604633,1,57,M,2,graduacao,casado,$40K - $60K,blue,50,2,3,5,6462.33,761.95,17
+711242058,1,48,M,4,na,solteiro,$80K - $120K,blue,36,1,1,3,11862.19,643.07,16
+718121658,1,56,M,1,graduacao,casado,$60K - $80K,blue,44,5,3,3,1704.28,660.12,17
+711593808,1,55,M,1,ensino medio,casado,$60K - $80K,blue,46,2,3,2,1438.26,888.13,18
+718731183,1,61,M,1,na,casado,$40K - $60K,blue,49,1,2,2,5472.36,705.29,14
+713865333,1,45,F,4,sem educacao formal,casado,menos que $40K,blue,38,3,3,4,4908.17,827.15,21
+797707008,1,44,F,3,doutorado,casado,menos que $40K,blue,38,6,3,1,7222.18,920.76,18
+720370533,1,55,M,3,sem educacao formal,casado,$60K - $80K,blue,44,3,2,2,2323.81,804.55,15
+718675158,1,55,F,1,na,casado,menos que $40K,blue,36,4,3,1,1438.99,850.04,22
+720605808,1,53,F,1,mestrado,solteiro,menos que $40K,blue,36,2,3,2,1438.29,799.32,17
+770724558,1,42,M,2,graduacao,casado,$60K - $80K,blue,28,6,3,1,7340.58,838.57,24
+719309958,1,55,M,3,doutorado,solteiro,$80K - $120K,blue,35,4,3,1,20865.47,837.79,25
+808897683,1,53,M,1,mestrado,solteiro,$80K - $120K,blue,48,3,3,3,30271.39,3231.76,47
+718939083,1,54,F,2,mestrado,casado,menos que $40K,blue,45,3,3,1,1438.81,694.56,15
+712979133,1,55,M,4,ensino medio,casado,$80K - $120K,blue,41,2,2,2,27560.22,646.39,10
+720071583,1,48,F,2,na,casado,menos que $40K,blue,36,5,3,1,7151.64,854.93,22
+812420358,1,61,F,0,mestrado,casado,menos que $40K,blue,56,3,3,3,2122.22,949.3,17
+798792408,1,48,M,3,ensino medio,casado,$80K - $120K,blue,42,1,3,1,9959.64,805.47,24
+711204483,1,56,M,4,ensino medio,casado,$60K - $80K,blue,46,3,3,3,2340.29,781.48,15
+713945883,1,62,F,2,mestrado,casado,menos que $40K,blue,52,4,2,2,2490.25,864.95,20
+789513858,1,43,M,3,na,casado,$40K - $60K,blue,35,2,3,2,1438.53,891.81,28
+771963708,1,56,M,3,na,casado,$60K - $80K,blue,45,5,2,3,12248.19,767.66,25
+712433508,1,59,F,1,na,casado,na,blue,50,3,3,2,1438.92,724.37,16
+778506633,1,43,F,4,graduacao,casado,menos que $40K,blue,23,6,3,2,7706.53,965.72,27
+713530833,1,58,M,2,mestrado,casado,$40K - $60K,blue,48,2,3,3,4085.97,596.38,15
+778699908,1,43,M,2,sem educacao formal,casado,$60K - $80K,blue,24,2,3,3,14447.33,915.88,29
+716991933,1,53,F,3,sem educacao formal,solteiro,menos que $40K,blue,35,6,1,3,9786.48,820.19,25
+802002858,1,62,F,1,ensino medio,casado,na,blue,56,2,2,1,8990.25,747.49,19
+712373208,1,43,M,3,doutorado,solteiro,$60K - $80K,blue,35,3,2,3,3312.82,647.94,19
+708455883,1,57,M,1,mestrado,solteiro,$80K - $120K,blue,36,2,2,3,10244.3,1127.79,29
+763895958,1,53,M,2,ensino medio,casado,$120K +,blue,46,4,1,3,7474.19,732.88,21
+711927108,1,54,M,3,ensino medio,casado,$80K - $120K,blue,36,2,4,3,9457.17,1196.4,28
+711147483,1,46,F,3,mestrado,solteiro,menos que $40K,blue,28,2,3,2,8551.53,1097.06,32
+720990183,1,54,M,5,ensino medio,casado,$60K - $80K,blue,36,5,3,2,14539.96,965.7,26
+716608608,1,41,M,2,sem educacao formal,casado,$80K - $120K,blue,33,5,3,3,8004.11,1084.7,32
+788673708,1,57,F,2,ensino medio,casado,$40K - $60K,blue,45,2,3,1,1438.45,1254.68,35
+816600933,1,56,M,0,graduacao,casado,$80K - $120K,blue,51,3,3,2,14501.66,1031.48,25
+714208533,1,43,M,3,ensino medio,casado,$60K - $80K,blue,36,1,3,3,8663.4,916.04,33
+720426708,1,56,M,3,ensino medio,solteiro,$60K - $80K,blue,45,2,3,1,8512.67,811.43,27
+708983658,1,51,M,2,sem educacao formal,solteiro,$120K +,blue,39,3,1,3,16868.99,940.96,25
+778663458,1,65,M,1,ensino medio,casado,menos que $40K,blue,47,3,1,2,1759.11,821.3,18
+716024808,1,57,M,1,mestrado,casado,$80K - $120K,blue,36,3,3,3,4829.9,938.83,21
+721249158,1,42,M,2,sem educacao formal,solteiro,$60K - $80K,blue,30,2,3,2,6414.81,708.53,14
+713845083,1,41,F,4,ensino medio,solteiro,menos que $40K,blue,36,6,3,2,4203.33,1489.35,43
+813499458,1,45,M,5,ensino medio,na,$60K - $80K,blue,40,3,1,3,1438.72,2132.35,31
+712240083,1,38,F,3,na,solteiro,menos que $40K,blue,30,6,2,2,3730.45,858.77,22
+772532208,1,51,F,2,doutorado,casado,menos que $40K,blue,41,2,3,2,6630.97,842.92,24
+778929783,1,40,M,3,mestrado,divorciado,$80K - $120K,blue,22,2,3,2,1925.59,781.27,28
+713053383,1,42,M,3,mestrado,casado,$80K - $120K,blue,36,1,3,1,34516.5,853.49,12
+803595858,1,56,F,3,ensino medio,casado,$40K - $60K,blue,51,5,1,2,1438.91,594.41,14
+710754933,1,61,F,0,mestrado,casado,menos que $40K,blue,49,6,3,2,1438.14,840.38,20
+720007383,1,41,F,2,na,solteiro,na,blue,28,2,3,1,4411.05,803.78,15
+718362783,1,35,M,2,mestrado,casado,$80K - $120K,blue,27,3,3,2,12643.4,787.64,21
+708856983,1,36,M,3,doutorado,casado,$120K +,blue,27,2,2,1,13873.74,694.26,18
+709961958,1,58,F,4,ensino medio,divorciado,na,blue,45,4,1,1,21066,1060.73,32
+717412608,1,38,F,2,ensino medio,casado,$40K - $60K,blue,28,3,2,2,7225.61,738.47,16
+712120608,1,35,M,3,graduacao,casado,$80K - $120K,blue,27,3,3,2,3575.44,861.45,15
+710899833,1,36,M,2,mestrado,casado,$40K - $60K,blue,18,3,3,1,7758.21,569.87,23
+739594758,1,51,F,2,mestrado,solteiro,menos que $40K,blue,44,6,2,3,3181.84,818.87,16
+714078558,1,62,F,1,ensino medio,casado,$40K - $60K,blue,53,2,1,1,5249.39,1315.92,31
+779216358,1,48,M,2,graduacao,casado,$80K - $120K,blue,38,2,3,2,2111.64,773.25,17
+712924383,1,55,M,3,na,solteiro,$60K - $80K,blue,36,3,2,2,8411.79,990.51,22
+714983283,1,39,F,3,ensino medio,solteiro,menos que $40K,blue,36,6,3,1,3651.17,862.3,19
+710406633,1,51,F,3,sem educacao formal,casado,na,blue,36,3,2,3,3664.46,1168.03,31
+709991883,1,53,M,1,mestrado,casado,$80K - $120K,blue,42,2,2,1,6214.55,938.99,35
+809951133,1,54,M,3,graduacao,solteiro,$120K +,blue,49,3,3,2,34516.27,2115.23,24
+720141408,1,49,F,2,mestrado,solteiro,menos que $40K,blue,31,5,2,1,5456.89,1096.29,27
+768490458,1,49,M,2,sem educacao formal,casado,$80K - $120K,blue,43,1,3,3,5701.5,961.13,32
+712196508,1,46,F,3,ensino medio,solteiro,na,blue,34,4,3,3,29543.1,1015.03,27
+711159108,1,58,F,0,ensino medio,casado,menos que $40K,blue,36,3,2,2,7418.52,911.01,26
+713206683,1,40,M,4,mestrado,solteiro,$80K - $120K,silver,22,3,3,1,34516.01,1028.94,26
+778388358,1,56,M,3,mestrado,solteiro,$60K - $80K,blue,36,2,3,2,4742.58,870.54,24
+779722308,1,45,F,3,ensino medio,casado,$40K - $60K,blue,30,5,2,2,12355.2,1044.78,28
+713823033,1,31,F,2,na,casado,na,blue,20,3,2,1,8149.77,808.21,30
+787515333,1,40,M,3,sem educacao formal,casado,$80K - $120K,blue,29,3,3,2,3616.38,820.32,21
+710819733,1,56,M,3,mestrado,casado,$120K +,blue,36,5,1,1,12211.19,903.31,29
+818375733,1,51,F,2,graduacao,casado,$40K - $60K,blue,46,3,3,1,4882.12,1544.54,44
+709707033,1,45,M,3,mestrado,solteiro,$60K - $80K,blue,32,2,2,3,13162,1424.3,38
+721178583,1,37,F,3,mestrado,na,na,blue,22,2,2,3,5674.66,1096.12,29
+771544533,1,42,F,5,ensino medio,casado,na,blue,30,3,4,1,3578.09,1015.84,36
+708927108,1,53,M,2,mestrado,casado,$120K +,blue,36,1,2,3,12778.67,1133.98,28
+711772008,1,35,F,3,mestrado,solteiro,menos que $40K,blue,22,1,1,2,1890.92,1484,36
+708799983,1,40,M,1,doutorado,casado,$60K - $80K,blue,36,6,4,3,18386.78,1698.03,43
+718418958,1,30,M,1,doutorado,divorciado,menos que $40K,blue,36,6,4,2,5061.81,1309.5,38
+821179233,1,50,F,1,doutorado,solteiro,$40K - $60K,blue,46,1,3,3,1493.82,1554.37,43
+813752433,1,43,F,3,mestrado,solteiro,menos que $40K,blue,38,5,4,2,4075.5,2449.43,27
+708083283,1,58,M,0,na,solteiro,$40K - $60K,blue,45,3,3,1,3421.03,992.47,21
+806407308,1,54,F,3,graduacao,solteiro,na,blue,49,6,3,2,13184.39,2047.31,33
+758583708,1,37,F,3,mestrado,solteiro,menos que $40K,blue,24,2,4,1,2802.07,1406.69,28
+721003008,1,36,F,4,mestrado,casado,menos que $40K,blue,24,3,2,2,3261.45,856.21,18
+778708533,1,26,F,0,ensino medio,solteiro,$40K - $60K,blue,13,2,4,2,1730.81,869.43,27
+720122808,1,52,M,2,ensino medio,casado,$60K - $80K,silver,35,4,3,4,33180.91,797.73,14
+713259858,1,26,M,0,ensino medio,solteiro,$40K - $60K,blue,15,3,3,1,3324.61,982.3,22
+716053083,1,33,M,2,mestrado,casado,$120K +,blue,21,2,4,2,27992.96,837.22,18
+709537683,1,37,M,3,graduacao,casado,$80K - $120K,blue,30,3,3,4,11638.32,563.93,15
+790145733,1,40,M,3,graduacao,solteiro,$80K - $120K,silver,33,1,4,3,34516.73,1112.87,26
+711509658,1,61,M,2,mestrado,casado,$120K +,blue,49,3,4,0,11374.25,1088.96,26
+719818983,1,39,M,1,graduacao,divorciado,$80K - $120K,blue,28,1,4,3,12464.13,1195.86,35
+804668658,1,26,F,0,sem educacao formal,solteiro,menos que $40K,blue,20,3,4,2,1438.45,947.06,20
+720610008,1,59,M,1,graduacao,casado,$120K +,blue,50,1,4,5,15796.11,1339.9,23
+771028533,1,48,F,3,doutorado,casado,menos que $40K,silver,35,5,3,1,10357.97,911.09,25
+819610908,1,38,M,2,sem educacao formal,solteiro,$80K - $120K,blue,33,1,4,4,32938.39,1137,26
+816013383,1,65,F,0,mestrado,divorciado,menos que $40K,blue,56,3,3,6,6184.02,1712.6,27
+808273533,1,39,M,2,ensino medio,solteiro,$60K - $80K,blue,34,3,3,4,1818.6,2054.43,55
+785011383,1,36,F,0,sem educacao formal,divorciado,$40K - $60K,blue,30,1,4,3,2190.99,1412.18,38
+716382708,1,46,F,2,mestrado,solteiro,menos que $40K,blue,36,3,3,4,8309.29,1165.03,35
+711224733,1,32,M,0,ensino medio,casado,$120K +,blue,27,3,4,3,22382.75,695.31,10
+791856033,1,45,M,2,graduacao,divorciado,$80K - $120K,blue,39,3,4,4,34516.73,1041.56,27
+716448783,1,48,F,3,mestrado,casado,$40K - $60K,blue,39,2,3,4,6235.65,1225.43,34
+708892833,1,37,M,2,mestrado,casado,$120K +,blue,30,2,4,4,13662.61,725.03,22
+719318583,1,37,M,3,ensino medio,casado,menos que $40K,blue,26,3,4,3,6866.7,862.91,13
+720504633,1,46,M,2,sem educacao formal,na,$60K - $80K,blue,32,6,3,2,3254.13,967.76,24
+711357858,1,47,F,3,mestrado,solteiro,menos que $40K,blue,36,5,4,3,7246.31,777.75,13
+711816108,1,40,M,3,ensino medio,solteiro,$80K - $120K,blue,29,2,4,2,18563.58,2395.68,45
+713663508,1,58,M,0,ensino medio,na,$40K - $60K,blue,42,3,3,2,1438.31,1088.65,22
+789777408,1,26,F,0,doutorado,solteiro,menos que $40K,blue,15,3,3,2,1442.04,1134.53,26
+718577958,1,39,M,2,sem educacao formal,casado,$120K +,blue,26,2,4,3,8907,809.53,15
+717664008,1,37,M,3,graduacao,casado,$60K - $80K,blue,19,2,4,3,3100.72,694.36,12
+711562833,1,35,M,4,mestrado,casado,$80K - $120K,blue,24,6,4,3,12634.76,717.88,18
+720181758,1,37,M,0,doutorado,casado,$120K +,blue,22,3,4,3,8654.1,850.96,18
+720427683,1,58,M,2,sem educacao formal,solteiro,$120K +,blue,46,2,4,3,16163.43,2171.93,48
+711692508,1,54,F,2,doutorado,casado,menos que $40K,blue,47,3,3,4,1438.54,1154.13,22
+717930483,1,37,M,2,mestrado,solteiro,$120K +,blue,25,3,0,3,5616.16,1564.36,31
+715651833,1,65,M,1,na,solteiro,menos que $40K,blue,36,3,4,4,2351.21,1593.07,35
+715517733,1,46,F,3,ensino medio,solteiro,menos que $40K,silver,39,1,4,0,13092.13,936.35,25
+778693458,1,32,M,1,ensino medio,divorciado,$60K - $80K,blue,13,3,3,3,12616.57,1376.94,29
+712551258,1,39,M,1,sem educacao formal,casado,menos que $40K,blue,36,3,3,3,4247.5,847.35,17
+709564683,1,32,M,2,mestrado,casado,$40K - $60K,blue,22,3,5,3,4739.9,886.5,21
+772292358,1,30,M,1,graduacao,divorciado,menos que $40K,blue,19,4,3,3,7970.94,1284.94,30
+713021208,1,55,F,2,graduacao,solteiro,na,silver,36,2,3,3,34516.36,1353.03,40
+713104458,1,46,M,2,mestrado,solteiro,$40K - $60K,blue,31,3,5,3,7869.97,998.77,25
+715366083,1,52,F,0,doutorado,solteiro,menos que $40K,blue,36,2,3,2,1438.55,947.17,33
+716244033,1,44,M,3,mestrado,casado,$40K - $60K,blue,33,2,3,3,7266.74,1741.64,27
+787463508,1,26,M,0,mestrado,solteiro,menos que $40K,blue,13,5,4,2,2469.41,1027.24,20
+778381608,1,48,M,4,doutorado,solteiro,$80K - $120K,blue,28,3,4,3,6572.78,1766.5,46
+710586483,1,26,F,0,ensino medio,solteiro,na,blue,13,1,4,2,6152.78,968.62,23
+709164408,1,32,M,1,sem educacao formal,casado,menos que $40K,blue,23,1,3,3,2218.01,730.5,20
+709785783,1,35,F,0,mestrado,solteiro,menos que $40K,blue,25,5,4,3,2300.64,1485.39,34
+720185058,1,46,M,3,mestrado,casado,$60K - $80K,blue,36,2,4,3,4267.09,1067.16,23
+717813558,1,57,F,3,ensino medio,solteiro,na,blue,36,1,2,4,8389.36,1334.12,38
+719470458,1,46,M,3,graduacao,solteiro,$80K - $120K,blue,39,1,3,4,4026.51,1102.59,27
+715319958,1,48,M,3,sem educacao formal,casado,$120K +,blue,36,5,4,2,34516.76,1312.07,32
+714412308,1,33,M,3,mestrado,casado,$80K - $120K,blue,36,6,5,3,7140.89,916.26,18
+721243083,1,55,M,3,sem educacao formal,divorciado,$80K - $120K,blue,41,1,4,3,34516.43,1187.44,40
+798022683,1,43,M,1,mestrado,casado,$80K - $120K,blue,37,4,3,2,25517.33,2508.47,44
+716112933,1,39,F,3,mestrado,casado,na,blue,36,3,3,2,1575.2,644.06,15
+789853533,1,54,M,3,ensino medio,casado,$40K - $60K,blue,44,2,5,1,3032.66,1037.94,14
+806256333,1,41,M,4,mestrado,na,$60K - $80K,blue,36,2,5,3,1438.86,1786,26
+719146008,1,48,M,3,mestrado,casado,$80K - $120K,blue,39,4,3,4,18672.71,1126.9,35
+720693033,1,33,M,1,na,casado,$60K - $80K,blue,36,1,4,3,8925.37,741.56,10
+712784058,1,45,F,2,ensino medio,divorciado,na,blue,36,6,3,4,17156.02,1142.3,33
+789963033,1,54,F,1,mestrado,solteiro,menos que $40K,blue,45,3,5,5,1438.7,1603.17,39
+827984658,1,49,M,3,doutorado,casado,$80K - $120K,blue,45,3,4,0,23870.99,1885.14,39
+716331408,1,52,F,4,na,casado,menos que $40K,blue,36,1,5,4,2143.19,1353.98,36
+710524533,1,38,F,4,graduacao,casado,$40K - $60K,blue,36,4,4,4,4913.98,899.46,28
+709413933,1,56,M,2,ensino medio,solteiro,$40K - $60K,blue,40,2,4,6,2381.58,1920.71,46
+714967233,1,52,M,2,doutorado,casado,$120K +,blue,34,3,3,2,11188.03,2109.49,47
+787460883,1,41,M,3,sem educacao formal,casado,$40K - $60K,blue,28,3,4,3,11091.98,1234.42,34
+709206333,1,44,F,4,mestrado,solteiro,$40K - $60K,blue,30,3,4,4,4333.34,1558.66,40
+821149008,1,52,M,2,mestrado,solteiro,$80K - $120K,blue,48,6,4,2,34516.47,1661.37,40
+772273983,1,48,M,4,sem educacao formal,solteiro,$40K - $60K,blue,37,1,4,3,5268.84,2138.96,40
+719902908,1,51,M,3,na,casado,$80K - $120K,blue,36,3,3,3,5130.41,1434.26,31
+709163358,1,41,M,5,na,solteiro,$60K - $80K,gold,32,2,4,3,34516.87,1727.41,35
+708139833,1,40,M,3,mestrado,na,$60K - $80K,blue,30,4,3,2,6391.67,2323.68,44
+827476983,1,56,F,2,graduacao,solteiro,menos que $40K,blue,52,3,1,5,3639.14,1865.33,42
+708563433,1,65,F,0,ensino medio,solteiro,na,blue,56,3,3,6,5894.5,1616.72,32
+738627708,1,49,F,2,na,solteiro,na,blue,41,5,4,3,5984.25,1838.16,42
+771833433,1,49,M,2,ensino medio,casado,$80K - $120K,blue,38,3,4,2,29893.2,2063.84,48
+828291858,1,38,M,3,graduacao,solteiro,$60K - $80K,blue,34,6,4,3,12050.56,2381.91,40
+720725058,1,51,F,1,mestrado,solteiro,menos que $40K,blue,37,1,4,3,7176.29,1375.06,33
+711935283,1,55,M,5,doutorado,solteiro,$80K - $120K,blue,47,3,4,1,1438.54,1427.26,36
+716950758,1,46,M,4,ensino medio,casado,$60K - $80K,blue,36,1,2,3,8017.4,1657.08,43
+715570533,1,48,M,3,doutorado,na,$120K +,blue,35,2,6,2,34516.5,1632.15,44
+721532583,1,45,M,4,mestrado,casado,$80K - $120K,blue,36,5,4,3,12250.86,1995.11,39
+712623258,1,42,F,3,mestrado,casado,menos que $40K,blue,36,2,3,3,5505.72,2272.73,42
+720508233,1,62,M,0,na,solteiro,$40K - $60K,silver,42,3,4,4,17161.48,1898.36,42
+716387733,1,49,M,4,mestrado,solteiro,$60K - $80K,blue,36,1,5,4,5662.39,1693.61,25
+788739633,1,38,M,1,na,casado,$120K +,blue,16,3,4,1,2106.01,2136.37,40
+720758808,1,38,M,3,graduacao,solteiro,$60K - $80K,blue,18,5,5,1,16317.48,1995.94,54
+715858008,1,49,F,1,sem educacao formal,casado,$40K - $60K,blue,39,2,3,3,8061.54,1224.88,31
+813053733,1,53,M,4,na,solteiro,$120K +,blue,48,3,4,3,34516.47,3029.7,49
+720529308,1,63,M,0,ensino medio,solteiro,$60K - $80K,blue,48,5,1,3,1856.62,1805.63,46
+710658483,1,47,M,4,mestrado,na,$40K - $60K,blue,34,2,6,3,9080.38,2098.15,46
+710278458,1,52,M,2,ensino medio,solteiro,$80K - $120K,blue,43,4,3,3,11617.19,1643.28,43
+811035483,1,47,M,3,sem educacao formal,divorciado,$120K +,silver,42,2,5,4,34516.71,1641.94,35
+807593058,1,41,F,3,na,solteiro,$40K - $60K,blue,36,3,4,2,5317.83,2003.9,29
+788030208,1,42,F,2,sem educacao formal,solteiro,menos que $40K,silver,33,1,3,2,13453.69,1904.87,42
+720379533,1,47,M,3,na,na,$120K +,blue,36,1,4,3,3952.32,2066.07,37
+720983733,1,44,M,3,na,solteiro,$60K - $80K,blue,36,2,3,3,15422.52,2136,54
+719099583,1,42,M,3,mestrado,casado,$40K - $60K,blue,34,3,3,2,1640.36,1360.9,33
+710654808,1,46,M,4,mestrado,solteiro,$80K - $120K,blue,36,3,4,1,1818.32,2308.92,44
+711196458,1,38,F,1,na,casado,menos que $40K,blue,20,2,3,2,1621.14,1893.54,41
+709224033,1,53,M,4,sem educacao formal,solteiro,$60K - $80K,blue,43,1,2,3,13720.73,1830.66,36
+804673308,1,49,M,5,sem educacao formal,casado,$40K - $60K,blue,44,2,4,3,3893.38,1866.07,37
+767784708,1,48,M,0,doutorado,casado,$60K - $80K,blue,41,2,4,3,7277.09,2356.44,40
+716573058,1,54,F,3,doutorado,na,menos que $40K,blue,36,3,4,3,1438.31,1598.96,40
+716977758,1,44,F,3,sem educacao formal,casado,menos que $40K,blue,36,2,1,3,3675.28,1913.87,35
+817889583,1,61,F,0,mestrado,solteiro,$40K - $60K,blue,56,3,4,3,9721.51,2260.06,46
+717242058,1,43,F,5,mestrado,casado,menos que $40K,blue,39,2,4,3,3981.7,2134.16,42
+716306583,1,64,M,0,mestrado,solteiro,menos que $40K,blue,36,3,5,3,3812.88,2325.97,45
+721233033,1,50,M,2,ensino medio,solteiro,$80K - $120K,blue,38,1,3,2,4915.48,1474.31,36
+779502333,1,50,M,4,mestrado,solteiro,$120K +,silver,32,5,2,3,34516.84,1480.02,37
+803124408,1,41,F,3,na,casado,na,blue,35,2,5,3,11538.43,1926.72,53
+789964983,1,45,M,2,mestrado,divorciado,$40K - $60K,blue,36,2,4,2,9569.17,1724.72,35
+709297608,1,38,M,3,graduacao,solteiro,$80K - $120K,blue,26,3,2,3,1438.95,1585.37,32
+817977933,1,63,F,0,mestrado,solteiro,menos que $40K,blue,56,5,3,6,1931.7,2288.99,48
+714629358,1,54,F,3,mestrado,divorciado,$40K - $60K,blue,34,2,4,3,4948.82,1796.51,41
+711538758,1,39,M,5,mestrado,solteiro,$60K - $80K,blue,36,1,3,3,24657.38,1954.5,46
+719987733,1,51,F,3,na,solteiro,$40K - $60K,blue,38,3,3,3,5026.52,1844.22,37
+719657583,1,44,M,3,mestrado,casado,$40K - $60K,blue,40,2,6,2,9502.6,2310.89,57
+789713208,1,62,F,0,doutorado,solteiro,menos que $40K,blue,50,6,5,3,2936.48,2692.77,29
+715371108,1,45,M,3,mestrado,casado,$80K - $120K,blue,40,3,2,3,3728.9,1632.83,42
+796903083,1,47,F,1,doutorado,casado,$40K - $60K,blue,36,2,2,3,1438.1,2584.66,42
+772137183,1,52,M,2,mestrado,solteiro,$120K +,blue,41,1,1,3,31668.67,1822.35,36
+821768658,1,52,M,0,na,solteiro,$120K +,blue,48,4,5,5,13114.7,2474.15,51
+812449758,1,43,M,3,ensino medio,solteiro,$60K - $80K,blue,38,2,2,3,12254.92,2129.12,42
+815085708,1,60,F,0,ensino medio,solteiro,$40K - $60K,blue,55,1,5,5,10882.26,1861.06,46
+715485483,1,39,F,5,mestrado,casado,menos que $40K,blue,36,3,3,3,3664.08,1479.83,44
+794560833,1,47,F,3,mestrado,casado,$40K - $60K,blue,31,6,6,3,5496.89,1913.84,34
+718197108,1,54,M,2,mestrado,solteiro,$80K - $120K,blue,36,5,3,3,12342.23,1430.24,37
+710333883,1,48,M,3,mestrado,casado,$60K - $80K,blue,37,5,2,2,8808.79,1905.41,42
+789177333,1,47,F,2,mestrado,casado,menos que $40K,blue,36,6,2,3,1693.34,2104.39,40
+711079308,1,40,M,3,mestrado,casado,$60K - $80K,blue,27,4,3,2,15186.25,1884.4,33
+708733983,1,50,F,1,doutorado,solteiro,$40K - $60K,blue,36,6,2,3,5349.46,2122.81,46
+711205758,1,45,M,3,graduacao,solteiro,$80K - $120K,silver,33,1,3,3,34516.02,2534.11,43
+714659133,1,47,M,5,ensino medio,casado,$80K - $120K,blue,37,2,2,2,9410.26,2178.64,41
+716425833,1,38,M,2,mestrado,solteiro,$120K +,blue,36,5,1,2,34516.3,1797.63,35
+712164333,1,40,M,4,ensino medio,casado,$60K - $80K,blue,29,3,2,3,12544.84,1758.13,51
+826471458,1,42,M,3,mestrado,casado,menos que $40K,blue,38,2,3,3,6967.41,1919.85,38
+815851233,1,52,M,3,ensino medio,solteiro,$120K +,blue,47,6,3,1,19032.71,1726.12,42
+771776808,1,44,M,4,sem educacao formal,casado,$40K - $60K,blue,33,5,3,4,1527.96,1877.22,38
+789365508,1,49,M,2,ensino medio,divorciado,$40K - $60K,blue,39,2,4,3,14839.29,1453.63,26
+716404383,1,47,F,2,mestrado,casado,na,blue,36,1,2,3,18799.93,2315.55,52
+711843708,1,61,F,0,mestrado,divorciado,menos que $40K,blue,36,2,3,3,2125.12,2860.99,38
+718877883,1,44,F,3,na,solteiro,menos que $40K,blue,36,3,1,1,5644.09,2440.36,44
+719604858,1,45,F,3,na,casado,menos que $40K,blue,31,4,3,3,5941.53,2196.41,37
+714549558,1,41,F,2,mestrado,casado,$40K - $60K,blue,32,3,2,2,9576.16,2362.58,49
+822955008,1,63,M,1,mestrado,solteiro,$60K - $80K,blue,56,3,2,3,9569.38,2287.65,49
+711275433,1,47,M,4,sem educacao formal,na,na,blue,36,3,3,3,18873.65,2021.42,38
+827117808,1,45,M,1,mestrado,solteiro,$60K - $80K,blue,41,2,2,3,9904.45,1152.56,28
+804462633,1,43,F,3,ensino medio,divorciado,menos que $40K,blue,38,3,3,3,7084.59,2287.84,44
+709321908,1,47,M,3,ensino medio,solteiro,$80K - $120K,blue,29,2,3,2,7498.7,1676.63,51
+712597233,1,37,M,2,sem educacao formal,na,$40K - $60K,blue,36,2,2,3,3250.69,1714.42,32
+719816583,1,46,M,3,doutorado,casado,$120K +,blue,38,3,2,2,8989.35,2309.42,49
+713004933,1,40,M,3,ensino medio,casado,$60K - $80K,blue,27,3,1,2,6813.22,2634.38,51
+772466508,1,45,M,3,na,solteiro,$60K - $80K,blue,35,6,1,2,18004.47,2030.38,45
+737921733,1,62,F,1,na,solteiro,menos que $40K,blue,55,3,3,3,1892.59,1581.31,34
+716575758,1,50,F,2,graduacao,na,na,blue,39,2,2,3,1438.05,1859.35,41
+714097683,1,55,F,2,mestrado,casado,$40K - $60K,blue,49,3,4,3,1809.91,2123.29,44
+708121908,1,48,M,4,na,casado,$80K - $120K,blue,36,2,2,3,22917.99,2045.56,45
+709435533,1,53,F,1,na,solteiro,menos que $40K,blue,41,2,2,3,3099.64,1401.11,44
+719874633,1,44,M,1,ensino medio,na,$80K - $120K,gold,36,2,3,2,34516.45,1891.94,34
+719168883,1,45,F,5,na,solteiro,menos que $40K,blue,34,1,1,4,5155.71,2753.9,45
+714212358,1,38,F,3,ensino medio,solteiro,na,blue,36,1,2,3,5260.04,2142.2,57
+721104708,1,41,F,3,doutorado,solteiro,menos que $40K,blue,36,1,1,3,2067.7,3033.43,41
+717461283,1,38,F,2,mestrado,solteiro,na,blue,24,3,3,2,2214.38,2066.16,45
+803028858,1,38,F,2,mestrado,solteiro,menos que $40K,blue,32,2,3,3,3775.57,2031.6,36
+712751133,1,42,M,3,doutorado,solteiro,$60K - $80K,blue,35,3,3,3,11328.07,1829.03,42
+708170508,1,38,M,2,mestrado,casado,$60K - $80K,blue,36,2,2,3,1438.61,1651.49,42
+719770158,1,54,F,3,doutorado,solteiro,menos que $40K,blue,49,1,3,4,8516.67,2189.03,37
+716271183,1,45,F,2,sem educacao formal,solteiro,menos que $40K,blue,37,3,2,2,8924.78,1720.02,42
+816261858,1,61,M,0,mestrado,solteiro,$40K - $60K,blue,56,2,4,5,3984.36,1821.23,39
+721308033,1,45,F,2,doutorado,solteiro,menos que $40K,blue,37,3,1,3,3036.88,2609.11,42
+774760458,1,62,F,1,ensino medio,na,$40K - $60K,blue,56,3,1,5,3807.15,1739.69,36
+804415083,1,45,M,3,na,casado,$60K - $80K,blue,40,3,3,5,4097.13,2611.24,51
+771424908,1,38,M,2,na,na,$60K - $80K,blue,26,2,3,2,11252.69,1766.53,31
+711012783,1,43,M,4,mestrado,solteiro,$120K +,blue,36,1,4,3,33384.09,2066.39,46
+708788583,1,64,F,1,graduacao,na,menos que $40K,blue,56,3,2,1,6167.48,1648.1,43
+819714408,1,44,F,2,mestrado,casado,na,blue,39,6,3,3,5666.39,1981.48,42
+713730933,1,53,F,4,mestrado,casado,menos que $40K,blue,36,2,5,3,1438.72,1739.6,44
+712235433,1,43,F,1,mestrado,solteiro,menos que $40K,blue,36,2,2,3,2886.23,2326.27,50
+714377058,1,63,F,1,na,solteiro,menos que $40K,blue,36,3,4,3,1896.79,2186.52,50
+708654933,1,51,F,2,doutorado,casado,menos que $40K,platinum,42,3,3,2,15987.53,2021.11,46
+720283758,1,44,F,2,sem educacao formal,casado,na,blue,36,1,3,3,13735.41,1783.31,43
+718735908,1,47,M,4,mestrado,solteiro,$120K +,blue,35,3,3,4,7015.71,1799.22,51
+804833058,1,49,M,3,na,solteiro,$80K - $120K,blue,44,1,4,3,4384.31,1832.94,49
+713639058,1,49,M,3,ensino medio,casado,$60K - $80K,blue,34,6,3,3,1511.73,1329.37,35
+709560258,1,49,F,3,mestrado,solteiro,na,blue,31,2,4,3,4946.64,2239.99,38
+720362058,1,57,M,2,sem educacao formal,solteiro,$60K - $80K,silver,49,4,3,3,32182.25,1937.88,46
+719602908,1,42,F,2,doutorado,solteiro,$40K - $60K,blue,34,3,3,3,5667.77,2064.78,42
+709713033,1,55,M,1,graduacao,solteiro,$80K - $120K,blue,48,3,3,3,6846.66,1735.85,35
+708633783,1,43,M,3,sem educacao formal,solteiro,$80K - $120K,blue,30,3,4,2,11336.87,1809.17,39
+720950283,1,47,M,3,ensino medio,casado,$80K - $120K,blue,34,3,3,3,21359.44,2064.16,63
+717840108,1,48,M,4,na,casado,$80K - $120K,blue,41,2,6,3,4806.09,1771.5,35
+715016508,1,42,F,3,ensino medio,casado,$40K - $60K,blue,36,1,4,3,4527.17,2441.38,37
+781306758,1,58,M,2,sem educacao formal,solteiro,$80K - $120K,blue,52,1,4,2,3091.44,1844.15,49
+712294083,1,54,F,2,ensino medio,solteiro,na,blue,44,4,4,3,3778.3,2367.54,45
+711334983,1,41,F,3,ensino medio,casado,na,blue,32,1,4,2,26229.59,2077.31,46
+716434533,1,40,M,3,ensino medio,casado,$80K - $120K,blue,36,2,4,3,29149.36,2106.71,56
+828215508,1,55,F,2,mestrado,na,menos que $40K,blue,50,4,3,4,1438.56,1785.54,33
+712812408,1,40,F,3,na,casado,menos que $40K,blue,28,2,3,3,1535.52,1921.36,41
+713585958,1,48,F,4,graduacao,casado,menos que $40K,blue,36,2,2,3,5997.25,1457.11,42
+710493558,1,46,F,1,doutorado,casado,$40K - $60K,blue,38,3,2,2,1803.83,1979.95,37
+827964858,1,58,F,1,sem educacao formal,divorciado,na,blue,54,3,3,5,3266.9,2151.06,46
+773667708,1,50,M,1,mestrado,divorciado,$60K - $80K,blue,44,3,3,4,7050.22,2176.91,39
+812979408,1,39,F,0,na,casado,$40K - $60K,silver,34,3,3,0,15142.05,2458.63,41
+806947308,1,40,M,4,doutorado,casado,$60K - $80K,blue,35,3,3,4,20178.95,1735.26,44
+708386958,1,47,F,3,na,casado,menos que $40K,blue,34,3,2,3,1561.24,1947.09,28
+718220358,1,58,M,1,mestrado,solteiro,$120K +,blue,36,2,4,3,28618.22,1712.21,41
+712656783,1,49,M,1,mestrado,solteiro,$120K +,blue,36,3,3,4,8136.05,2179.1,40
+738899658,1,45,F,2,mestrado,solteiro,na,blue,38,6,3,2,3120.38,2468.97,43
+714727833,1,41,F,2,sem educacao formal,solteiro,menos que $40K,blue,36,2,3,2,2892.88,2257.97,48
+708834483,1,46,M,2,doutorado,casado,$80K - $120K,blue,29,1,5,2,17667.93,1775.53,42
+720598308,1,47,M,4,sem educacao formal,solteiro,$120K +,blue,37,3,6,2,34516.6,1736.17,35
+815353083,1,44,M,1,graduacao,divorciado,$80K - $120K,silver,39,2,2,3,34516.73,1853.88,36
+712050933,1,48,M,4,graduacao,casado,$80K - $120K,blue,32,5,3,2,25190.82,1533.03,41
+717592758,1,44,F,3,na,solteiro,menos que $40K,blue,36,3,2,2,1606.81,2418.87,44
+708687483,1,54,F,4,mestrado,solteiro,menos que $40K,silver,36,3,3,2,13626.16,1711.52,30
+768256908,1,45,M,3,sem educacao formal,casado,menos que $40K,blue,39,3,4,3,8580.03,1880.36,37
+721451208,1,54,M,2,mestrado,solteiro,$60K - $80K,silver,45,2,2,3,30540.13,1980.53,36
+714751158,1,49,M,2,ensino medio,divorciado,$80K - $120K,blue,36,4,4,2,34516.43,1789.85,48
+718342158,1,38,F,4,mestrado,solteiro,menos que $40K,blue,26,2,2,2,4391.66,1849.81,36
+716654808,1,48,M,4,ensino medio,solteiro,$120K +,blue,39,3,4,4,24593.41,2084.58,31
+716390958,1,45,M,4,na,casado,$120K +,blue,31,1,3,4,26107.69,1697.4,47
+716564433,1,53,F,1,mestrado,solteiro,menos que $40K,blue,36,3,4,2,4287.11,1635.77,41
+716022258,1,51,F,3,graduacao,solteiro,menos que $40K,blue,36,3,3,3,8960.48,1853.71,40
+778433283,1,51,M,3,ensino medio,casado,$60K - $80K,blue,31,3,3,3,8989.28,2031.3,53
+811527933,1,65,F,0,graduacao,solteiro,menos que $40K,silver,56,3,3,4,10885.54,2291.62,39
+778617708,1,46,M,3,graduacao,casado,$80K - $120K,blue,26,6,3,2,1438.54,2299.27,40
+772574283,1,50,F,2,mestrado,casado,$40K - $60K,blue,40,3,4,1,7191.31,1654.59,30
+714972558,1,37,F,2,mestrado,solteiro,menos que $40K,blue,36,2,0,3,1610.86,2729.96,45
+709709283,1,38,M,3,graduacao,solteiro,$40K - $60K,blue,19,1,4,2,3458.29,2256.65,40
+780105483,1,65,F,0,sem educacao formal,solteiro,menos que $40K,blue,50,3,4,4,1697.36,2799.69,49
+715294083,1,46,M,2,graduacao,solteiro,$80K - $120K,blue,38,2,2,3,10309.52,1760.7,40
+716711433,1,48,M,5,ensino medio,casado,$40K - $60K,blue,39,3,1,3,7897.07,2270.44,46
+711588708,1,50,F,2,sem educacao formal,casado,$40K - $60K,blue,36,1,1,3,1438.41,1863.11,42
+714492783,1,46,F,4,sem educacao formal,casado,menos que $40K,blue,36,3,3,3,1438.06,1517.29,38
+709192233,1,50,F,2,na,casado,na,blue,39,3,1,2,1773.86,1764.27,30
+718791708,1,48,M,2,ensino medio,casado,$80K - $120K,blue,32,1,4,2,16362.06,2228.83,37
+772695033,1,47,M,5,ensino medio,solteiro,$80K - $120K,blue,37,3,4,4,18800.95,1575.61,23
+708831858,1,43,F,3,sem educacao formal,casado,menos que $40K,blue,30,1,4,3,4579.33,1915.87,44
+780006783,1,59,M,1,sem educacao formal,solteiro,$40K - $60K,silver,49,3,2,2,15809.85,3109.16,48
+771342183,1,53,F,3,mestrado,solteiro,$40K - $60K,blue,40,6,2,3,1625.63,2314.37,43
+712901283,1,53,F,2,mestrado,solteiro,$40K - $60K,blue,36,2,2,3,2121.86,1464.82,32
+718473558,1,42,F,3,doutorado,solteiro,menos que $40K,blue,18,5,4,3,8668.78,1402.89,38
+709708233,1,49,F,3,doutorado,casado,menos que $40K,blue,29,3,2,4,7066.25,1695.4,38
+709178733,1,50,F,2,doutorado,casado,$40K - $60K,blue,36,3,3,2,5527.67,2281.42,37
+713253858,1,50,F,1,graduacao,casado,na,blue,37,2,3,2,1461.09,2177,40
+803796708,1,52,M,3,sem educacao formal,na,$120K +,blue,46,2,4,4,13354.4,1097.88,28
+717368208,1,49,M,1,mestrado,solteiro,$120K +,blue,36,6,4,2,26723.04,2138.1,43
+772341783,1,45,F,3,ensino medio,solteiro,na,blue,35,3,6,2,3512.84,1801.65,48
+715409733,1,47,F,4,graduacao,solteiro,menos que $40K,blue,36,2,3,2,2263.53,2385.59,33
+715732533,1,52,M,4,mestrado,casado,$60K - $80K,blue,36,4,3,1,9375.65,2108.47,51
+713722608,1,48,F,2,na,divorciado,menos que $40K,blue,35,3,4,1,2806.69,1757.06,35
+709101258,1,41,F,2,ensino medio,divorciado,menos que $40K,blue,28,4,2,2,1478.54,2180.22,46
+721427358,1,47,M,4,na,divorciado,$80K - $120K,blue,28,6,3,1,8757.1,2108.5,47
+709338633,1,56,F,1,mestrado,solteiro,$40K - $60K,blue,37,2,3,4,2339.49,1542.79,45
+711245433,1,50,F,4,mestrado,solteiro,na,blue,41,5,3,3,2509.38,2281.56,41
+717195933,1,42,M,3,mestrado,casado,$60K - $80K,blue,30,2,3,2,5298.88,2431.6,37
+708801108,1,57,F,3,sem educacao formal,solteiro,menos que $40K,blue,51,3,3,0,1438.32,2113.46,38
+789382758,1,54,M,3,mestrado,solteiro,$40K - $60K,blue,44,6,3,3,5501.94,2050.23,51
+721437333,1,46,M,2,mestrado,solteiro,$80K - $120K,blue,36,2,2,2,5054.04,2027.48,39
+711626658,1,62,F,1,ensino medio,solteiro,menos que $40K,blue,36,2,4,3,1930.02,1971.62,45
+717793983,1,55,M,3,mestrado,solteiro,$40K - $60K,silver,45,2,1,3,18128.87,2503.64,49
+714119283,1,42,F,2,na,solteiro,$40K - $60K,blue,34,3,3,3,2516.85,2257.55,51
+799239033,1,53,F,3,ensino medio,solteiro,$40K - $60K,blue,47,1,4,3,1714.39,2279.48,46
+814483608,1,47,F,4,mestrado,divorciado,menos que $40K,blue,42,1,3,3,5798.86,1860.56,43
+715514133,1,44,F,4,mestrado,casado,menos que $40K,blue,31,3,4,3,2184.88,1973.66,42
+794707083,1,50,M,2,graduacao,solteiro,$80K - $120K,blue,44,5,4,2,3495.19,2131.28,41
+805313808,1,52,F,3,ensino medio,casado,$40K - $60K,blue,47,2,3,2,8018.93,2409.75,38
+772922883,1,41,M,3,na,casado,$80K - $120K,blue,22,3,4,3,20543.93,1874.21,42
+713333433,1,49,M,3,sem educacao formal,na,$60K - $80K,blue,41,3,4,4,18075.62,1477.7,30
+787921383,1,53,M,0,ensino medio,solteiro,$120K +,silver,44,2,4,4,34516.05,1461.57,43
+807584958,1,50,M,3,sem educacao formal,casado,$60K - $80K,blue,45,2,5,2,21096.23,1882.41,39
+715405758,1,50,F,1,ensino medio,solteiro,na,blue,42,5,4,0,10057.66,2383.99,42
+718515483,1,64,M,0,mestrado,solteiro,menos que $40K,blue,52,2,5,3,3570.21,3289.82,47
+715664808,1,43,M,2,mestrado,solteiro,$80K - $120K,blue,30,3,3,3,34516.09,2427.76,51
+720551733,1,46,F,4,doutorado,casado,na,blue,26,3,6,3,15195.6,2631.04,41
+710533233,1,38,F,1,mestrado,casado,menos que $40K,blue,29,3,4,3,1438.72,2139.87,47
+720197058,1,47,F,3,mestrado,na,na,blue,33,1,4,3,3443.6,2505.86,45
+716317458,1,51,F,2,doutorado,solteiro,menos que $40K,blue,36,3,3,3,4281.14,1723.41,44
+717035283,1,46,M,1,mestrado,solteiro,$60K - $80K,blue,37,2,4,3,2445.58,2216.04,39
+718110858,1,42,M,4,na,casado,$40K - $60K,blue,36,2,5,3,1606.58,2628.99,41
+803113383,1,55,F,1,sem educacao formal,solteiro,menos que $40K,blue,49,3,3,4,3292.4,2222.27,54
+721273008,1,54,F,1,graduacao,na,menos que $40K,silver,43,6,4,3,10797.48,1739.42,38
+820282383,1,45,F,2,mestrado,casado,menos que $40K,blue,40,6,3,3,5848.71,2000.06,32
+712693908,1,43,M,3,mestrado,casado,$120K +,blue,31,2,1,4,13883.24,1871.83,32
+708642708,1,40,F,2,sem educacao formal,casado,na,blue,36,3,3,2,13019.82,1484.93,33
+811475733,1,53,F,1,graduacao,casado,$40K - $60K,blue,48,2,3,2,3339.29,2432.3,48
+713788083,1,28,F,1,mestrado,solteiro,menos que $40K,blue,36,4,5,2,1624.52,1897.07,35
+780067158,1,51,F,2,sem educacao formal,solteiro,menos que $40K,blue,36,2,3,3,1746.86,1907.79,47
+809599158,1,48,M,4,sem educacao formal,solteiro,$80K - $120K,silver,43,2,4,3,34516.54,1626.54,28
+709798908,1,45,F,4,na,solteiro,menos que $40K,blue,32,3,4,3,2858.25,2611.09,43
+708084558,1,46,M,3,doutorado,divorciado,$80K - $120K,blue,38,6,3,3,8258.61,1447.53,23
+718711158,1,52,M,3,mestrado,casado,$120K +,blue,36,1,3,2,3841.23,2680.34,51
+709143183,1,52,F,2,doutorado,casado,$40K - $60K,blue,43,3,4,2,1822.43,2538.25,39
+821759658,1,41,F,4,ensino medio,divorciado,$40K - $60K,blue,37,3,3,2,4650.51,2014.19,54
+712783083,1,48,F,4,ensino medio,casado,menos que $40K,blue,37,1,3,2,3607.74,2013.39,35
+821749608,1,41,M,3,mestrado,solteiro,$80K - $120K,blue,37,3,3,3,19402.85,1937.37,51
+826261008,1,48,F,3,mestrado,na,menos que $40K,blue,44,3,2,3,1438.64,2054.57,46
+709444983,1,38,F,3,sem educacao formal,solteiro,$40K - $60K,blue,30,3,3,2,2435.02,1460.98,32
+769575783,1,49,F,3,graduacao,casado,menos que $40K,blue,41,3,3,3,1603.52,2644.24,43
+709563258,1,50,F,2,sem educacao formal,solteiro,na,blue,41,2,2,3,2751.23,2108.1,40
+712257258,1,50,F,1,ensino medio,solteiro,menos que $40K,blue,36,4,5,2,1457.34,1441.51,39
+708916083,1,49,F,0,doutorado,na,menos que $40K,blue,37,5,3,2,1749.92,2510.15,38
+778364583,1,45,F,2,mestrado,casado,menos que $40K,blue,25,3,3,2,5911.61,1656.48,31
+717308433,1,49,M,5,sem educacao formal,na,$60K - $80K,blue,43,3,3,3,1960.63,2253.9,39
+713796033,1,47,M,2,mestrado,casado,$40K - $60K,blue,42,6,3,3,4738.86,1900.29,36
+710812533,1,46,F,3,ensino medio,solteiro,na,silver,36,4,3,2,34516.15,1987.38,46
+714864333,1,43,M,2,graduacao,divorciado,$120K +,blue,37,4,2,1,34516.31,1370.56,38
+720810783,1,54,F,2,mestrado,casado,na,blue,44,2,3,3,3781.23,2310.98,43
+715987758,1,49,M,3,mestrado,solteiro,$80K - $120K,blue,36,3,1,2,3261.65,3081.24,50
+713388108,1,62,F,0,ensino medio,na,menos que $40K,blue,51,4,3,2,5210.56,2162.07,36
+719917233,1,49,M,3,doutorado,casado,$80K - $120K,blue,36,3,2,3,13382.63,1828.33,45
+717103758,1,63,M,0,mestrado,solteiro,na,blue,55,5,2,0,18550.42,2616.22,42
+721365033,1,37,M,3,sem educacao formal,solteiro,$40K - $60K,blue,36,3,4,2,1696.94,2095.44,43
+810974958,1,51,M,2,ensino medio,casado,$60K - $80K,blue,46,5,2,3,4123.22,2447.3,40
+712267983,1,57,F,0,mestrado,solteiro,menos que $40K,blue,45,4,3,3,3023.78,2477.98,42
+718250883,1,59,F,2,ensino medio,casado,na,blue,51,3,3,3,3875.64,2312.08,49
+802243458,1,48,M,2,doutorado,solteiro,$40K - $60K,blue,42,6,2,3,2760.66,1759.51,34
+720330558,1,44,M,3,mestrado,casado,$80K - $120K,blue,25,5,3,2,25256.83,2048.9,40
+720784833,1,48,F,3,mestrado,solteiro,na,blue,36,3,1,3,1630.8,1884.81,43
+721448283,1,39,F,1,mestrado,solteiro,menos que $40K,blue,26,3,1,3,1876.62,2579.51,47
+710552733,1,42,M,5,na,casado,$60K - $80K,blue,36,2,2,3,4963.18,2335.6,40
+714384783,1,59,F,1,mestrado,casado,menos que $40K,blue,36,2,3,3,2468.94,2017.48,37
+713847858,1,49,F,3,mestrado,divorciado,menos que $40K,blue,36,3,3,3,1438.75,1849.39,43
+810875958,1,51,F,3,mestrado,casado,menos que $40K,blue,46,1,3,4,2016.93,2473.95,44
+718766058,1,56,M,2,mestrado,solteiro,$80K - $120K,blue,36,1,2,2,1438.03,2123.8,37
+709309308,1,50,M,3,graduacao,na,$80K - $120K,blue,37,1,2,3,27186.55,1704.62,34
+711721458,1,50,F,2,mestrado,na,menos que $40K,blue,36,5,2,2,1438.41,2329.24,43
+708798483,1,37,F,3,na,solteiro,na,blue,24,2,2,3,2054.66,2567.44,43
+708501783,1,43,M,2,ensino medio,casado,$120K +,blue,36,6,4,2,34516.86,1868.06,40
+719328858,1,56,M,4,ensino medio,casado,$60K - $80K,blue,43,6,6,2,4535.93,2342.22,40
+803800533,1,39,M,1,na,solteiro,$40K - $60K,blue,33,3,4,3,2088.54,2866.82,59
+718352358,1,49,F,3,doutorado,casado,menos que $40K,blue,35,3,2,3,1914.69,2687.65,41
+719894433,1,43,F,4,na,casado,menos que $40K,blue,24,6,3,2,1679.4,2492.04,43
+778720533,1,53,F,4,mestrado,casado,menos que $40K,blue,37,3,3,2,1722.9,2141.11,35
+709488108,1,42,M,4,graduacao,solteiro,$40K - $60K,blue,36,5,3,2,10543.7,1841.17,39
+820276908,1,42,F,4,graduacao,casado,$40K - $60K,blue,37,3,1,3,4139.64,2232.75,41
+819647358,1,38,M,2,na,solteiro,$60K - $80K,blue,33,2,2,3,12871.76,2414,53
+789502308,1,57,F,3,na,solteiro,menos que $40K,blue,49,1,5,3,1551.38,2379.02,46
+802834158,1,42,M,4,na,casado,$60K - $80K,blue,36,3,2,2,6743.55,1934.09,30
+712038258,1,48,M,4,na,solteiro,$80K - $120K,blue,36,3,3,3,32838.07,2538.81,42
+712864683,1,42,F,3,doutorado,solteiro,menos que $40K,blue,30,2,3,3,1438.5,1693.58,37
+713886333,1,47,M,2,ensino medio,casado,$60K - $80K,blue,39,2,1,3,18660.76,1682.23,43
+711741708,1,41,M,3,doutorado,na,$80K - $120K,blue,33,3,3,2,7591.26,2302.05,42
+778915233,1,51,F,0,mestrado,casado,menos que $40K,blue,32,4,3,2,1757.63,2377.62,47
+780146658,1,40,F,2,doutorado,casado,$40K - $60K,blue,25,2,4,2,3795.98,1633.96,32
+755467683,1,48,F,1,mestrado,solteiro,menos que $40K,blue,41,6,4,2,3001.57,2403.05,42
+708804633,1,44,F,2,doutorado,divorciado,menos que $40K,blue,36,1,2,2,1916.22,2888.09,39
+714479358,1,51,M,3,mestrado,solteiro,$80K - $120K,blue,36,6,3,3,3610.93,2216.88,34
+769438608,1,48,F,1,mestrado,casado,menos que $40K,blue,42,3,2,3,1942.71,2522.38,42
+713608383,1,54,F,1,na,casado,menos que $40K,blue,40,1,4,1,1438.89,1632.05,36
+720867708,1,45,F,4,mestrado,na,menos que $40K,blue,33,1,2,3,1748.73,2335.66,41
+721126833,1,51,M,2,ensino medio,casado,$80K - $120K,blue,41,5,3,2,14902.95,2038.53,39
+712807758,1,47,F,3,mestrado,solteiro,menos que $40K,blue,39,3,3,3,1438.3,2476.19,32
+824140908,1,52,M,3,sem educacao formal,solteiro,$120K +,blue,48,5,4,3,20974.65,1246.47,27
+720444408,1,35,F,1,graduacao,solteiro,menos que $40K,blue,25,2,4,2,2231.99,2576.89,42
+789358908,1,53,F,3,graduacao,casado,menos que $40K,blue,43,3,2,2,3573.15,2562.6,36
+797491683,1,45,M,5,na,casado,$80K - $120K,silver,39,2,3,2,34516.86,2234.59,49
+709170108,1,60,F,1,na,solteiro,$40K - $60K,blue,41,3,4,2,2425.22,1522.11,36
+716056158,1,63,M,0,mestrado,solteiro,$60K - $80K,blue,51,3,3,3,11619.14,2395.06,49
+715406658,1,47,F,1,na,solteiro,menos que $40K,blue,37,4,1,2,2173.04,2738.27,45
+773228133,1,39,F,2,mestrado,casado,menos que $40K,blue,29,3,2,2,1677.78,2437.39,41
+716625033,1,32,F,1,mestrado,solteiro,menos que $40K,blue,36,3,6,3,2761.49,2753.44,43
+716782758,1,48,M,3,mestrado,solteiro,$60K - $80K,blue,42,3,4,2,19075.63,2013.95,32
+708797583,1,49,F,4,na,solteiro,na,blue,31,6,3,3,2672.58,2576.71,39
+708809283,1,41,F,4,mestrado,divorciado,$40K - $60K,blue,33,1,1,3,10360.44,2414.79,28
+711100608,1,55,M,1,sem educacao formal,solteiro,$60K - $80K,blue,48,5,2,2,1723.67,2574.72,43
+768624258,1,55,F,2,mestrado,solteiro,menos que $40K,blue,49,2,2,1,1583.05,2541.27,36
+780126033,1,50,M,4,na,casado,$40K - $60K,blue,35,6,5,1,12914.8,2082.64,54
+719174433,1,36,F,1,na,solteiro,menos que $40K,blue,24,2,2,1,1735.13,2467.44,35
+714346608,1,51,F,2,mestrado,solteiro,$40K - $60K,blue,36,3,4,1,1495.52,2220.53,50
+798481383,1,40,F,3,sem educacao formal,casado,menos que $40K,blue,34,5,2,1,2694.04,2684.92,38
+823904133,1,53,F,2,graduacao,solteiro,na,blue,49,2,4,2,10195.76,2489.55,54
+711646908,1,39,M,3,na,solteiro,$60K - $80K,blue,23,1,3,2,7821.11,2010.39,43
+718171308,1,44,F,3,mestrado,casado,menos que $40K,blue,36,6,4,3,1984.69,2506.47,46
+770024733,1,53,F,2,sem educacao formal,solteiro,$40K - $60K,blue,47,1,3,2,1699.21,2520.76,49
+708702258,1,40,F,3,sem educacao formal,solteiro,na,blue,36,3,2,2,3698.08,2051.27,31
+720519333,1,59,F,2,na,solteiro,na,blue,45,1,3,3,2721.59,2594.28,48
+717001908,1,41,F,5,mestrado,casado,menos que $40K,blue,28,6,2,2,6936.31,2874.01,44
+719564208,1,46,F,1,sem educacao formal,solteiro,$40K - $60K,blue,30,3,1,2,7195.35,2751.84,47
+713229633,1,45,F,0,na,casado,$40K - $60K,blue,30,3,4,2,2759.62,2061.25,47
+798041508,1,50,F,4,mestrado,solteiro,menos que $40K,blue,44,2,2,3,3201.07,1880.99,42
+715014633,1,32,F,0,sem educacao formal,casado,na,blue,36,6,2,3,8791.02,2579.68,51
+714372333,1,59,F,0,doutorado,casado,menos que $40K,blue,52,6,2,4,2302.22,2256.82,40
+779320008,1,43,M,3,graduacao,casado,$80K - $120K,blue,25,3,3,3,2900.87,2180.46,31
+713153733,1,49,F,2,mestrado,na,menos que $40K,blue,29,6,3,3,2520.7,2061.58,36
+780201633,1,41,F,3,mestrado,solteiro,$40K - $60K,blue,31,4,2,3,5655,2189.07,51
+788095158,1,52,M,3,sem educacao formal,casado,$80K - $120K,blue,44,3,3,3,11606.31,2623.02,39
+716855058,1,49,F,4,mestrado,casado,menos que $40K,blue,38,5,4,2,1757.07,2557.23,45
+709500183,1,46,F,3,graduacao,casado,menos que $40K,blue,36,2,4,3,1804.79,2077.67,44
+715445058,1,49,F,0,doutorado,casado,menos que $40K,blue,40,3,4,4,3547.09,2715.39,45
+718524783,1,40,M,3,ensino medio,na,$80K - $120K,blue,34,1,4,3,29715.59,2128.32,39
+708117933,1,44,F,2,mestrado,divorciado,menos que $40K,blue,36,3,3,2,1880.06,2469.56,34
+712777233,1,65,M,0,mestrado,solteiro,na,blue,48,1,3,4,1671.72,2701.85,51
+712706058,1,44,F,5,mestrado,solteiro,menos que $40K,blue,37,1,4,2,1491.48,1970.83,46
+720905133,1,43,M,3,mestrado,na,$80K - $120K,blue,29,1,6,2,11422.32,2439.35,45
+712947333,1,54,F,4,na,casado,menos que $40K,blue,43,3,0,3,5139.05,1653.33,44
+711871758,1,30,F,1,mestrado,casado,menos que $40K,blue,36,2,3,2,2905.69,2487.91,39
+719519058,1,55,F,4,ensino medio,casado,menos que $40K,blue,36,4,3,2,1477.81,2419.5,49
+716873733,1,43,F,4,doutorado,divorciado,menos que $40K,blue,30,4,3,3,3556.66,2639.98,53
+720206658,1,40,F,3,mestrado,casado,menos que $40K,blue,29,6,4,2,1479.81,1811.33,44
+713857758,1,53,F,1,mestrado,casado,na,blue,36,6,1,3,5842.37,1828.82,44
+710674533,1,46,M,1,sem educacao formal,casado,$60K - $80K,blue,34,3,4,3,15060.34,1611.71,42
+717448383,1,41,M,4,na,solteiro,$80K - $120K,blue,28,1,4,2,4428.33,2331.13,36
+716307558,1,50,F,3,ensino medio,casado,menos que $40K,blue,40,6,4,2,2897.48,2214.15,46
+781320783,1,47,M,2,mestrado,divorciado,$80K - $120K,blue,41,3,3,2,4586.26,2529.39,43
+714100008,1,47,F,2,graduacao,casado,menos que $40K,blue,36,6,3,2,5667.83,2176.81,38
+708223383,1,47,F,3,ensino medio,casado,na,blue,39,6,4,3,11410.93,2736.63,38
+708705783,1,47,M,3,doutorado,casado,$60K - $80K,blue,36,6,1,3,1584.66,2628.75,41
+709017258,1,51,F,2,na,casado,menos que $40K,blue,36,1,2,2,2114.34,2872.21,45
+709161108,1,44,M,1,na,solteiro,$60K - $80K,blue,33,3,4,2,2540.22,1531.52,31
+714089658,1,41,M,2,mestrado,solteiro,$60K - $80K,blue,36,3,1,2,2238.86,2063.47,42
+718863258,1,54,F,2,doutorado,casado,menos que $40K,blue,41,2,3,2,3881.92,2463,38
+713283933,1,42,M,2,sem educacao formal,casado,$40K - $60K,blue,30,1,3,3,3032.39,2273.56,44
+714915633,1,42,M,0,ensino medio,solteiro,$60K - $80K,blue,36,4,6,3,15699.4,1793.13,40
+712292133,1,45,F,3,graduacao,casado,menos que $40K,blue,36,4,4,2,2330.71,2107.08,40
+712229283,1,48,F,4,doutorado,na,na,blue,24,4,3,2,1438.6,2306.26,46
+794273283,1,51,M,3,sem educacao formal,solteiro,$80K - $120K,blue,45,3,3,3,25670.71,2709.16,51
+788838033,1,45,M,2,graduacao,solteiro,$60K - $80K,blue,29,3,4,2,3841.48,2832.33,48
+789013833,1,50,M,2,ensino medio,casado,$120K +,silver,37,5,1,2,34516.29,2118.96,41
+711918033,1,37,F,3,na,casado,menos que $40K,blue,17,3,3,1,1468.97,2050.48,32
+714084483,1,49,F,3,sem educacao formal,solteiro,na,blue,36,4,3,2,3855.56,1724.63,34
+719495958,1,42,F,1,na,casado,menos que $40K,blue,36,3,4,3,2983.61,2509.32,46
+714726858,1,31,F,0,doutorado,divorciado,menos que $40K,blue,36,6,3,3,4871.03,2773.92,34
+717172308,1,45,F,3,ensino medio,casado,$40K - $60K,blue,37,4,4,2,3304.19,1731.06,32
+771795933,1,49,M,4,na,solteiro,$120K +,blue,38,3,4,3,34516.85,2376.09,55
+804829533,1,59,M,0,ensino medio,solteiro,$60K - $80K,blue,54,3,6,6,24621.88,2864.69,51
+795599883,1,57,F,2,sem educacao formal,casado,na,blue,51,3,2,6,2404.97,2511.6,51
+711819708,1,33,F,3,doutorado,na,na,blue,25,3,4,2,4734.26,2275.08,55
+713041683,1,55,M,2,mestrado,casado,$120K +,blue,36,3,4,2,4697.71,1867.49,34
+709663608,1,43,F,1,mestrado,casado,menos que $40K,blue,36,4,4,2,1536.11,1973.26,36
+812411058,1,49,F,0,sem educacao formal,solteiro,menos que $40K,blue,44,3,2,3,2094.82,2690.98,46
+778397358,1,42,M,5,na,casado,$60K - $80K,blue,22,6,4,2,5096.46,2574.52,43
+715609533,1,47,F,3,na,solteiro,menos que $40K,blue,35,1,3,3,5398.39,1887.09,36
+712160058,1,59,F,2,sem educacao formal,casado,menos que $40K,blue,51,5,4,5,1438.69,2146.18,44
+779130108,1,33,F,0,sem educacao formal,solteiro,$40K - $60K,blue,15,3,6,2,1438.07,2527.16,49
+716922633,1,38,M,2,sem educacao formal,solteiro,$120K +,blue,30,6,4,3,4043.85,2600.69,47
+710211783,1,38,F,4,na,casado,menos que $40K,blue,26,3,2,2,1438.74,2264.03,39
+780496833,1,56,F,1,graduacao,solteiro,menos que $40K,blue,43,3,2,2,2846.6,2122.38,44
+789081408,1,44,F,4,sem educacao formal,solteiro,menos que $40K,blue,32,6,4,3,1438.92,2527.24,45
+720634683,1,48,F,2,graduacao,casado,na,blue,37,5,4,2,2220.8,2456.12,45
+710289783,1,43,F,2,sem educacao formal,divorciado,menos que $40K,blue,25,5,4,2,2086.37,2537.17,48
+823615983,1,54,M,2,sem educacao formal,solteiro,$40K - $60K,blue,50,2,3,1,3682.97,1642.22,35
+807587433,1,56,F,2,doutorado,casado,menos que $40K,blue,51,4,5,6,1438.04,2229.27,40
+709987683,1,46,F,4,mestrado,casado,na,blue,36,4,4,3,2286.07,2798.64,40
+713370033,1,53,F,0,mestrado,solteiro,menos que $40K,blue,40,4,4,1,1438.26,2014.23,53
+713949858,1,39,F,2,doutorado,casado,menos que $40K,blue,36,4,4,3,1438.23,1674.95,42
+719751483,1,39,F,2,sem educacao formal,solteiro,menos que $40K,blue,36,4,1,3,1438.5,2567.58,48
+779681433,1,48,F,3,mestrado,casado,$40K - $60K,blue,31,6,4,3,14899.75,1519.75,26
+780038058,1,38,F,0,ensino medio,solteiro,menos que $40K,blue,22,3,5,2,1556.15,2283.19,46
+709536483,1,57,M,3,mestrado,casado,$60K - $80K,blue,49,5,3,0,8701.63,1999.27,41
+712563408,1,33,M,2,sem educacao formal,solteiro,$40K - $60K,blue,18,1,6,1,5600.21,2296.9,46
+778601733,1,55,F,3,ensino medio,solteiro,$40K - $60K,blue,47,5,3,4,2687.06,2370.78,34
+713696808,1,46,F,3,ensino medio,casado,menos que $40K,blue,39,3,0,3,1801.65,2252.17,42
+720044658,1,53,M,1,doutorado,solteiro,$60K - $80K,blue,46,6,4,2,4573.26,2720.84,46
+716373483,1,48,F,5,mestrado,casado,menos que $40K,blue,40,4,2,3,2860.57,1544.33,45
+716600733,1,47,F,4,na,casado,menos que $40K,blue,36,3,3,3,2033.85,2572.28,43
+710411358,1,39,F,4,graduacao,casado,$40K - $60K,blue,28,4,4,2,7596.48,2164.24,45
+715660308,1,54,F,3,graduacao,casado,menos que $40K,blue,44,5,2,3,2921.8,2612.04,33
+778959258,1,51,F,1,na,casado,menos que $40K,blue,32,5,3,3,1438.88,2585.97,45
+714620358,1,37,F,2,mestrado,divorciado,menos que $40K,blue,30,3,4,3,3328.36,2196.53,47
+709145958,1,43,F,3,na,casado,menos que $40K,blue,36,2,2,2,2440.72,1533.39,42
+716668308,1,39,F,4,ensino medio,solteiro,na,blue,36,3,4,2,12405.65,3151.77,39
+789212883,1,30,F,1,sem educacao formal,divorciado,menos que $40K,blue,19,6,2,1,1644.32,2533.16,44
+712450008,1,50,F,2,doutorado,casado,na,blue,36,5,4,2,4045.66,2438.32,41
+713492583,1,34,F,2,mestrado,casado,menos que $40K,blue,29,5,2,2,5845.51,2308.77,35
+714058308,1,43,F,5,sem educacao formal,solteiro,menos que $40K,blue,36,5,4,3,2689.08,1941.11,53
+713114133,1,42,F,2,sem educacao formal,solteiro,menos que $40K,blue,23,4,3,2,1443.24,2092.5,38
+709495833,1,44,F,2,mestrado,solteiro,menos que $40K,blue,36,5,4,2,1438.9,1944.61,36
+717575958,1,50,F,1,doutorado,casado,$40K - $60K,blue,41,6,3,3,1694.1,2349.76,42
+714406158,1,53,F,3,ensino medio,divorciado,na,blue,36,4,6,3,7939.26,2269.94,42
+708681708,1,51,F,2,na,solteiro,menos que $40K,blue,43,5,2,3,3245.39,1977.05,29
+711468708,1,38,F,4,ensino medio,solteiro,$40K - $60K,blue,31,4,2,3,1438.89,1986.97,52
+821724483,1,48,M,4,na,solteiro,$40K - $60K,blue,43,2,2,3,11272.08,1455.23,34
+779841483,1,55,F,1,doutorado,casado,na,blue,39,1,3,3,12972.75,2238.88,36
+710138883,1,47,F,3,mestrado,na,menos que $40K,blue,36,5,2,2,8109.42,1835.76,43
+709112508,1,42,F,3,graduacao,solteiro,menos que $40K,blue,36,3,4,3,3802.42,2165.78,36
+718160358,1,51,F,1,mestrado,casado,menos que $40K,blue,39,5,2,3,1438.29,2492.52,35
+719325783,1,65,M,2,na,solteiro,menos que $40K,blue,36,4,3,2,2954.48,1909.98,28
+713980383,1,49,F,3,mestrado,solteiro,na,blue,38,1,4,2,11025.32,1902.26,28
+826077033,1,46,F,2,na,casado,menos que $40K,blue,42,1,4,0,2002.41,2423.8,39
+715194183,1,53,F,2,na,solteiro,menos que $40K,blue,36,3,4,3,2575.71,2423.56,43
+713826183,1,41,M,3,ensino medio,na,$40K - $60K,blue,33,4,4,3,1639.97,2242.01,44
+780292683,1,55,M,1,sem educacao formal,solteiro,$120K +,blue,41,3,4,4,24542.77,984.52,24
+711116133,1,50,F,1,sem educacao formal,solteiro,menos que $40K,blue,37,3,4,2,1838.5,2461.07,47
+708584208,1,36,F,2,mestrado,na,menos que $40K,blue,36,5,4,2,3111.79,2367.13,41
+713096583,1,40,F,1,ensino medio,solteiro,menos que $40K,blue,36,4,2,3,1438.95,2294.94,40
+756025233,1,43,F,4,sem educacao formal,solteiro,menos que $40K,blue,36,5,2,3,2422.8,2437.34,44
+711977508,1,56,F,2,sem educacao formal,solteiro,menos que $40K,blue,43,1,4,2,1440.67,2141.06,40
+710666583,1,29,F,1,sem educacao formal,solteiro,menos que $40K,blue,36,3,4,2,2516.44,2321.78,36
+712369308,1,48,F,4,doutorado,divorciado,$40K - $60K,blue,35,4,2,3,3646.84,1970,38
+712721358,1,48,F,3,sem educacao formal,divorciado,menos que $40K,blue,36,5,2,3,4073.62,2059.84,43
+717336408,1,51,F,1,doutorado,solteiro,menos que $40K,blue,45,5,1,3,1952.2,2452.08,44
+708731658,1,53,F,0,ensino medio,casado,menos que $40K,blue,41,3,4,3,1438.02,1587.31,42
+708706833,1,39,F,3,sem educacao formal,divorciado,na,blue,36,4,3,3,2809.09,2466.64,40
+715954158,1,48,M,3,doutorado,casado,$40K - $60K,blue,36,3,4,2,2954.14,2433.6,29
+715499058,1,36,F,2,ensino medio,casado,$40K - $60K,blue,36,4,2,3,1848.64,2775.53,33
+709199358,1,60,M,1,sem educacao formal,casado,menos que $40K,blue,36,1,4,3,3316.63,1684.07,19
+821889858,1,50,F,1,doutorado,solteiro,na,blue,46,6,3,4,1970.13,2493.34,44
+720296808,1,52,F,3,mestrado,casado,na,blue,39,3,2,3,4173.64,2554.67,47
+709283358,1,43,F,4,na,casado,menos que $40K,blue,29,6,3,2,2895.65,2473.95,42
+789481233,1,39,M,2,ensino medio,casado,$40K - $60K,blue,30,5,3,3,2220.07,2859.7,55
+710661333,1,55,F,2,na,solteiro,na,blue,36,4,2,3,10241.05,2513.93,47
+710570058,1,44,F,1,mestrado,solteiro,menos que $40K,blue,25,3,4,2,3101.25,2512.27,37
+771284658,1,47,F,1,na,casado,menos que $40K,blue,35,6,4,2,1850.88,2613.29,41
+802247658,1,59,M,2,sem educacao formal,solteiro,$40K - $60K,blue,53,4,4,5,2699.09,2599.28,43
+713590158,1,41,M,4,mestrado,solteiro,$60K - $80K,blue,34,5,4,2,5045.39,2042.88,40
+715547058,1,35,F,0,mestrado,casado,menos que $40K,blue,36,4,4,3,2089.08,2707.2,51
+720531633,1,55,F,1,mestrado,na,menos que $40K,blue,36,4,2,2,3552.8,2665.2,36
+718508883,1,43,F,3,na,solteiro,menos que $40K,blue,36,6,3,3,2325.39,2306.25,47
+716107158,1,32,F,0,mestrado,solteiro,menos que $40K,blue,20,5,5,1,3983.38,3098.79,46
+720234708,1,45,M,2,ensino medio,solteiro,$120K +,blue,33,6,2,3,15490.59,2429.16,50
+716136333,1,40,F,4,sem educacao formal,solteiro,menos que $40K,blue,24,5,1,2,4212.72,2725.07,41
+718296558,1,44,F,4,na,casado,$40K - $60K,blue,31,4,5,3,1691.32,2345.3,33
+780086658,1,43,M,4,doutorado,na,$60K - $80K,blue,28,3,4,2,18229.75,2060.44,39
+715487733,1,44,F,4,mestrado,casado,$40K - $60K,blue,36,6,3,3,1452.55,2287.12,42
+708154833,1,39,F,2,mestrado,solteiro,menos que $40K,blue,27,1,3,3,1438.08,2336.55,46
+788941983,1,36,F,3,mestrado,solteiro,$40K - $60K,blue,22,1,1,3,2013.84,2425.21,50
+714614133,1,53,F,3,na,casado,menos que $40K,blue,36,3,3,3,2819.91,2128.81,39
+775152708,1,49,M,3,doutorado,na,$80K - $120K,blue,39,2,4,3,20769.53,1835.43,43
+714487458,1,49,F,5,mestrado,divorciado,$40K - $60K,blue,40,6,2,4,2920.77,2306.15,39
+711390333,1,59,M,0,doutorado,casado,$80K - $120K,blue,46,5,2,4,6526.83,2331.14,45
+787974108,1,37,F,1,ensino medio,solteiro,$40K - $60K,blue,27,4,2,2,1793.72,2374.04,40
+710729358,1,40,F,2,ensino medio,solteiro,na,blue,30,6,4,3,6479.91,2539.05,42
+717477783,1,49,F,4,na,solteiro,menos que $40K,silver,37,1,2,2,10195.35,1563.58,36
+789942033,1,43,M,4,mestrado,solteiro,$60K - $80K,blue,34,5,3,3,10573.13,2237.14,43
+717949008,1,40,F,4,ensino medio,solteiro,$40K - $60K,blue,29,5,3,2,1554.77,2341.61,43
+712734933,1,43,F,2,graduacao,casado,menos que $40K,blue,36,5,3,2,4020.97,1952.11,39
+713163258,1,38,F,2,na,casado,na,blue,33,4,3,3,3388.62,1959.63,52
+713334483,1,46,M,1,doutorado,solteiro,$60K - $80K,blue,32,5,3,2,8766.47,2263.07,35
+713025558,1,53,F,5,doutorado,solteiro,menos que $40K,blue,38,3,3,2,1438,1935.26,47
+809565183,1,52,F,1,mestrado,solteiro,menos que $40K,blue,47,3,4,3,1842.78,2650.33,43
+713685033,1,44,F,2,mestrado,casado,menos que $40K,blue,33,3,2,2,2417.2,1848.65,38
+720941433,1,53,F,3,ensino medio,casado,menos que $40K,blue,41,3,2,3,1547.65,2312.55,43
+787493808,1,48,F,4,mestrado,na,menos que $40K,blue,36,5,2,2,2700.22,2396.89,49
+711151383,1,34,F,1,doutorado,solteiro,menos que $40K,blue,26,3,5,2,2066.61,2157.6,37
+715297908,1,41,F,4,graduacao,na,na,blue,22,4,3,2,1438.14,2534.91,52
+718812708,1,57,M,2,mestrado,solteiro,$120K +,blue,44,5,4,3,34516.06,1882.8,48
+709505808,1,45,F,3,graduacao,solteiro,na,blue,33,5,4,3,4345.31,1918.61,31
+711267633,1,50,F,3,mestrado,divorciado,menos que $40K,blue,40,5,4,4,4248.02,2271.61,36
+720963258,1,52,F,3,graduacao,casado,menos que $40K,blue,40,3,3,2,3474.47,2675.3,37
+714634983,1,44,F,1,na,solteiro,na,blue,36,3,3,3,3517.31,2403.26,48
+709005633,1,62,M,0,ensino medio,solteiro,$60K - $80K,blue,51,3,4,2,18734.22,2112.5,52
+709460883,1,38,F,2,doutorado,casado,menos que $40K,blue,28,5,4,2,1614.95,2437.86,46
+787665258,1,47,F,3,na,casado,menos que $40K,blue,37,1,2,2,1438.1,2393.68,36
+816850458,1,33,M,2,na,casado,$60K - $80K,blue,28,6,4,2,1698.28,2448.83,40
+793712658,1,52,M,3,mestrado,casado,$80K - $120K,blue,46,4,3,2,15011.21,1821.08,36
+720085233,1,51,F,2,doutorado,divorciado,na,blue,40,6,4,3,8930.26,2167.72,38
+827898033,1,54,F,1,sem educacao formal,casado,na,blue,50,4,3,0,2912.76,2465.38,54
+713952558,1,53,F,3,doutorado,solteiro,na,blue,43,3,2,3,1790.59,2128.69,40
+771733608,1,47,F,1,mestrado,casado,$40K - $60K,blue,35,3,5,3,1438.28,2276.91,40
+712849158,1,55,M,0,ensino medio,divorciado,$80K - $120K,blue,44,4,3,3,19793.6,2186.89,44
+711535158,1,46,F,1,graduacao,na,na,blue,35,5,3,3,2197.93,1955.47,42
+718311933,1,53,F,4,doutorado,casado,menos que $40K,blue,37,6,2,2,3719.68,2587.63,43
+718404783,1,59,F,0,na,casado,na,blue,49,5,4,2,6996.99,2384.4,33
+817332483,1,63,M,0,doutorado,solteiro,na,blue,47,6,3,4,7306.56,2445.85,43
+710015733,1,41,F,1,doutorado,divorciado,menos que $40K,blue,30,3,1,3,2029.03,3142.3,37
+794965233,1,51,F,1,mestrado,casado,menos que $40K,silver,45,6,3,3,13199.44,1927.88,44
+720930633,1,58,F,0,ensino medio,solteiro,menos que $40K,blue,46,5,2,4,1977.36,2341.43,37
+710136258,1,33,F,2,mestrado,solteiro,menos que $40K,blue,24,6,3,2,1806.85,2833.69,43
+822132858,1,41,M,4,sem educacao formal,casado,$80K - $120K,blue,37,1,2,2,23250.63,2205.88,43
+713526258,1,47,M,3,sem educacao formal,solteiro,$120K +,blue,36,3,4,3,34516.77,2020.51,33
+780584658,1,33,F,2,sem educacao formal,na,$40K - $60K,blue,22,4,2,2,1843.4,2077.36,61
+709612983,1,41,F,2,mestrado,casado,$40K - $60K,blue,36,5,4,2,2990.12,2265.5,41
+709688883,1,45,M,3,ensino medio,na,$80K - $120K,blue,36,4,2,3,3845.79,2174.34,39
+708692583,1,44,F,2,ensino medio,solteiro,menos que $40K,blue,31,3,3,3,1506.21,2312.9,44
+713815383,1,53,M,1,ensino medio,solteiro,$80K - $120K,blue,36,3,2,2,11778.08,2147.38,44
+717450633,1,47,M,3,sem educacao formal,solteiro,$60K - $80K,blue,36,3,4,2,1659.92,1920.59,39
+717646983,1,59,F,1,mestrado,solteiro,menos que $40K,blue,49,4,4,3,3214.4,2720.36,53
+778837083,1,50,M,2,mestrado,casado,$80K - $120K,blue,31,3,3,3,12906.08,2078.4,62
+768632958,1,59,F,1,mestrado,solteiro,na,blue,49,3,6,4,8708.9,2508.71,49
+715622508,1,52,M,2,na,casado,$80K - $120K,blue,41,6,3,4,7904.34,2094.84,32
+708946008,1,46,F,3,graduacao,casado,menos que $40K,blue,36,5,2,2,1438.2,2445.83,39
+814840833,1,44,M,4,doutorado,casado,$120K +,blue,39,4,2,3,7924.76,2393.42,37
+712110333,1,37,F,3,ensino medio,solteiro,na,blue,18,4,3,1,2179.94,2568.22,48
+718673358,1,35,M,3,doutorado,casado,$80K - $120K,blue,30,5,4,3,13590.95,2137.59,52
+712479633,1,31,F,1,na,solteiro,menos que $40K,blue,20,3,2,1,1695.35,2428.79,43
+716643033,1,41,F,2,mestrado,casado,menos que $40K,blue,31,3,3,3,2580.66,2981.84,40
+713573508,1,41,M,4,mestrado,na,$40K - $60K,silver,32,4,4,2,16509.59,1740.01,43
+709430508,1,40,M,4,ensino medio,na,$40K - $60K,blue,32,1,3,2,7316.07,1849.77,50
+713314533,1,40,M,2,na,solteiro,$60K - $80K,blue,27,6,3,2,12283.85,1993.22,41
+713679633,1,41,F,3,mestrado,casado,menos que $40K,blue,33,6,5,3,1438.64,1813.87,51
+814191333,1,55,M,2,na,divorciado,$120K +,blue,50,5,3,4,24250.16,2153.1,41
+755996583,1,57,F,2,sem educacao formal,solteiro,menos que $40K,blue,50,5,3,0,2475.75,2574.99,43
+717074283,1,45,F,3,mestrado,divorciado,na,blue,37,5,6,2,17678.79,2566.63,49
+715960308,1,53,F,1,mestrado,divorciado,menos que $40K,blue,44,3,3,3,4090.59,2016.37,49
+789923058,1,53,F,1,ensino medio,casado,$40K - $60K,blue,44,3,3,3,1816.93,2474.78,44
+779269158,1,43,F,2,mestrado,casado,na,blue,25,4,4,2,21961.25,2237.14,39
+778289883,1,42,F,2,mestrado,na,menos que $40K,blue,32,3,3,3,1507.51,2528.67,41
+769053033,1,44,F,1,mestrado,solteiro,$40K - $60K,blue,38,3,5,2,4142.93,2104.46,44
+768162108,1,49,M,3,graduacao,casado,$120K +,blue,43,5,3,3,4781.48,2451.39,50
+714581358,1,48,F,3,mestrado,solteiro,menos que $40K,blue,43,3,4,3,1502.13,2204.15,36
+772394883,1,60,F,1,sem educacao formal,solteiro,na,blue,50,3,3,6,7359.36,2869.32,43
+771899433,1,48,M,3,mestrado,casado,$80K - $120K,blue,37,5,4,2,7970.92,1263.86,27
+709711758,1,45,F,3,sem educacao formal,divorciado,menos que $40K,blue,32,3,2,2,1942.15,1853.39,31
+721137558,1,40,M,4,mestrado,divorciado,$40K - $60K,blue,28,1,3,2,5821.41,2011.95,42
+709729533,1,47,M,3,sem educacao formal,solteiro,$40K - $60K,blue,39,4,1,3,1809.88,2169.13,49
+720991833,1,48,F,2,doutorado,casado,menos que $40K,blue,36,4,4,3,2514.42,2603.06,53
+714102183,1,50,M,3,sem educacao formal,solteiro,$120K +,blue,36,1,3,2,7970.04,1872.48,41
+715410783,1,55,F,1,na,solteiro,menos que $40K,blue,36,5,3,2,1836.01,2400.54,34
+767668908,1,46,F,3,mestrado,casado,na,blue,40,3,3,4,13095.75,1552.05,32
+714246333,1,58,F,4,ensino medio,casado,na,blue,48,1,3,4,5396.72,2107.05,39
+755661933,1,48,F,3,mestrado,solteiro,$40K - $60K,blue,41,5,3,3,1899.41,2434.75,45
+716669658,1,51,F,1,ensino medio,solteiro,menos que $40K,blue,33,6,3,3,2006.78,2760.72,38
+802673508,1,57,M,2,mestrado,solteiro,$120K +,blue,51,3,3,5,8760.09,2460.87,39
+721032633,1,55,F,3,na,solteiro,$40K - $60K,blue,32,5,4,3,2496.19,2590.45,50
+718890933,1,45,F,4,doutorado,casado,menos que $40K,blue,27,3,2,2,1438.73,2429.19,38
+714006333,1,42,F,4,mestrado,casado,menos que $40K,blue,36,5,3,2,2128.62,2289.11,41
+770596458,1,45,F,2,doutorado,casado,menos que $40K,blue,31,4,4,3,2704.39,2362.74,39
+709534083,1,58,F,0,sem educacao formal,divorciado,menos que $40K,blue,36,3,6,2,9909.58,1844.71,41
+708949908,1,50,M,1,mestrado,divorciado,$120K +,blue,42,1,2,3,1656.44,2073.06,44
+779310033,1,42,F,4,doutorado,casado,menos que $40K,blue,24,3,3,2,4304.11,1788.47,36
+714192933,1,55,F,3,mestrado,solteiro,menos que $40K,blue,36,3,5,3,2060.43,1976.52,44
+796931508,1,42,M,4,ensino medio,na,$60K - $80K,blue,36,4,4,3,1871.13,2593.41,48
+714287583,1,41,F,3,na,casado,menos que $40K,blue,32,3,3,2,1438.82,1852.41,38
+718975083,1,47,F,4,mestrado,solteiro,menos que $40K,blue,40,6,3,4,2473.14,2133.94,44
+714031083,1,46,F,3,mestrado,na,na,blue,30,3,1,2,8869.37,1935.49,40
+772442883,1,51,F,4,mestrado,casado,na,blue,41,2,5,3,3853.31,2443.42,38
+716570958,1,50,M,3,doutorado,divorciado,$60K - $80K,blue,36,3,3,2,14409.54,2351.31,39
+710116833,1,59,F,1,ensino medio,solteiro,$40K - $60K,blue,36,5,3,3,1665.23,2748.99,40
+815908908,1,47,F,4,sem educacao formal,solteiro,na,blue,42,3,3,4,6263.36,2613.73,50
+721527858,1,52,F,3,ensino medio,casado,menos que $40K,blue,40,3,1,5,2003.13,2343.09,42
+712927383,1,51,F,2,sem educacao formal,solteiro,menos que $40K,blue,36,3,3,3,1438.41,1939.4,49
+711430908,1,45,F,4,mestrado,casado,menos que $40K,blue,34,3,1,2,1438.16,2153.61,35
+779530908,1,48,F,3,na,divorciado,menos que $40K,blue,31,5,4,2,1438.61,1897.53,58
+809849358,1,55,F,2,mestrado,divorciado,menos que $40K,blue,50,2,3,6,1720.61,2719.63,36
+721228308,1,47,F,2,ensino medio,casado,menos que $40K,blue,39,5,3,3,3899.62,2182.22,40
+708708858,1,50,F,1,mestrado,solteiro,menos que $40K,blue,36,1,4,3,2422.13,2548.98,46
+789328083,1,42,F,4,ensino medio,casado,menos que $40K,blue,32,6,3,3,3454.49,2826.54,39
+716421633,1,43,F,3,mestrado,casado,menos que $40K,blue,36,4,4,2,3524,3174.87,44
+809559933,1,45,F,3,mestrado,casado,na,blue,40,3,3,5,4462.29,2526.08,41
+789662283,1,50,F,3,ensino medio,casado,menos que $40K,blue,33,3,4,3,2140.07,2915.48,50
+711527508,1,46,F,3,ensino medio,casado,$40K - $60K,blue,34,2,2,3,8583.22,1794.6,31
+787505133,1,36,M,3,graduacao,casado,$120K +,blue,24,2,3,2,11316.43,2595.65,49
+719018208,1,52,F,0,doutorado,casado,na,blue,46,6,3,4,7210.66,2516.96,36
+770968383,1,41,M,4,mestrado,casado,$80K - $120K,silver,28,3,3,2,34516.24,2022.59,52
+771723408,1,37,F,2,na,solteiro,menos que $40K,blue,25,3,4,2,1690.28,2645.65,60
+713569158,1,43,F,3,ensino medio,solteiro,$40K - $60K,blue,34,1,2,3,1654.36,2086.8,47
+718626033,1,47,M,3,ensino medio,casado,$60K - $80K,blue,39,2,2,3,10061.91,2802.87,52
+714010383,1,47,F,5,sem educacao formal,solteiro,na,blue,40,5,5,4,3502.92,1895.64,42
+712578933,1,35,F,5,ensino medio,casado,$40K - $60K,blue,25,3,6,2,1438.81,2500.24,44
+711144183,1,55,F,3,mestrado,casado,na,blue,45,1,1,3,2815.43,2618.34,29
+785262333,1,46,M,5,sem educacao formal,na,$40K - $60K,blue,40,5,3,4,6185.89,2225.16,45
+719073483,1,45,M,3,sem educacao formal,casado,$80K - $120K,blue,38,3,3,3,9234.88,2586.5,44
+719084358,1,55,F,1,mestrado,casado,menos que $40K,blue,46,6,3,4,4232.28,2312.38,37
+712434708,1,52,F,3,ensino medio,casado,menos que $40K,blue,39,5,2,3,3302.32,2682.88,47
+708412758,1,33,F,3,mestrado,solteiro,menos que $40K,blue,36,5,3,2,1457.37,2200.69,45
+713158083,1,56,M,2,ensino medio,solteiro,$120K +,blue,46,2,4,4,7327.89,2185.15,41
+720010608,1,37,M,2,na,solteiro,$40K - $60K,blue,24,6,4,2,10226.74,2243.63,44
+711939558,1,37,F,2,na,solteiro,menos que $40K,blue,36,3,3,2,1534.9,2596.89,39
+716924958,1,65,F,2,mestrado,solteiro,menos que $40K,blue,56,3,3,0,6812.37,2288.37,48
+711531858,1,48,F,4,na,casado,menos que $40K,blue,41,3,3,3,2447.65,2132.76,37
+819943458,1,57,M,3,mestrado,solteiro,$120K +,blue,52,6,3,4,34516.37,1777.32,37
+772073508,1,52,F,1,graduacao,solteiro,menos que $40K,blue,41,5,6,3,1764.43,2740.96,47
+721351983,1,43,F,4,sem educacao formal,casado,menos que $40K,blue,36,5,3,3,3492.57,2510.91,47
+714477408,1,36,F,3,ensino medio,casado,menos que $40K,blue,36,3,3,3,2977.99,2201.01,39
+711801933,1,54,F,4,ensino medio,solteiro,$40K - $60K,blue,36,3,4,3,1438.26,2092.24,42
+716282208,1,54,F,2,doutorado,casado,menos que $40K,blue,48,3,3,6,1638.85,1702.53,36
+714045783,1,37,F,2,mestrado,casado,$40K - $60K,blue,29,2,6,2,2547.74,2160.45,46
+720243933,1,47,M,2,sem educacao formal,casado,$60K - $80K,blue,32,1,6,3,1789.31,2784.44,49
+716272158,1,41,F,3,graduacao,casado,$40K - $60K,blue,15,5,4,3,4312.71,2693.51,56
+714602658,1,39,F,1,mestrado,casado,menos que $40K,blue,36,1,3,2,1462.65,1998.32,36
+712446783,1,50,F,4,mestrado,casado,menos que $40K,blue,30,5,4,3,4038.2,2400.1,41
+720049083,1,35,F,1,na,divorciado,na,blue,24,5,3,3,1438.77,2355.71,47
+816378033,1,46,M,4,sem educacao formal,solteiro,$80K - $120K,gold,41,6,2,3,34516.42,1989.82,47
+827451333,1,54,F,2,sem educacao formal,casado,menos que $40K,blue,50,3,3,6,2247.1,2615.33,37
+717202083,1,46,M,2,na,solteiro,$80K - $120K,blue,34,2,3,3,7077.83,2619.33,41
+789122808,1,41,F,4,graduacao,casado,$40K - $60K,blue,29,5,3,2,3281.22,2907.17,45
+711507783,1,54,F,2,doutorado,solteiro,menos que $40K,blue,42,3,3,4,1694.15,1930.48,41
+716856408,1,39,F,4,mestrado,solteiro,menos que $40K,blue,28,5,4,2,1438.39,2392.21,44
+720124758,1,49,M,3,sem educacao formal,casado,$80K - $120K,blue,40,5,3,4,2509.61,2239.21,47
+782802033,1,45,F,4,na,casado,menos que $40K,blue,39,3,2,2,3411.46,2108.18,55
+780289308,1,61,F,0,ensino medio,casado,menos que $40K,blue,47,1,4,3,4130.82,2418.72,57
+714503433,1,57,F,2,doutorado,casado,menos que $40K,blue,36,1,3,3,1615.89,2212.17,43
+715497558,1,44,F,1,graduacao,casado,menos que $40K,blue,36,6,3,3,3052.47,2598.83,47
+717252483,1,57,F,2,mestrado,casado,menos que $40K,blue,41,3,3,3,2796.38,2196.85,35
+719742108,1,38,F,1,ensino medio,solteiro,menos que $40K,blue,26,5,4,2,3554.88,2372.87,44
+717208833,1,34,F,3,ensino medio,solteiro,menos que $40K,blue,21,2,2,2,1576.4,2703.95,56
+713463708,1,40,F,4,mestrado,solteiro,menos que $40K,blue,25,4,3,2,1438.07,2493.99,42
+711790308,1,54,F,0,ensino medio,na,menos que $40K,blue,34,4,3,3,2223.12,2538.94,49
+712046808,1,49,F,3,doutorado,divorciado,na,blue,42,1,3,3,3802.22,2003.26,43
+708888633,1,52,M,3,doutorado,casado,$80K - $120K,blue,36,2,3,3,3022.8,2724.53,38
+812406183,1,45,F,4,na,solteiro,menos que $40K,blue,40,5,3,4,1438.68,2207.57,41
+714595983,1,49,F,1,sem educacao formal,casado,$40K - $60K,blue,41,4,3,3,1438.26,2030.13,37
+720270633,1,40,F,3,mestrado,solteiro,menos que $40K,blue,36,5,1,3,1516.46,2709.3,54
+718653333,1,45,F,2,graduacao,solteiro,menos que $40K,blue,33,1,3,3,1833.96,2037.65,31
+711724083,1,27,F,0,na,solteiro,menos que $40K,blue,16,6,3,1,1835.37,1903.28,44
+713422083,1,30,F,0,mestrado,solteiro,menos que $40K,blue,36,5,3,3,1574.83,2560.99,59
+712222758,1,38,F,3,mestrado,casado,menos que $40K,blue,36,3,3,2,2300.86,2500.35,47
+718148358,1,50,F,3,ensino medio,casado,menos que $40K,blue,36,2,3,3,1572.01,2447.33,41
+794507133,1,37,F,2,doutorado,solteiro,$40K - $60K,blue,18,4,3,1,1900.36,2880.98,46
+767266758,1,41,F,2,ensino medio,solteiro,menos que $40K,blue,34,1,4,3,1661.01,2473.16,49
+720739083,1,36,F,2,doutorado,casado,menos que $40K,blue,25,5,3,2,1691.82,2716.94,63
+713594883,1,44,F,2,sem educacao formal,solteiro,na,blue,32,5,3,3,1486.05,2380.18,43
+714962658,1,35,M,2,na,solteiro,menos que $40K,blue,36,5,3,3,1931.38,2482.83,40
+717429258,1,48,F,3,doutorado,solteiro,menos que $40K,blue,39,3,4,3,1644.57,2450.91,45
+709548783,1,44,M,2,doutorado,na,$40K - $60K,blue,36,5,4,3,1438.66,2100.12,54
+713336883,1,61,F,0,ensino medio,solteiro,menos que $40K,blue,36,4,4,3,1760.77,2285.97,46
+809626983,1,48,F,3,ensino medio,casado,menos que $40K,blue,43,3,3,3,1670.25,2790.68,37
+772728933,1,50,M,2,ensino medio,casado,$120K +,blue,40,6,3,4,13709.87,2511.33,40
+815320383,1,46,F,3,na,na,menos que $40K,blue,41,5,2,3,4710.82,2690.89,43
+714475908,1,43,M,2,sem educacao formal,solteiro,$60K - $80K,blue,35,5,2,3,6348.16,1732.46,39
+716790633,1,43,M,3,mestrado,casado,$60K - $80K,blue,36,4,3,2,17239.35,1789.74,38
+716127333,1,45,F,3,mestrado,casado,na,blue,36,5,3,2,18432.44,2300.76,45
+780032208,1,44,M,3,mestrado,casado,$60K - $80K,blue,34,5,3,3,14201.57,2223.19,47
+789052308,1,40,M,3,mestrado,na,$40K - $60K,blue,28,6,2,2,4323.92,2451.26,38
+714948858,1,50,F,2,na,solteiro,menos que $40K,blue,36,3,2,2,3647.28,2935.31,58
+719685408,1,40,M,2,sem educacao formal,casado,$60K - $80K,blue,29,3,2,2,6332.05,2505.04,43
+710284233,1,33,M,4,sem educacao formal,casado,$80K - $120K,blue,36,5,4,3,1438.01,2439.94,43
+713312208,1,53,M,1,ensino medio,casado,$40K - $60K,blue,43,1,3,2,3146.2,1868.14,38
+779844408,1,43,F,1,doutorado,casado,menos que $40K,blue,27,4,3,3,1438.1,2137.59,40
+801715383,1,45,M,4,mestrado,casado,$60K - $80K,blue,39,6,2,3,12890.25,2216.25,51
+714188883,1,46,F,5,doutorado,solteiro,menos que $40K,blue,37,3,2,2,1787.44,2345.29,36
+708536283,1,35,M,1,doutorado,solteiro,$80K - $120K,blue,27,3,2,2,2904.67,2653.21,46
+709307808,1,59,F,2,ensino medio,casado,$40K - $60K,blue,36,3,3,3,4375.79,2507.21,53
+715701033,1,43,M,2,mestrado,casado,$80K - $120K,blue,33,5,3,3,2111.98,2112.89,46
+718826883,1,50,M,3,sem educacao formal,solteiro,$80K - $120K,blue,36,6,2,3,6925.91,2506.77,36
+815504583,1,48,F,4,mestrado,solteiro,$40K - $60K,blue,43,3,4,2,1538.63,2275.92,43
+709891608,1,41,M,2,ensino medio,casado,$120K +,blue,24,5,3,2,9924.12,1949.9,43
+711949683,1,55,F,2,graduacao,divorciado,$40K - $60K,blue,36,6,3,2,4410.52,1883.87,44
+787747308,1,49,F,4,sem educacao formal,na,menos que $40K,blue,39,6,2,3,3468.74,2494.92,39
+779104608,1,34,F,3,ensino medio,na,na,blue,15,5,3,1,1438.92,2819.69,48
+713804883,1,46,F,4,doutorado,solteiro,menos que $40K,blue,37,3,2,2,1836.15,1799.33,28
+753795633,1,48,F,2,sem educacao formal,casado,menos que $40K,blue,41,5,2,3,2964.35,2327.37,38
+817607358,1,44,F,2,ensino medio,na,na,gold,35,3,3,3,34516.03,2227.61,44
+712297683,1,47,F,3,graduacao,casado,menos que $40K,blue,35,6,2,3,1781.61,2196.14,35
+714684933,1,40,F,1,sem educacao formal,casado,menos que $40K,blue,28,5,3,2,3680.64,2725.24,41
+720742083,1,48,F,4,na,casado,menos que $40K,blue,36,4,3,3,2740.91,2431.72,46
+721124658,1,40,M,3,sem educacao formal,solteiro,$80K - $120K,blue,27,4,3,2,3427.23,2625.62,63
+720815208,1,52,M,0,ensino medio,solteiro,$120K +,blue,39,5,3,3,34516.11,2395.25,47
+720520308,1,46,F,4,mestrado,casado,menos que $40K,blue,28,4,3,2,8318.36,2427.49,52
+798972183,1,49,F,2,na,solteiro,$40K - $60K,blue,43,1,2,3,1643.39,2520.12,38
+714250908,1,53,F,2,mestrado,casado,menos que $40K,blue,47,3,2,4,2927.32,2231.44,60
+719384433,1,44,F,3,ensino medio,divorciado,menos que $40K,blue,28,5,3,2,1877.02,2581.8,57
+789880533,1,46,F,4,mestrado,solteiro,$40K - $60K,blue,36,5,4,3,5913.4,2404.29,39
+711221958,1,43,F,3,mestrado,solteiro,$40K - $60K,blue,26,3,2,2,2867.59,2646.78,41
+716368008,1,54,F,1,mestrado,casado,na,blue,36,4,2,2,3137.81,2925.42,41
+712092783,1,47,F,3,doutorado,solteiro,menos que $40K,blue,40,6,3,2,2437.68,2027.04,42
+708726708,1,42,F,3,mestrado,solteiro,$40K - $60K,blue,36,6,3,2,1451.95,2192,35
+712767858,1,42,F,0,graduacao,solteiro,$40K - $60K,blue,30,5,3,2,1438.8,2181.17,43
+712445583,1,33,F,0,graduacao,solteiro,na,blue,15,3,4,1,2299.27,2323.52,47
+713891133,1,41,F,2,na,solteiro,menos que $40K,blue,36,3,2,2,1438.72,1890.33,43
+779279883,1,60,F,2,ensino medio,casado,menos que $40K,blue,42,3,2,3,1438.88,1628.13,42
+712953483,1,64,F,0,mestrado,solteiro,menos que $40K,blue,36,1,4,3,1682.72,1811.73,39
+779029458,1,54,F,1,doutorado,solteiro,menos que $40K,blue,35,4,3,3,1724.87,2725.44,47
+765459858,1,47,M,3,mestrado,divorciado,menos que $40K,blue,40,4,3,4,6397.58,2511.67,56
+714894708,1,53,M,1,sem educacao formal,na,$120K +,blue,45,4,2,4,23958.43,2777.96,45
+720130233,1,48,M,2,ensino medio,solteiro,$60K - $80K,blue,36,4,1,3,1641.09,2536.75,45
+718279008,1,44,M,3,ensino medio,solteiro,$60K - $80K,silver,36,5,3,2,25276.56,2282.15,38
+814091058,1,38,F,1,graduacao,solteiro,menos que $40K,blue,33,6,3,2,3119.02,2492.06,50
+710555433,1,42,F,4,mestrado,solteiro,menos que $40K,blue,36,6,2,2,2803.05,2216.92,40
+718263108,1,44,F,3,na,divorciado,menos que $40K,blue,32,3,2,3,1693.77,2829.65,42
+779931783,1,52,M,2,ensino medio,solteiro,$120K +,blue,38,6,3,3,34516.53,2213.51,47
+712691883,1,41,F,2,ensino medio,casado,menos que $40K,blue,36,3,2,2,2811.02,2245.64,41
+712611108,1,59,F,1,na,solteiro,menos que $40K,blue,53,5,2,6,7501.37,2280.26,49
+708316008,1,59,F,1,mestrado,solteiro,na,blue,36,3,3,2,10031.54,1792.26,29
+711846183,1,38,F,3,mestrado,solteiro,$40K - $60K,blue,26,3,3,2,2669.7,2271.01,31
+720612333,1,44,F,3,graduacao,solteiro,menos que $40K,blue,28,6,2,2,1951.06,2697.38,45
+710525508,1,48,F,2,ensino medio,casado,menos que $40K,blue,36,6,3,3,1438.43,2090.22,50
+757854858,1,50,M,2,na,casado,$60K - $80K,blue,43,4,4,3,3143.51,2297.21,37
+714319233,1,44,M,5,mestrado,divorciado,$60K - $80K,blue,36,3,6,3,6538.46,2132.12,33
+709232808,1,44,F,3,na,divorciado,$40K - $60K,blue,34,2,2,3,1689.94,1588.21,37
+711474333,1,57,F,2,sem educacao formal,solteiro,menos que $40K,blue,51,3,2,5,1614.34,1690.9,38
+714527433,1,39,M,4,mestrado,casado,$80K - $120K,blue,30,5,2,2,17523.69,1974.97,54
+714014733,1,33,M,2,graduacao,solteiro,$80K - $120K,blue,36,4,2,3,9642.33,2172.72,33
+712733958,1,46,F,2,na,solteiro,menos que $40K,blue,36,6,3,3,1731.3,2304.05,46
+716122008,1,44,F,3,na,casado,menos que $40K,blue,35,3,2,3,1855.67,2544.83,27
+714960408,1,44,F,3,graduacao,solteiro,menos que $40K,blue,34,4,1,3,1606,2722.98,45
+772382283,1,46,F,3,mestrado,casado,menos que $40K,blue,36,3,3,3,2302.77,2689.63,49
+714266883,1,54,F,4,doutorado,na,menos que $40K,blue,44,5,3,3,2440.17,2334.18,51
+717219933,1,47,F,3,na,solteiro,menos que $40K,blue,35,4,6,3,2402.4,1930.9,48
+719986758,1,46,F,2,na,solteiro,$40K - $60K,blue,33,5,6,3,3001.57,2577.17,39
+806140383,1,59,M,2,ensino medio,solteiro,$80K - $120K,blue,54,3,2,2,2791.47,2658.86,43
+751518633,1,48,M,5,doutorado,solteiro,$120K +,silver,41,5,1,3,34516.8,2260.89,50
+712395408,1,51,F,3,mestrado,divorciado,menos que $40K,blue,41,5,3,3,1495.32,2552.59,42
+818459733,1,41,M,3,doutorado,solteiro,$120K +,blue,26,3,2,2,9220.37,2276.16,32
+708867408,1,52,M,2,ensino medio,casado,$60K - $80K,blue,40,3,2,4,23128.15,2050.46,35
+810271083,1,47,F,3,na,solteiro,$40K - $60K,blue,42,1,3,5,14897.34,2164.18,53
+719420883,1,56,F,4,mestrado,na,menos que $40K,blue,44,5,3,3,1677.8,2477.9,45
+753365883,1,44,F,3,na,solteiro,na,blue,37,3,3,2,1900.6,2298.15,45
+717915783,1,60,M,0,na,casado,$60K - $80K,blue,47,5,3,1,4541.29,2829.68,44
+708298233,1,49,F,3,mestrado,casado,menos que $40K,blue,37,4,1,2,6184.02,1756.78,49
+712329933,1,47,F,1,ensino medio,na,menos que $40K,blue,41,6,2,3,3654.6,1998.97,44
+795784008,1,44,F,3,mestrado,casado,menos que $40K,blue,38,4,3,2,3889.11,1718.08,37
+720275358,1,47,M,2,mestrado,casado,$40K - $60K,blue,30,4,2,3,1889.53,2479.94,46
+710727333,1,49,F,3,ensino medio,casado,menos que $40K,blue,36,4,2,2,1763.63,2813.35,43
+807136758,1,58,F,2,ensino medio,casado,menos que $40K,blue,53,3,2,0,1944.75,2412.46,40
+715400733,1,43,F,3,sem educacao formal,casado,$40K - $60K,blue,36,6,3,4,1438.05,2116.25,38
+711389358,1,42,M,3,mestrado,casado,$40K - $60K,blue,23,5,2,3,5791.53,2516.68,64
+711253383,1,48,F,2,na,casado,na,blue,38,6,3,2,4382.92,2446.82,34
+794554683,1,41,F,4,mestrado,casado,menos que $40K,blue,26,4,2,2,3159.8,2925.78,46
+711323283,1,57,M,2,sem educacao formal,casado,$60K - $80K,blue,41,3,2,3,2527.96,2767.06,43
+720711483,1,56,F,1,ensino medio,casado,na,blue,42,5,3,2,3674.96,2608.67,45
+809440008,1,39,F,2,ensino medio,solteiro,na,blue,34,3,1,3,2069.04,2716.26,43
+711237633,1,49,M,0,mestrado,casado,$60K - $80K,blue,29,3,3,3,1460.4,2329.16,36
+718913358,1,36,M,2,mestrado,solteiro,menos que $40K,blue,36,3,3,3,4225.74,2659.12,43
+718452633,1,35,F,4,mestrado,casado,na,blue,36,4,3,3,1931.68,2569.41,46
+769883733,1,46,M,3,doutorado,solteiro,$40K - $60K,blue,40,3,2,4,2344.86,2098.72,31
+711122958,1,41,F,3,mestrado,solteiro,menos que $40K,blue,33,5,3,3,1764.82,2105.87,57
+708606633,1,56,F,3,mestrado,casado,$40K - $60K,blue,44,6,4,3,1544.89,1902.87,35
+713115483,1,44,F,3,sem educacao formal,casado,menos que $40K,blue,36,6,3,3,1684.5,2275.33,45
+713186058,1,42,F,3,na,casado,$40K - $60K,blue,36,4,3,2,1438.95,2191.83,51
+789241308,1,54,F,2,na,na,menos que $40K,blue,39,4,3,3,1438.4,2145.8,41
+778272408,1,52,M,1,na,divorciado,$80K - $120K,blue,42,4,2,4,5763.78,2310.71,48
+715328658,1,41,F,5,doutorado,casado,menos que $40K,blue,36,5,3,3,1495.54,2622.95,70
+708918558,1,37,F,2,mestrado,casado,$40K - $60K,blue,36,5,2,3,1959.29,3046.69,52
+721480158,1,50,F,2,na,casado,menos que $40K,blue,43,3,2,3,1438.61,2370.78,44
+709100283,1,36,F,2,ensino medio,solteiro,na,blue,26,3,2,2,5956.53,2828.06,46
+713466033,1,39,F,2,mestrado,divorciado,menos que $40K,blue,36,5,3,2,2092.03,2015.39,33
+709064208,1,43,F,2,sem educacao formal,solteiro,menos que $40K,blue,32,4,6,3,1628.14,2219.12,49
+719630358,1,50,F,4,ensino medio,casado,menos que $40K,blue,36,1,2,3,3546.61,2616.64,47
+712399308,1,38,F,3,ensino medio,na,menos que $40K,blue,36,5,3,3,2989.52,2143.87,67
+717255333,1,40,M,3,mestrado,solteiro,$80K - $120K,blue,36,1,2,2,6921.54,2729.23,44
+708793008,1,46,M,3,doutorado,divorciado,$80K - $120K,blue,35,5,3,3,9949.79,2207.59,40
+718303683,1,36,F,2,mestrado,casado,menos que $40K,blue,23,4,2,2,1666.81,2622.67,60
+708660408,1,40,F,1,graduacao,casado,$40K - $60K,blue,36,4,4,2,1737.35,2459.6,43
+711671058,1,48,F,1,sem educacao formal,casado,na,blue,38,5,2,2,1438.26,2171.05,38
+808747233,1,50,M,2,doutorado,casado,$120K +,silver,45,6,3,3,34516.89,2573.84,55
+713084208,1,43,M,4,graduacao,casado,$40K - $60K,blue,32,6,3,3,4373.39,2397.06,46
+709803258,1,48,M,2,na,casado,$80K - $120K,blue,28,5,3,2,12073.25,2400.7,52
+818699208,1,47,F,4,doutorado,casado,na,blue,42,4,4,4,6451.73,2400.78,43
+719516208,1,54,M,2,graduacao,solteiro,$120K +,blue,36,3,3,2,34516.96,2329.28,47
+717026658,1,43,F,3,sem educacao formal,casado,menos que $40K,blue,32,6,3,3,1897.34,2866.38,47
+766021083,1,55,F,1,graduacao,solteiro,menos que $40K,blue,48,3,3,5,2114.03,2578.39,42
+719756133,1,34,M,4,sem educacao formal,solteiro,$60K - $80K,blue,20,3,6,2,3940.31,3257.1,53
+713261133,1,38,M,4,mestrado,na,$60K - $80K,blue,22,5,3,2,8632.64,2221.59,40
+768243858,1,54,M,3,ensino medio,casado,$80K - $120K,blue,48,3,3,4,3288.43,2717.57,46
+709649958,1,62,M,0,doutorado,divorciado,$60K - $80K,silver,46,4,6,5,28229.71,2281.81,45
+717072108,1,50,F,2,na,solteiro,$40K - $60K,blue,36,3,2,3,2762.03,2571.43,44
+721460283,1,49,F,3,doutorado,solteiro,menos que $40K,blue,35,5,2,1,2214.58,2144.72,51
+719577258,1,43,F,2,sem educacao formal,divorciado,menos que $40K,blue,30,3,4,3,6811.84,1937.47,39
+772528158,1,55,F,3,na,solteiro,menos que $40K,blue,45,4,4,3,1741.48,2546.28,42
+718707933,1,54,M,2,sem educacao formal,casado,$60K - $80K,blue,35,4,4,3,2189.52,2750.83,51
+771638733,1,49,M,3,doutorado,solteiro,$40K - $60K,blue,37,5,3,2,4354.92,2750.46,59
+713930433,1,57,M,2,sem educacao formal,na,$80K - $120K,blue,36,5,3,3,4316.49,1920.08,53
+772162683,1,34,F,2,mestrado,casado,menos que $40K,blue,23,6,2,2,3116.25,2768.65,45
+712531008,1,43,M,3,na,casado,$120K +,blue,34,4,2,3,24868.65,2510.77,32
+716709858,1,34,F,1,sem educacao formal,na,menos que $40K,blue,25,1,3,2,3074.07,2721.39,54
+814765533,1,44,F,4,ensino medio,solteiro,$40K - $60K,blue,39,4,3,3,10587.17,2971.91,54
+826421958,1,46,F,1,ensino medio,casado,menos que $40K,blue,42,5,1,4,1438.32,1843.16,44
+708158133,1,45,M,3,graduacao,casado,$80K - $120K,blue,36,3,2,2,3031.16,2188.95,50
+708653958,1,38,M,3,graduacao,casado,$60K - $80K,blue,36,5,2,2,6114.91,2608.88,36
+712161858,1,55,F,5,na,solteiro,menos que $40K,blue,36,4,3,2,1438.71,2244.23,54
+780143283,1,43,F,3,mestrado,casado,$40K - $60K,blue,32,4,3,3,2701.7,2678.21,37
+719881533,1,46,M,2,graduacao,casado,$40K - $60K,silver,34,5,4,3,16547.29,1561.26,41
+771783333,1,49,F,1,sem educacao formal,divorciado,$40K - $60K,blue,37,6,2,2,2173.83,2379.84,57
+711274458,1,38,F,3,ensino medio,casado,menos que $40K,blue,27,4,3,3,1438.35,2478.36,45
+714035283,1,56,F,1,doutorado,casado,menos que $40K,blue,36,6,2,2,2802.38,2371.39,46
+708376983,1,58,F,1,na,solteiro,na,blue,50,5,2,2,8513.68,2119.47,37
+711862533,1,55,F,1,sem educacao formal,casado,menos que $40K,blue,36,5,2,3,2258.2,2500.22,42
+772407333,1,41,F,3,na,casado,menos que $40K,blue,30,5,3,3,1654.9,1730.84,30
+720654183,1,45,M,4,mestrado,casado,$80K - $120K,blue,35,2,3,3,23542.09,2152.71,46
+779348358,1,52,F,1,sem educacao formal,solteiro,menos que $40K,blue,37,5,4,3,1717.41,3004.82,46
+827051808,1,44,F,0,graduacao,casado,menos que $40K,blue,40,5,2,4,7499.12,2478.75,45
+710484408,1,39,M,4,doutorado,casado,$120K +,blue,29,6,3,3,8700.61,2306.69,50
+817108083,1,55,M,3,na,solteiro,$60K - $80K,blue,35,3,3,3,14266.24,1625.29,34
+813449508,1,61,M,0,mestrado,casado,$60K - $80K,blue,56,6,3,2,9918.65,2485.27,40
+713474733,1,51,M,2,mestrado,solteiro,$80K - $120K,blue,31,5,2,3,1438.04,1783.94,40
+790119408,1,48,F,3,sem educacao formal,casado,menos que $40K,blue,41,5,2,3,4960.16,2430.63,48
+708684108,1,46,F,4,mestrado,casado,$40K - $60K,blue,34,5,1,3,4152.17,2218.82,30
+803115258,1,62,M,0,graduacao,na,$40K - $60K,blue,56,2,2,6,3477.54,2113.95,40
+708736608,1,40,M,3,mestrado,casado,$120K +,blue,27,5,2,3,2269.78,2108.03,39
+713047608,1,40,F,2,graduacao,na,menos que $40K,blue,36,6,3,1,2387.94,2134.57,41
+711886383,1,54,F,5,ensino medio,casado,na,blue,44,5,3,3,5342.19,2426.14,46
+713058858,1,54,F,2,mestrado,na,menos que $40K,blue,46,5,2,3,1695.64,2130.22,48
+714789033,1,54,F,1,mestrado,casado,menos que $40K,blue,50,3,3,3,3173.83,2763.84,51
+809811858,1,43,M,5,ensino medio,na,$80K - $120K,blue,38,3,2,3,1504.02,2530.75,43
+826709658,1,45,F,3,mestrado,divorciado,$40K - $60K,blue,41,1,3,3,1477.07,2214.32,43
+719098308,1,56,F,2,ensino medio,solteiro,menos que $40K,blue,42,5,2,4,2423.65,2516.83,59
+757194408,1,43,M,3,graduacao,casado,$60K - $80K,blue,36,2,3,3,1438.1,1707.32,38
+762020133,1,37,F,3,ensino medio,casado,na,blue,30,3,3,3,9874.93,2446.85,47
+780720258,1,45,M,4,ensino medio,divorciado,menos que $40K,blue,34,4,3,2,3489.77,2684.07,39
+788835408,1,49,F,3,na,casado,menos que $40K,blue,33,6,3,3,2910.66,2648.93,41
+712327608,1,54,F,0,doutorado,solteiro,menos que $40K,blue,36,4,2,3,2708.05,2321.53,45
+712982808,1,47,M,2,doutorado,divorciado,$80K - $120K,blue,32,1,3,3,1438.58,2388.16,42
+715222533,1,52,F,3,mestrado,casado,menos que $40K,blue,36,5,3,3,2566.94,2340.92,36
+708373083,1,40,F,4,na,casado,$40K - $60K,blue,30,1,4,3,3356.55,2032.03,39
+712552608,1,46,F,3,mestrado,casado,menos que $40K,blue,34,3,1,3,1438.27,2658.6,43
+794675058,1,36,M,3,mestrado,casado,$80K - $120K,blue,21,5,2,3,5015.44,2491.22,43
+809616108,1,38,F,2,ensino medio,solteiro,menos que $40K,blue,33,3,3,3,1568.73,2812.08,59
+708108333,1,47,F,3,mestrado,casado,na,blue,36,3,1,3,5590.55,1507.81,32
+708972783,1,48,F,4,graduacao,casado,menos que $40K,blue,37,3,3,2,1745.86,2297.45,44
+767553333,1,45,M,3,mestrado,solteiro,$80K - $120K,blue,39,1,3,3,8383.29,2600.88,44
+720062508,1,38,F,2,na,casado,$40K - $60K,blue,28,6,2,2,1628.41,2527.57,41
+714013983,1,37,F,4,doutorado,casado,menos que $40K,blue,36,3,3,3,1586.71,2109.45,41
+711540108,1,44,F,4,doutorado,na,na,blue,33,5,6,3,1438.31,2316.23,48
+713583408,1,51,F,4,mestrado,solteiro,$40K - $60K,blue,37,2,2,3,4708.05,2179.96,50
+713957283,1,42,F,4,sem educacao formal,casado,menos que $40K,blue,23,3,3,2,3214.44,2119.53,44
+815539233,1,54,M,4,ensino medio,solteiro,$80K - $120K,silver,49,1,4,3,34516.38,1201.35,22
+711399408,1,34,F,2,mestrado,divorciado,na,blue,25,2,4,3,12373.83,2462.45,40
+711716133,1,42,F,3,ensino medio,casado,$40K - $60K,blue,34,6,1,3,1585.6,2360.72,40
+720872433,1,39,F,1,sem educacao formal,solteiro,$40K - $60K,blue,28,5,6,3,3911.87,2867.1,42
+715530258,1,46,F,2,doutorado,solteiro,na,blue,37,1,3,3,4848.88,2353.85,53
+710410158,1,49,M,2,mestrado,na,$80K - $120K,blue,38,3,3,4,34516.9,1592.37,35
+708976908,1,40,M,3,doutorado,solteiro,$80K - $120K,blue,36,4,3,4,8958.74,2131.46,43
+712602708,1,36,M,3,na,na,$80K - $120K,blue,36,4,2,1,1815.54,2039.82,34
+771422883,1,57,F,3,mestrado,casado,menos que $40K,blue,45,1,2,4,1759.93,2705.47,35
+708703308,1,35,F,1,na,casado,$40K - $60K,blue,26,6,4,4,2045.31,2183.96,39
+820047858,1,44,F,4,mestrado,na,menos que $40K,blue,39,1,2,4,3017.63,2096.23,50
+708186933,1,33,M,1,mestrado,solteiro,$60K - $80K,blue,36,4,2,3,1819.23,2254.65,45
+708498033,1,44,F,3,na,casado,menos que $40K,blue,36,3,6,4,2279.65,2789.18,52
+815315058,1,48,F,4,ensino medio,casado,$40K - $60K,blue,43,4,2,2,1438.52,2520.09,45
+713512308,1,50,F,0,mestrado,solteiro,menos que $40K,blue,41,2,1,3,3423.68,2229.43,45
+709581483,1,40,F,4,doutorado,casado,menos que $40K,blue,21,1,1,2,2984.53,2373.34,53
+711201108,1,37,F,3,ensino medio,solteiro,menos que $40K,blue,29,3,3,3,1653.05,2284.83,35
+714887808,1,43,F,1,sem educacao formal,solteiro,menos que $40K,blue,36,1,2,3,1818.91,2279.25,50
+709714008,1,50,F,1,na,solteiro,na,blue,39,6,3,3,9248.82,2325.74,45
+714519408,1,44,F,3,graduacao,casado,menos que $40K,blue,36,2,3,3,5357.43,1979.49,48
+712740108,1,43,F,4,sem educacao formal,divorciado,menos que $40K,blue,33,6,1,3,1706.27,2371.12,45
+720251358,1,54,F,2,ensino medio,divorciado,menos que $40K,blue,36,6,1,3,3591.61,2313.31,43
+828294933,1,49,F,3,ensino medio,casado,menos que $40K,blue,45,3,3,2,2951.59,2519.29,36
+712307283,1,54,M,1,graduacao,solteiro,$120K +,blue,37,6,3,2,9090.11,2239.95,43
+778910883,1,53,M,2,na,casado,$80K - $120K,blue,34,4,2,3,1837.73,2169.98,43
+779848383,1,37,F,3,mestrado,solteiro,menos que $40K,blue,21,4,2,2,1784.24,2348.13,47
+717371583,1,56,F,2,sem educacao formal,solteiro,menos que $40K,blue,36,1,5,3,1883.22,1954.95,45
+712163433,1,47,M,3,sem educacao formal,casado,$40K - $60K,blue,29,1,4,2,1684.11,2164.83,36
+711487533,1,47,F,3,na,casado,menos que $40K,blue,38,3,2,3,1438.26,1687.37,38
+715306983,1,42,M,5,ensino medio,casado,$60K - $80K,blue,36,1,3,2,1866.29,2833.26,42
+789637308,1,45,F,2,graduacao,divorciado,$40K - $60K,blue,39,4,4,3,3076.83,2580.89,50
+794172033,1,58,F,1,doutorado,divorciado,menos que $40K,blue,52,4,3,1,1817.71,2347.32,45
+714520233,1,59,F,0,mestrado,casado,menos que $40K,blue,36,2,2,3,1708.42,1992.07,38
+717725433,1,54,F,2,mestrado,casado,$40K - $60K,blue,44,3,2,4,1606,2258.33,37
+710690733,1,47,F,3,mestrado,casado,menos que $40K,blue,35,4,2,3,1666.02,2816.15,38
+779084208,1,43,F,3,ensino medio,divorciado,menos que $40K,blue,24,4,2,2,1662.57,2326.75,31
+715304958,1,42,F,3,mestrado,solteiro,menos que $40K,blue,27,6,2,2,2053.06,3053.63,50
+715950483,1,39,F,1,sem educacao formal,casado,$40K - $60K,blue,27,3,3,3,2821.62,2397.1,35
+711919608,1,42,F,3,mestrado,casado,menos que $40K,blue,36,4,2,3,2031.13,2702.33,32
+717624708,1,59,M,2,ensino medio,divorciado,menos que $40K,blue,51,6,3,5,1438.42,2589.65,49
+789095958,1,50,M,1,na,solteiro,$60K - $80K,blue,38,4,3,3,7603.83,2497.81,42
+713736333,1,41,F,3,sem educacao formal,casado,$40K - $60K,blue,36,1,4,3,3606.95,1829.45,41
+714213708,1,35,F,3,graduacao,solteiro,menos que $40K,blue,25,4,2,3,3611.43,2178.97,45
+720142308,1,52,F,2,mestrado,casado,menos que $40K,blue,36,5,4,3,2160.64,2360.81,56
+819688458,1,44,F,5,mestrado,na,menos que $40K,blue,39,6,2,3,1545.65,2646.32,39
+710785383,1,49,F,2,mestrado,casado,menos que $40K,blue,39,3,1,3,2212.26,2394.77,55
+713597658,1,36,F,3,sem educacao formal,solteiro,menos que $40K,blue,22,3,1,3,2784.71,2021.49,57
+713953383,1,50,M,1,doutorado,solteiro,$60K - $80K,blue,36,4,2,3,2317.26,2214.74,41
+716510658,1,50,F,0,doutorado,solteiro,menos que $40K,blue,38,4,3,3,2595.57,2526.96,41
+708519108,1,46,F,1,mestrado,casado,na,blue,24,3,2,3,2694.02,2041.03,57
+719740008,1,51,F,4,ensino medio,casado,menos que $40K,blue,41,3,4,3,2791.75,2584.56,49
+711605208,1,61,M,0,sem educacao formal,casado,$80K - $120K,blue,43,3,5,3,1438.18,1958.67,47
+714408933,1,44,M,4,mestrado,solteiro,$80K - $120K,blue,36,4,2,2,10834.25,2249.61,51
+716099958,1,39,F,5,na,casado,$40K - $60K,blue,31,3,6,3,3333.95,3348.86,50
+712795833,1,34,F,4,mestrado,casado,menos que $40K,blue,36,2,4,2,5021.55,2270.46,40
+712593933,1,40,M,3,doutorado,casado,$40K - $60K,blue,36,3,4,3,2313.35,2249.66,42
+714164808,1,42,F,4,mestrado,casado,$40K - $60K,blue,33,4,2,3,2918.39,2056.88,54
+710500983,1,43,M,2,graduacao,solteiro,$80K - $120K,blue,34,2,3,4,4617.86,1779.93,35
+711904008,1,40,M,4,ensino medio,casado,$60K - $80K,blue,36,4,5,3,5869.11,2203.74,41
+717666783,1,56,F,3,graduacao,solteiro,menos que $40K,blue,46,1,3,3,2272.64,2354.12,49
+720731808,1,52,F,3,mestrado,solteiro,menos que $40K,blue,38,2,4,3,2437.24,3068.79,53
+789907533,1,49,M,3,mestrado,casado,$80K - $120K,blue,40,4,3,2,4576.59,3100.09,54
+715919283,1,39,F,4,graduacao,solteiro,$40K - $60K,blue,36,3,3,2,1776.23,2201.76,31
+714559458,1,46,M,4,graduacao,casado,$60K - $80K,blue,36,4,1,2,1681.55,1953.28,48
+772150983,1,48,F,3,ensino medio,na,menos que $40K,blue,37,4,1,2,2363.26,2635.71,40
+713920158,1,41,F,3,sem educacao formal,na,na,blue,36,2,1,3,13733.85,1591.61,30
+712998033,1,37,M,3,ensino medio,solteiro,$120K +,blue,36,3,2,2,7361.09,2109.39,44
+712843983,1,41,F,2,graduacao,divorciado,menos que $40K,blue,36,3,4,3,1569.23,2288.08,45
+714127383,1,48,F,3,na,na,na,blue,36,3,2,3,4431.84,2185.53,48
+779380908,1,51,M,1,na,casado,$80K - $120K,blue,39,4,4,3,24462.3,1709.32,37
+713011683,1,37,F,3,graduacao,casado,na,blue,24,4,4,2,11239.35,2055.4,43
+712677633,1,42,F,0,sem educacao formal,divorciado,na,blue,31,3,4,3,2712.33,2307.65,28
+713381433,1,38,F,1,ensino medio,casado,menos que $40K,blue,28,3,3,3,4196.5,1868.4,30
+716697708,1,61,F,1,ensino medio,solteiro,na,blue,52,3,4,2,3293.04,3121.57,56
+720507108,1,42,F,3,graduacao,casado,menos que $40K,blue,28,3,2,3,1601.46,2339.95,41
+716751858,1,34,F,1,na,casado,menos que $40K,blue,36,2,3,3,2401.63,2597.23,40
+712829808,1,39,M,3,sem educacao formal,casado,$60K - $80K,blue,29,4,4,3,2187.95,2031.15,40
+779302233,1,40,F,4,mestrado,solteiro,menos que $40K,blue,22,4,3,2,1438.84,2502.54,45
+717042333,1,53,F,2,graduacao,casado,menos que $40K,blue,44,3,3,3,1473.11,2836.48,48
+771061008,1,40,F,2,doutorado,casado,$40K - $60K,blue,27,4,3,2,2208.58,2659.41,56
+720824883,1,48,F,1,na,solteiro,menos que $40K,blue,40,3,2,1,3251.55,2483.29,50
+715847058,1,59,F,2,sem educacao formal,divorciado,menos que $40K,blue,36,3,3,3,1863.82,2462.73,40
+712770408,1,42,F,2,mestrado,na,menos que $40K,blue,36,6,2,3,3413.61,2285.1,40
+710752233,1,43,F,5,ensino medio,na,$40K - $60K,blue,24,3,2,2,4430.62,2742.92,49
+715146558,1,34,F,2,graduacao,casado,menos que $40K,blue,36,1,2,3,1696.66,2325.84,56
+778606308,1,45,M,3,sem educacao formal,divorciado,$80K - $120K,blue,25,2,3,2,6614.59,3016.24,51
+710438358,1,42,F,1,sem educacao formal,solteiro,menos que $40K,blue,35,4,3,3,3241.83,2152.66,43
+712562433,1,48,F,2,na,casado,menos que $40K,blue,30,3,3,3,4204.87,2316.27,43
+713717283,1,40,F,3,na,solteiro,$40K - $60K,blue,29,3,3,3,2473.08,1738.7,32
+713822208,1,42,M,2,ensino medio,solteiro,$60K - $80K,blue,33,3,3,3,4836.56,1870.23,45
+718230933,1,45,M,4,mestrado,solteiro,menos que $40K,blue,36,5,3,2,1438.62,1253.65,29
+711637458,1,44,F,3,ensino medio,solteiro,menos que $40K,blue,36,2,3,3,2228.48,2523.08,45
+708384033,1,45,F,3,sem educacao formal,casado,menos que $40K,blue,35,3,3,3,2745.89,2466.75,39
+713677158,1,31,F,1,mestrado,divorciado,na,blue,22,2,3,2,1623.27,2126.11,45
+718090233,1,56,F,3,mestrado,solteiro,na,blue,36,3,3,3,10016.53,2804.4,37
+787529583,1,41,F,5,na,casado,$40K - $60K,blue,30,5,3,2,1588.24,2561.19,61
+713772333,1,45,F,3,na,divorciado,menos que $40K,blue,34,4,1,3,3223.96,1979.54,38
+714514008,1,38,F,1,mestrado,casado,na,blue,29,3,3,3,8953.77,1982.29,43
+711669258,1,50,F,3,sem educacao formal,solteiro,na,blue,36,2,3,3,3187.4,2381.73,47
+720592533,1,41,M,4,mestrado,na,$80K - $120K,blue,31,3,2,3,19782.93,2535.44,44
+778207083,1,53,M,4,sem educacao formal,solteiro,$80K - $120K,blue,44,3,2,3,11561.39,2153.73,39
+778781508,1,44,F,2,ensino medio,casado,na,blue,32,4,3,3,8477.5,2455.51,41
+712130058,1,44,F,4,sem educacao formal,solteiro,na,blue,36,3,4,3,8075.01,2415.99,41
+794719983,1,44,F,4,ensino medio,na,menos que $40K,blue,38,2,3,2,2616.92,2576.67,42
+778378983,1,54,F,1,mestrado,solteiro,menos que $40K,blue,34,5,2,2,2939.25,2476.34,42
+709850508,1,33,F,2,mestrado,casado,menos que $40K,blue,20,3,5,2,3202.28,2917.64,37
+712448658,1,52,F,1,ensino medio,solteiro,menos que $40K,blue,36,3,2,3,1795.7,2281.21,55
+708276183,1,52,F,3,doutorado,casado,menos que $40K,blue,45,2,1,4,1760.66,1554.66,35
+720590058,1,51,F,1,mestrado,solteiro,$40K - $60K,blue,36,3,3,3,8840.69,2839.55,47
+717748608,1,35,F,4,ensino medio,casado,menos que $40K,blue,24,3,4,2,1555.69,2252.55,51
+716694108,1,42,M,4,sem educacao formal,casado,$120K +,blue,34,2,3,3,5195.45,2682.55,48
+719981508,1,37,M,2,sem educacao formal,solteiro,na,blue,24,2,3,2,1649.9,2574.42,51
+716754783,1,43,M,4,ensino medio,casado,$120K +,blue,30,3,3,2,17228.52,2229.05,44
+708575058,1,46,F,3,sem educacao formal,divorciado,$40K - $60K,blue,39,2,2,3,3157.42,3300.14,58
+713929533,1,36,F,3,graduacao,casado,menos que $40K,blue,36,2,2,2,1707.11,2060.58,52
+720766908,1,40,F,2,sem educacao formal,solteiro,menos que $40K,blue,28,2,2,2,3021.51,2814.09,37
+805524708,1,52,F,3,ensino medio,divorciado,menos que $40K,blue,47,3,1,3,6629.83,2599.68,50
+716299608,1,58,F,3,na,divorciado,menos que $40K,blue,36,2,3,2,1508.33,1990.42,31
+802460433,1,57,F,3,ensino medio,casado,na,blue,51,2,2,5,1438.86,2607.35,37
+719512983,1,47,F,4,mestrado,solteiro,menos que $40K,blue,39,3,6,3,1438.09,2295.57,51
+714923583,1,38,F,2,mestrado,na,menos que $40K,blue,36,2,2,3,2369.14,1924.08,48
+720719883,1,54,F,1,mestrado,solteiro,na,blue,41,3,3,3,1874.92,2535.6,55
+806914158,1,38,F,4,mestrado,casado,$40K - $60K,blue,33,4,1,3,4047.94,2134.54,34
+812671758,1,47,F,5,doutorado,casado,na,blue,42,3,3,5,4345.01,2458.12,44
+793630083,1,39,M,2,ensino medio,solteiro,$120K +,blue,33,1,4,3,1726.11,1804.8,34
+712900308,1,44,F,2,graduacao,solteiro,menos que $40K,blue,34,4,3,3,1751.58,2078.55,37
+780660183,1,43,F,4,ensino medio,divorciado,menos que $40K,blue,32,2,2,3,8203.55,2613.59,46
+720761208,1,59,M,1,graduacao,solteiro,$120K +,blue,47,2,2,4,4789.96,2496.48,41
+788794758,1,46,M,4,mestrado,solteiro,$40K - $60K,blue,28,2,4,2,2979.78,2061.52,38
+711150333,1,40,F,3,mestrado,solteiro,menos que $40K,blue,31,5,2,3,2391.93,2857.56,40
+715516458,1,42,F,1,ensino medio,casado,$40K - $60K,blue,36,5,2,3,2705.49,2602.59,43
+808903308,1,54,F,1,na,casado,$40K - $60K,blue,49,4,6,3,2471.43,2519.51,35
+713373708,1,54,F,3,na,solteiro,menos que $40K,blue,36,2,3,3,1857.3,2464.5,57
+711448983,1,47,F,2,mestrado,casado,menos que $40K,blue,34,2,2,2,2234.65,2313.44,37
+712664658,1,35,F,1,mestrado,solteiro,menos que $40K,blue,30,2,2,2,1649.79,2549.43,54
+714237033,1,42,F,4,sem educacao formal,casado,na,blue,36,6,3,2,5557.09,2299.24,39
+713726958,1,40,F,3,doutorado,casado,menos que $40K,blue,21,5,2,2,1728.23,2191.03,38
+711873033,1,35,F,3,na,solteiro,na,blue,29,4,3,2,1438.88,2549.99,56
+712715208,1,52,M,1,ensino medio,solteiro,$80K - $120K,blue,44,1,2,3,3770.36,2387.46,51
+778899708,1,56,F,2,na,solteiro,$40K - $60K,blue,37,2,3,2,2963.77,2919.42,47
+771865908,1,48,F,2,mestrado,solteiro,na,blue,37,4,3,2,11750.93,2532.63,48
+715162608,1,48,F,2,mestrado,solteiro,menos que $40K,blue,41,4,3,2,2168.72,2499.87,38
+709079883,1,45,F,4,doutorado,casado,menos que $40K,blue,36,5,3,3,1663.77,2729.52,38
+721406658,1,32,F,0,na,divorciado,menos que $40K,blue,36,6,3,3,1732.55,2479.29,43
+797150733,1,44,M,3,na,solteiro,$40K - $60K,blue,38,5,2,2,1643.55,1754.58,39
+714930333,1,39,M,3,graduacao,casado,$80K - $120K,blue,30,2,3,3,4618.66,2476.8,49
+717489033,1,27,F,0,ensino medio,solteiro,menos que $40K,blue,18,6,4,1,1438.2,2641.79,40
+714424533,1,41,F,4,mestrado,casado,menos que $40K,blue,36,6,2,2,1655.25,2156.05,37
+713748708,1,46,F,3,mestrado,solteiro,menos que $40K,blue,37,1,4,2,1438.36,1757.98,44
+816476658,1,54,F,2,na,casado,na,blue,49,2,3,4,1812.87,2921.56,44
+711234783,1,44,F,4,na,casado,menos que $40K,blue,28,5,3,2,2020.12,2621.41,45
+717409533,1,36,F,2,doutorado,solteiro,menos que $40K,blue,26,1,3,2,1821.97,2824.5,43
+787452333,1,39,F,1,ensino medio,casado,menos que $40K,blue,25,2,1,2,2024.37,2870.98,36
+709520058,1,53,M,5,sem educacao formal,casado,$120K +,blue,38,4,2,2,19138.02,2028.89,43
+820694133,1,60,F,0,ensino medio,casado,na,blue,55,4,3,1,5549.65,2412.37,38
+711800658,1,42,F,3,ensino medio,solteiro,menos que $40K,blue,36,2,3,3,2145.5,2465.28,42
+712279683,1,44,M,3,mestrado,casado,$60K - $80K,blue,36,2,3,3,9114.38,2740.62,52
+712853358,1,39,F,3,ensino medio,na,menos que $40K,blue,36,2,2,3,1817.89,2216.73,44
+709362033,1,52,F,1,mestrado,casado,menos que $40K,blue,42,1,3,5,1471.75,2253.36,48
+719860308,1,42,F,2,mestrado,casado,menos que $40K,blue,36,2,3,3,1438.45,2418.47,48
+714443058,1,43,F,4,graduacao,casado,menos que $40K,blue,28,5,4,2,1484.74,1664.75,39
+716315508,1,37,F,3,doutorado,casado,$40K - $60K,blue,36,2,5,2,3233.42,1339.55,32
+720401658,1,53,F,3,mestrado,solteiro,menos que $40K,blue,34,5,5,3,1438.85,1985.46,38
+718806783,1,46,F,3,sem educacao formal,casado,na,blue,36,2,1,3,2872.52,2629.01,41
+714484008,1,49,F,4,sem educacao formal,casado,menos que $40K,blue,31,4,2,3,1567.99,2138.54,41
+719176308,1,43,M,3,graduacao,divorciado,$80K - $120K,blue,32,6,2,3,7278.58,2120.91,43
+714630858,1,36,F,1,sem educacao formal,na,menos que $40K,blue,36,2,2,3,1470.48,2383.81,39
+712662783,1,43,F,2,graduacao,casado,na,blue,36,1,6,2,3793.1,2577.85,57
+779905008,1,54,F,4,mestrado,na,$40K - $60K,blue,38,2,1,2,1779.55,2660.28,41
+720961383,1,47,F,3,sem educacao formal,solteiro,na,blue,36,2,4,3,2952.07,2907.75,60
+714202008,1,53,F,2,ensino medio,casado,menos que $40K,blue,36,6,2,3,3918.89,2115.23,42
+712704933,1,49,F,4,ensino medio,na,$40K - $60K,blue,43,4,3,3,4048.33,2227.23,41
+715904433,1,42,F,4,graduacao,casado,$40K - $60K,blue,34,1,2,3,1695.58,2055.82,46
+711691608,1,46,F,4,mestrado,solteiro,menos que $40K,blue,36,2,3,3,2881.37,2450.64,49
+708266883,1,34,F,2,mestrado,solteiro,menos que $40K,blue,36,1,3,2,1666.95,2312.76,35
+711102858,1,48,F,2,doutorado,solteiro,na,blue,36,4,3,2,3137.57,1618.58,34
+711722808,1,51,F,4,mestrado,solteiro,menos que $40K,blue,44,5,3,3,1483.63,2520.16,40
+710292333,1,44,F,3,ensino medio,casado,na,blue,36,3,4,3,7772.4,2618.53,52
+787339158,1,56,M,1,mestrado,casado,$80K - $120K,blue,50,3,3,6,8688.4,2361.69,41
+714848958,1,47,F,2,mestrado,solteiro,menos que $40K,gold,37,6,1,2,15109.98,2315.31,43
+713144208,1,51,F,0,ensino medio,casado,na,blue,42,1,4,4,9989.82,2053.28,49
+771594783,1,56,F,1,graduacao,casado,na,blue,44,2,4,4,1438.54,2264.73,37
+719305608,1,57,F,3,ensino medio,solteiro,menos que $40K,blue,36,4,3,3,2347.59,2447.71,47
+720190083,1,56,F,3,na,solteiro,menos que $40K,blue,39,1,4,3,1632.73,2509.01,47
+708323208,1,49,F,3,sem educacao formal,casado,menos que $40K,blue,36,4,4,2,1522.23,2241.02,36
+716963283,1,47,F,3,mestrado,na,menos que $40K,blue,38,2,3,2,3165.32,2751.62,49
+719449533,1,49,F,3,sem educacao formal,solteiro,$40K - $60K,blue,38,1,3,2,2655.38,2386.89,49
+778819083,1,41,F,2,doutorado,casado,$40K - $60K,blue,33,1,3,3,1604.71,2264.28,47
+714773508,1,54,F,1,mestrado,casado,$40K - $60K,blue,46,6,3,4,1632.92,2532.55,43
+711456108,1,46,F,4,na,casado,$40K - $60K,blue,39,5,3,3,1438.86,2488.4,44
+713027058,1,46,F,4,doutorado,solteiro,menos que $40K,blue,36,2,3,2,2292.28,2595.01,31
+781137783,1,40,M,3,ensino medio,na,menos que $40K,blue,33,1,4,3,2420.49,2478.21,43
+719821908,1,38,F,2,ensino medio,solteiro,menos que $40K,blue,16,2,2,1,2703.14,2752.62,43
+712378983,1,54,M,1,na,solteiro,$80K - $120K,blue,47,5,5,6,7570.3,2599.52,61
+714197133,1,51,F,3,graduacao,casado,$40K - $60K,blue,36,2,3,3,4762.11,2811.91,52
+716279508,1,48,M,3,graduacao,casado,$80K - $120K,blue,41,2,3,3,3430.23,2639.99,46
+717502083,1,41,M,3,doutorado,solteiro,$120K +,blue,28,4,3,2,6314.42,2718.15,44
+709745508,1,58,F,2,na,divorciado,$40K - $60K,blue,47,1,3,4,2295.93,2140.26,40
+711382458,1,43,M,5,mestrado,casado,$60K - $80K,blue,38,2,5,3,1438.39,2389.9,49
+709102458,1,47,M,2,ensino medio,solteiro,$80K - $120K,blue,36,4,5,3,4754.82,2607.15,41
+807946833,1,44,F,2,mestrado,solteiro,menos que $40K,blue,39,6,3,3,1791.8,2771.31,36
+717146208,1,59,F,1,mestrado,solteiro,menos que $40K,blue,51,1,4,4,4257.05,2828.04,50
+785237958,1,45,M,5,graduacao,casado,$60K - $80K,blue,39,2,3,3,3439.45,2661.23,35
+719123958,1,40,M,4,na,divorciado,$60K - $80K,blue,27,2,3,2,5051.91,2137.07,45
+712660308,1,44,F,1,ensino medio,solteiro,menos que $40K,blue,36,2,3,3,1895.85,2472.49,40
+823548858,1,53,F,4,mestrado,casado,na,blue,49,5,4,5,10533.2,2585.22,48
+712144158,1,53,F,1,mestrado,solteiro,menos que $40K,blue,48,6,3,6,2370.33,2164.75,45
+824560758,1,35,F,3,mestrado,solteiro,menos que $40K,blue,31,1,4,3,1678.88,2475.52,61
+757710783,1,36,F,1,mestrado,casado,menos que $40K,blue,29,4,3,2,1493.18,2516.21,63
+710481333,1,50,F,4,ensino medio,casado,menos que $40K,blue,36,5,5,3,2690.61,2272.26,57
+711683358,1,46,F,3,ensino medio,na,menos que $40K,blue,41,2,4,3,3313.7,2135.56,44
+779859558,1,54,F,3,ensino medio,casado,menos que $40K,blue,38,2,4,2,2452.28,2398.24,29
+780670083,1,39,F,2,na,na,$40K - $60K,blue,28,1,3,2,4363.27,2596.83,48
+712790358,1,39,F,3,sem educacao formal,casado,na,blue,30,6,4,3,3023.44,2219.5,44
+713931258,1,56,F,3,mestrado,casado,menos que $40K,blue,45,2,4,3,1438.61,1988.89,42
+708190158,1,38,F,3,ensino medio,solteiro,menos que $40K,blue,26,2,0,3,2920.22,2750.31,41
+784895358,1,49,F,1,mestrado,casado,menos que $40K,blue,43,5,3,3,1938.54,2870.67,49
+772271508,1,46,F,3,sem educacao formal,solteiro,na,blue,35,2,3,3,1706.17,2320.8,42
+711412533,1,40,F,3,ensino medio,solteiro,menos que $40K,blue,35,6,5,3,5492.52,2416.98,45
+778191933,1,45,M,3,sem educacao formal,solteiro,$120K +,blue,35,2,5,3,7135.9,2305.54,42
+718152333,1,41,F,3,doutorado,solteiro,na,blue,36,2,6,3,2246.2,3607.55,51
+785285883,1,49,F,3,mestrado,solteiro,menos que $40K,blue,43,6,4,3,1675.62,2622.45,53
+711298458,1,39,F,3,na,casado,menos que $40K,blue,26,5,5,2,2190.36,2338.04,40
+715773783,1,44,F,2,mestrado,solteiro,$40K - $60K,blue,35,2,4,3,4196.47,2558.07,38
+712747758,1,50,F,4,sem educacao formal,solteiro,menos que $40K,blue,36,2,3,2,2477.05,2037.81,43
+750995508,1,41,M,3,na,solteiro,$60K - $80K,blue,32,1,3,3,4697.68,1679.51,29
+718437033,1,46,M,2,sem educacao formal,na,$60K - $80K,blue,30,4,2,3,1438.35,2527.09,38
+709222008,1,41,M,3,na,solteiro,$80K - $120K,blue,32,1,4,3,4742.58,2422.72,41
+718742808,1,55,F,1,ensino medio,casado,$40K - $60K,blue,46,2,3,4,4629.78,2877.56,49
+721426383,1,36,F,3,na,solteiro,menos que $40K,blue,36,4,0,3,1558.57,2424.38,40
+721041483,1,45,M,4,doutorado,casado,$60K - $80K,blue,37,1,2,2,13093.37,2032.63,39
+708416433,1,41,F,1,ensino medio,solteiro,menos que $40K,blue,36,4,2,3,2372.36,2499.84,41
+779183958,1,45,F,2,mestrado,solteiro,menos que $40K,blue,33,1,4,3,1492.71,2469.33,38
+711666708,1,52,F,2,ensino medio,casado,na,blue,39,1,4,3,2233.35,2888.81,50
+819634233,1,46,F,2,mestrado,na,menos que $40K,blue,40,5,2,2,6568.76,1507.39,33
+719868183,1,42,F,3,ensino medio,casado,$40K - $60K,blue,30,5,2,3,1456.35,2843.26,42
+767404083,1,52,M,2,mestrado,solteiro,$60K - $80K,blue,45,2,3,3,3460.49,2355.19,47
+772127508,1,31,F,1,sem educacao formal,casado,menos que $40K,blue,20,6,2,2,1438.12,2614.4,49
+796083783,1,55,F,2,graduacao,solteiro,na,blue,49,1,6,0,1438.38,2278.68,57
+778441533,1,45,F,4,ensino medio,solteiro,na,blue,26,6,2,2,4549.94,2240.92,34
+712683633,1,32,F,0,na,casado,menos que $40K,blue,36,5,3,3,1438.86,2464.14,37
+708885558,1,56,F,1,ensino medio,solteiro,menos que $40K,blue,48,1,2,5,3556.68,2220.59,45
+719150658,1,51,F,2,mestrado,casado,na,blue,34,2,2,3,7551.84,2977.23,46
+716354883,1,59,F,0,mestrado,na,na,blue,49,2,2,3,9076.09,3048.88,53
+720150858,1,34,M,2,ensino medio,casado,$80K - $120K,blue,25,6,0,2,1439.57,2932.81,44
+711092658,1,39,F,3,mestrado,casado,na,blue,26,2,3,2,4376.27,2862.67,52
+779247483,1,46,F,1,sem educacao formal,na,na,blue,28,5,6,2,2069.03,2754.58,55
+772306383,1,57,F,3,na,na,menos que $40K,blue,43,5,2,3,1462.07,2299.69,42
+719759733,1,59,F,0,na,solteiro,$40K - $60K,blue,52,2,3,4,1852.6,2851.04,49
+822170733,1,45,F,4,graduacao,solteiro,menos que $40K,blue,41,6,2,3,3785.98,2401.2,54
+719299533,1,55,F,1,na,na,menos que $40K,blue,36,2,2,3,3626.08,2954.31,42
+716688183,1,51,F,1,ensino medio,casado,menos que $40K,blue,43,4,3,3,1665.44,2878.11,45
+741517458,1,49,F,4,mestrado,casado,menos que $40K,blue,42,2,3,4,2575.15,1874.12,40
+772286658,1,63,M,1,mestrado,solteiro,$60K - $80K,blue,52,6,3,4,14324.55,2083.76,56
+771045708,1,41,F,5,mestrado,casado,menos que $40K,blue,28,2,3,3,1504.89,2801.81,51
+720460083,1,45,F,4,na,solteiro,na,gold,27,1,3,2,34516.66,2198.78,42
+717874533,1,46,M,2,ensino medio,solteiro,$40K - $60K,blue,36,5,2,2,6362.72,1968.28,51
+712136058,1,54,F,2,graduacao,solteiro,na,blue,36,1,3,3,8827.73,2643.78,50
+714276408,1,52,F,3,sem educacao formal,solteiro,$40K - $60K,blue,36,2,3,3,1915.7,2264.25,39
+713555133,1,56,F,3,ensino medio,na,menos que $40K,blue,44,4,2,3,1667.58,2424.77,40
+711232608,1,47,F,5,ensino medio,solteiro,menos que $40K,blue,36,2,2,3,1636.52,2235.97,35
+719590458,1,44,F,4,mestrado,casado,menos que $40K,blue,36,6,3,3,1905.47,3121,46
+807379833,1,48,M,3,mestrado,divorciado,$40K - $60K,blue,43,2,3,3,9104.1,2563.21,34
+778860783,1,57,M,2,na,divorciado,$120K +,blue,38,1,4,2,24379.46,2836.95,41
+780008358,1,59,M,0,sem educacao formal,na,$60K - $80K,blue,48,2,2,6,13172.76,2598.07,47
+721274208,1,41,F,2,ensino medio,solteiro,menos que $40K,blue,36,4,3,3,2201.46,2408.88,38
+714076683,1,29,F,0,graduacao,casado,menos que $40K,blue,19,2,2,1,3261.21,2461.54,54
+812218908,1,46,F,2,na,casado,menos que $40K,blue,36,2,2,3,4065.17,2899.08,51
+787482033,1,60,M,1,ensino medio,divorciado,$80K - $120K,blue,48,1,3,5,28930.69,2251.48,27
+813810333,1,50,M,3,doutorado,casado,$60K - $80K,blue,45,6,3,4,2049.21,2703.7,54
+802668333,1,49,M,2,mestrado,solteiro,$80K - $120K,blue,43,2,3,3,2384.51,3512.46,50
+710061783,1,49,M,1,mestrado,casado,$40K - $60K,blue,40,6,4,1,14973.03,4517.76,59
+789312033,1,48,F,4,doutorado,solteiro,menos que $40K,blue,38,3,3,3,3874.1,4921.65,51
+713425383,1,59,F,1,ensino medio,solteiro,menos que $40K,blue,46,2,2,3,7484.31,4923.04,56
+770842833,1,49,F,3,ensino medio,casado,na,silver,36,2,3,3,34516.56,4777.57,51
+809464608,1,47,F,3,ensino medio,casado,na,silver,31,3,2,3,34516.68,2691.84,42
+712925808,1,51,F,1,na,casado,$40K - $60K,blue,36,2,2,3,2710.82,4724.02,60
+708419733,1,47,M,3,graduacao,solteiro,$60K - $80K,blue,39,5,2,3,22599.25,4739.04,55
+801380808,1,44,M,2,doutorado,casado,$80K - $120K,blue,38,1,1,2,25894.31,4847.01,49
+716329383,1,46,F,3,mestrado,solteiro,menos que $40K,blue,36,4,3,2,3138.91,4724.28,56
+715327683,1,45,F,4,doutorado,solteiro,menos que $40K,blue,36,1,3,3,4478,4996.14,55
+718958583,1,44,M,4,doutorado,solteiro,$80K - $120K,blue,36,5,2,3,2367.86,4506.07,59
+778863258,1,46,F,4,na,casado,na,blue,27,1,3,2,6030.56,4983.8,62
+712075083,1,50,M,4,ensino medio,solteiro,$120K +,blue,41,4,3,3,6982.58,4830.06,50
+720903258,1,48,M,3,na,na,$60K - $80K,blue,28,2,1,2,9405.13,4801.46,47
+811700058,1,41,M,2,mestrado,solteiro,$60K - $80K,gold,36,2,3,3,34516.43,4822.02,57
+720164358,1,53,F,4,mestrado,solteiro,$40K - $60K,blue,43,1,2,3,6058.02,4754.73,60
+711325308,1,46,M,3,na,solteiro,$80K - $120K,blue,34,4,3,3,9959.93,4859,64
+709893858,1,43,M,3,doutorado,casado,$40K - $60K,blue,36,6,2,2,9422.26,4633.25,58
+711854808,1,41,M,3,ensino medio,casado,$120K +,blue,32,2,1,2,34516.07,4734.18,57
+720891633,1,53,F,2,ensino medio,solteiro,menos que $40K,blue,46,6,2,1,3199.44,4805.83,59
+769152783,1,60,F,2,ensino medio,solteiro,menos que $40K,blue,54,1,2,6,8141.05,5043.14,53
+779315508,1,43,M,4,doutorado,solteiro,$40K - $60K,blue,25,1,2,2,9043.44,4638.39,48
+789560433,1,49,M,3,doutorado,solteiro,$60K - $80K,blue,42,2,2,4,14895.13,5147.9,53
+771097683,1,43,M,2,ensino medio,solteiro,$120K +,blue,30,1,2,2,10896.05,4935.34,58
+711736083,1,47,F,4,graduacao,divorciado,na,blue,36,4,3,3,6769.2,4885.03,54
+718304583,1,43,M,2,na,casado,$60K - $80K,gold,33,1,2,3,34516.76,4805.51,54
+780450708,1,58,M,1,graduacao,solteiro,$120K +,silver,45,1,2,3,34516.45,4864.7,48
+714342033,1,52,M,1,ensino medio,casado,$120K +,blue,34,2,1,3,34516.14,4863.94,56
+788943333,1,51,M,3,doutorado,casado,$80K - $120K,silver,37,6,2,2,34516.58,4810.22,55
+714077583,1,43,M,3,doutorado,casado,$40K - $60K,platinum,31,2,4,3,23981.68,4758.43,65
+720939933,1,46,F,4,na,solteiro,menos que $40K,blue,33,5,5,3,2879.09,4684.56,56
+716212383,1,38,M,1,ensino medio,solteiro,$120K +,blue,30,5,3,3,10874.41,4619.36,59
+757667133,1,54,M,2,graduacao,solteiro,$80K - $120K,blue,47,2,2,2,13769.7,4738.24,53
+794571108,1,39,M,2,mestrado,divorciado,$40K - $60K,silver,23,5,3,2,17894.12,4691.27,63
+714938733,1,48,M,1,doutorado,solteiro,$80K - $120K,blue,38,4,2,2,13174.51,4890.59,49
+716199408,1,52,F,2,mestrado,solteiro,na,blue,41,2,3,3,3608.44,4907.74,53
+790051758,1,50,M,2,mestrado,solteiro,$120K +,blue,42,2,2,1,31782.15,4800.78,53
+807393558,1,51,M,4,na,solteiro,$120K +,silver,46,2,3,3,34516.47,4615.83,49
+711167808,1,40,M,4,na,solteiro,$60K - $80K,blue,30,4,6,3,18975.23,4803.75,65
+717579258,1,36,M,1,na,na,$40K - $60K,blue,36,2,3,3,6893.51,4782.38,50
+716609433,1,55,M,2,ensino medio,divorciado,$120K +,blue,46,5,2,3,16828.93,4939.43,63
+720962208,1,42,M,2,doutorado,casado,$60K - $80K,blue,27,2,2,2,2476.86,4659.52,48
+793608258,1,54,F,3,mestrado,solteiro,menos que $40K,silver,48,1,2,5,13432.62,4909.45,50
+771411408,1,50,M,1,doutorado,na,$80K - $120K,blue,38,2,4,3,2673.84,4929.42,54
+720006333,1,48,M,2,graduacao,divorciado,$80K - $120K,blue,40,4,3,3,4479.82,4520.5,63
+791730183,1,38,F,2,graduacao,na,menos que $40K,blue,32,2,6,2,7385.84,5070.51,50
+712582983,1,47,F,3,mestrado,casado,menos que $40K,silver,36,4,1,3,14057.78,4729.62,54
+713003358,1,40,M,3,mestrado,solteiro,$80K - $120K,blue,30,2,2,2,29338.91,4983.48,40
+718259433,1,45,F,3,ensino medio,casado,na,blue,40,1,2,4,8383.51,5460.18,63
+720655833,1,48,F,4,ensino medio,casado,menos que $40K,blue,30,2,2,3,2913.21,4955.17,56
+711742758,1,43,F,5,graduacao,solteiro,$40K - $60K,blue,32,2,1,3,11508.89,5242.86,74
+712157958,1,44,M,3,ensino medio,casado,$80K - $120K,blue,36,1,2,3,10908.24,4883.83,42
+711332883,1,62,M,1,ensino medio,solteiro,$60K - $80K,blue,46,2,3,3,7547.98,5294.11,73
+717696333,1,44,M,4,na,casado,$120K +,blue,36,4,3,3,34516.61,5425.93,60
+718353633,1,50,M,1,doutorado,na,$80K - $120K,gold,36,2,2,3,34516.82,5547.6,75
+789412458,1,44,M,2,doutorado,casado,$60K - $80K,blue,34,6,4,3,23026.16,4909.55,52
+711249858,1,49,M,4,na,casado,$80K - $120K,blue,38,2,2,3,29890.4,3315.09,47
+719071158,1,54,F,0,mestrado,solteiro,na,platinum,38,2,2,2,34516.28,3901.4,54
+719714658,1,61,M,0,doutorado,solteiro,$60K - $80K,blue,43,5,2,3,12218.81,5272.76,62
+716858433,1,43,F,4,mestrado,solteiro,menos que $40K,blue,32,4,1,3,3015.97,5372.36,75
+714052158,1,49,M,2,ensino medio,casado,$120K +,blue,39,2,2,3,11714.23,5366.12,68
+720178158,1,46,F,4,ensino medio,na,menos que $40K,blue,37,5,3,3,7552.53,5537.45,63
+710958933,1,43,M,3,mestrado,solteiro,$40K - $60K,blue,35,5,2,3,6080.56,4866.02,56
+720698883,1,51,M,1,ensino medio,solteiro,$80K - $120K,blue,38,2,3,3,28605.74,5524.39,67
+780384483,1,49,M,4,na,na,$80K - $120K,blue,39,2,2,2,2886.03,5481.58,58
+714190983,1,51,F,2,mestrado,solteiro,na,platinum,32,2,3,3,34516.81,5418.78,65
+742865883,1,46,F,3,na,solteiro,$40K - $60K,blue,39,4,3,3,9110.85,5290.91,69
+755212608,1,50,M,2,na,casado,$40K - $60K,blue,43,4,3,3,13067.04,5468.11,71
+716486508,1,45,F,3,ensino medio,casado,$40K - $60K,blue,37,6,2,2,3399.84,5529.3,78
+798553158,1,62,F,1,mestrado,solteiro,menos que $40K,blue,56,1,1,2,3109.4,5470.67,72
+711613308,1,58,M,2,na,solteiro,$60K - $80K,blue,48,2,2,1,2236.34,2562.32,38
+718558758,1,34,M,1,na,solteiro,$80K - $120K,blue,22,1,2,2,3711.93,3922.05,51
+718504233,1,43,F,4,sem educacao formal,casado,menos que $40K,blue,30,2,3,2,2082.96,3423.84,48
+813804783,1,41,F,1,ensino medio,solteiro,$40K - $60K,blue,36,4,3,3,2667.14,4399.47,54
+715649358,1,39,M,2,graduacao,casado,$60K - $80K,blue,26,1,2,2,3879.03,7786.12,81
+718732833,1,56,F,1,graduacao,solteiro,menos que $40K,blue,48,4,2,2,2783.86,3967.75,42
+803216433,1,43,F,5,mestrado,casado,menos que $40K,silver,33,6,2,3,14806.45,4804.58,57
+820666083,1,41,M,2,mestrado,solteiro,$120K +,blue,37,5,4,3,27742.48,8646.37,85
+712044558,1,51,F,1,sem educacao formal,solteiro,menos que $40K,silver,41,6,3,2,14563.77,6408.17,70
+713131158,1,58,M,2,sem educacao formal,solteiro,$80K - $120K,blue,46,1,1,3,10286.89,8199.2,59
+718113633,1,41,M,3,sem educacao formal,casado,$120K +,blue,36,1,3,2,34516.48,5603.99,56
+708229308,1,49,F,2,na,casado,menos que $40K,blue,41,5,2,2,3243.79,6059.03,71
+710064033,1,45,M,3,sem educacao formal,casado,$40K - $60K,blue,28,2,5,2,4572.77,3555.35,42
+709319658,1,48,F,4,mestrado,solteiro,menos que $40K,platinum,37,5,4,3,15987.38,7681.09,71
+709764483,1,61,M,1,mestrado,na,$60K - $80K,blue,53,1,2,1,6157.4,4041.44,65
+812247033,1,51,F,3,sem educacao formal,casado,menos que $40K,blue,46,5,2,5,3536.74,3281.18,39
+717580458,1,43,M,4,sem educacao formal,divorciado,$80K - $120K,blue,36,2,2,3,19333.04,7847.1,63
+715610733,1,60,M,1,sem educacao formal,casado,$40K - $60K,blue,47,6,5,1,3735.2,8193.31,66
+710161083,1,62,F,0,sem educacao formal,solteiro,menos que $40K,blue,36,6,3,3,5780.98,6613.4,40
+715799808,1,52,M,0,ensino medio,solteiro,$60K - $80K,blue,39,4,2,3,3764.26,6574.23,69
+711838008,1,37,M,3,mestrado,casado,$60K - $80K,blue,28,2,2,3,6407.73,9322.83,77
+711826983,1,47,F,3,na,casado,$40K - $60K,blue,36,4,6,3,5823,3240.21,38
+708369633,1,34,F,3,mestrado,casado,menos que $40K,gold,36,6,2,3,15487.9,7031.39,67
+714959358,1,50,M,3,ensino medio,casado,$80K - $120K,silver,36,5,3,3,34516.63,8045.6,71
+719593608,1,56,M,1,sem educacao formal,casado,$80K - $120K,blue,36,6,1,2,33870.72,7661.02,61
+715830558,1,50,M,2,sem educacao formal,na,$120K +,blue,38,6,1,2,34516.36,7454.84,81
+714941358,1,53,F,4,mestrado,casado,menos que $40K,blue,36,2,6,3,4005.54,7022.03,75
+716088783,1,60,M,0,graduacao,casado,$80K - $120K,blue,50,1,2,4,29239.15,8169.17,65
+718458858,1,41,M,4,mestrado,solteiro,$80K - $120K,silver,29,2,6,3,34516.58,3526.42,53
+715630983,1,31,F,0,mestrado,solteiro,menos que $40K,blue,21,4,3,2,4598.81,6317.86,77
+712768983,1,51,M,4,mestrado,solteiro,$80K - $120K,silver,42,6,2,4,34516.24,8629.16,65
+716881683,1,45,M,5,sem educacao formal,casado,$80K - $120K,blue,34,2,3,3,3435.61,5567.79,51
+717529233,1,40,F,3,mestrado,solteiro,menos que $40K,blue,30,4,2,3,3319.41,4840.94,44
+711794358,1,61,M,0,graduacao,solteiro,$80K - $120K,blue,50,2,3,4,21398.25,3119.38,53
+719683158,1,56,F,2,na,casado,menos que $40K,blue,48,2,2,4,4746.12,7154.32,66
+716260833,1,56,F,5,na,solteiro,menos que $40K,blue,36,6,5,3,4668.88,8331.17,63
+719694408,1,30,F,1,graduacao,solteiro,menos que $40K,blue,36,4,6,3,4541.63,7996.56,80
+718045008,1,31,M,0,doutorado,casado,menos que $40K,blue,21,1,2,2,3768.92,6639.43,71
+811076883,1,45,M,3,mestrado,casado,$40K - $60K,blue,40,1,3,4,7979.95,5056.21,63
+716863458,1,44,M,2,sem educacao formal,solteiro,$80K - $120K,silver,36,2,3,3,34516.37,8570.12,68
+766821033,1,61,M,0,na,solteiro,$120K +,blue,46,6,3,3,4650.44,7976.7,74
+714615258,1,32,M,1,ensino medio,solteiro,$40K - $60K,blue,36,6,2,3,4819.81,9330.4,64
+710455608,1,40,M,3,ensino medio,solteiro,$80K - $120K,blue,36,2,2,3,4620.54,6644.45,61
+713514633,1,59,M,2,mestrado,solteiro,$60K - $80K,blue,50,2,2,4,6224.78,8291.46,69
+717571683,1,47,F,4,sem educacao formal,casado,$40K - $60K,gold,34,2,3,3,23981.56,4536.4,61
+712021233,1,33,M,3,mestrado,casado,$60K - $80K,blue,15,5,3,1,23399.96,9356.12,74
+712916958,1,55,F,2,mestrado,casado,na,blue,36,5,2,3,12494.62,7026.4,69
+716124408,1,32,M,2,mestrado,solteiro,$120K +,gold,22,2,3,2,34516.23,7486.82,64
+800758233,1,30,M,0,graduacao,solteiro,$60K - $80K,blue,24,6,2,2,4109.49,8642.56,77
+821241708,1,47,M,4,na,na,$80K - $120K,blue,42,1,1,4,7953.17,8670.44,74
+716987358,1,29,M,0,doutorado,divorciado,$60K - $80K,blue,15,2,3,1,8022.62,5660.28,59
+709259958,1,53,F,1,mestrado,solteiro,menos que $40K,blue,44,1,2,3,5541.95,9195.81,73
+709213458,1,42,M,3,ensino medio,casado,$80K - $120K,blue,36,1,2,3,22993.84,7867.04,75
+718252533,1,30,F,0,mestrado,divorciado,menos que $40K,blue,18,5,1,1,4203.67,7292.34,68
+717898758,1,55,F,2,mestrado,casado,menos que $40K,silver,45,6,3,3,12207.82,5838.62,74
+770220558,1,57,M,3,na,solteiro,$60K - $80K,blue,51,1,1,6,5859.79,8004.09,82
+708662583,1,41,M,3,na,casado,$60K - $80K,silver,29,1,4,3,27945.16,8345.63,70
+708152358,1,54,M,1,doutorado,na,$80K - $120K,blue,36,1,2,3,18512.78,8019.59,57
+709075533,1,41,M,5,sem educacao formal,solteiro,$80K - $120K,blue,32,4,3,3,12094.68,8607.68,90
+714361083,1,40,F,2,graduacao,solteiro,menos que $40K,blue,36,4,3,2,5989.43,5843.76,60
+714608583,1,45,M,5,ensino medio,divorciado,$120K +,blue,36,2,2,3,5287.73,8392.34,69
+709928358,1,40,M,3,mestrado,solteiro,$80K - $120K,blue,20,1,2,2,32554.24,8528.67,87
+712265508,1,32,M,0,doutorado,solteiro,$40K - $60K,blue,14,1,3,1,4015.16,8363,65
+715051608,1,34,M,2,ensino medio,solteiro,$60K - $80K,blue,36,2,2,3,9719.06,9183.48,51
+717439983,1,48,M,2,mestrado,casado,$80K - $120K,blue,28,1,3,3,14774.14,8293.36,63
+714391683,1,39,M,4,na,casado,$60K - $80K,gold,36,4,2,3,34516.5,8248.32,66
+708841233,1,41,M,2,graduacao,casado,$80K - $120K,blue,33,2,3,3,14682.7,8193.1,72
+713632983,1,43,M,4,ensino medio,casado,$80K - $120K,blue,35,2,2,3,10588.46,7886.72,70
+719612583,1,52,F,4,sem educacao formal,divorciado,na,blue,42,4,1,4,12091.06,8127.48,74
+718333983,1,57,M,4,na,divorciado,$120K +,blue,36,2,3,2,13694.32,9040.47,63
+717518733,1,56,F,2,ensino medio,casado,menos que $40K,blue,46,4,3,3,9463.22,7106.59,61
+708805908,1,30,M,2,mestrado,casado,menos que $40K,silver,18,1,3,1,10017.53,9299.2,68
+710155158,1,37,M,2,sem educacao formal,na,$80K - $120K,blue,18,1,2,1,31832.75,10201.17,59
+720353808,1,34,M,3,ensino medio,na,$80K - $120K,silver,21,1,3,2,34516.69,9177.78,50
+717047583,1,47,F,3,doutorado,casado,menos que $40K,blue,35,2,2,3,4779.86,8912.18,63
+712895733,1,40,M,4,sem educacao formal,solteiro,$80K - $120K,blue,36,6,2,3,34516.12,8659.39,81
+719629308,1,55,F,2,na,solteiro,na,silver,37,2,3,2,34516.41,8472.96,80
+754443033,1,50,M,1,mestrado,solteiro,$80K - $120K,silver,43,6,3,3,34516.04,9045.37,72
+720748608,1,44,M,3,mestrado,divorciado,$40K - $60K,blue,32,1,2,2,3575.61,7672.08,66
+709823733,1,44,F,2,mestrado,na,$40K - $60K,blue,34,2,3,3,5508.37,7507.74,78
+720512433,1,56,M,1,sem educacao formal,solteiro,$60K - $80K,blue,36,6,3,4,15219.43,7625.96,78
+710162133,1,41,M,4,mestrado,casado,$80K - $120K,blue,36,1,6,3,4725.09,9134.05,77
+710878308,1,50,F,4,mestrado,solteiro,menos que $40K,blue,37,1,3,2,3699.68,7297.52,71
+713390433,1,44,M,3,mestrado,na,$60K - $80K,gold,29,2,2,3,34516.92,6782.15,67
+712010358,1,49,M,4,mestrado,solteiro,$80K - $120K,blue,36,2,2,3,3999.89,7567.43,76
+711432258,1,55,M,3,mestrado,solteiro,$60K - $80K,blue,46,2,2,4,4178.03,7914.95,54
+714294183,1,54,M,1,mestrado,divorciado,$80K - $120K,blue,44,1,3,3,9580.11,5385.73,51
+708354858,1,51,M,2,na,solteiro,$120K +,blue,42,2,2,4,14938.73,8192.95,80
+708301683,1,40,M,2,sem educacao formal,casado,$80K - $120K,blue,30,6,3,2,20798,8038.6,90
+712113558,1,45,M,2,mestrado,casado,$80K - $120K,blue,36,4,3,3,24844.23,6549.62,75
+720597108,1,48,F,3,doutorado,divorciado,menos que $40K,blue,36,5,1,3,9943.21,8325.81,54
+719767683,1,46,M,0,graduacao,solteiro,$80K - $120K,blue,39,2,3,3,16983.55,8526.15,79
+715321008,1,39,M,2,na,casado,$120K +,blue,36,6,3,3,34516.56,7866.74,63
+780042633,1,37,F,2,na,casado,na,silver,21,2,2,2,31718.06,7432.93,64
+713269533,1,42,M,2,graduacao,solteiro,$80K - $120K,blue,36,1,1,3,9959.99,8847.84,85
+789684258,1,57,M,2,doutorado,solteiro,$80K - $120K,silver,43,2,3,3,34516.22,7842.5,61
+761079783,1,40,M,3,mestrado,casado,$60K - $80K,blue,33,5,6,3,5500.04,7720.37,67
+787518258,1,49,M,3,sem educacao formal,casado,$120K +,blue,38,2,3,3,8549.32,9192.3,77
+717631908,1,56,M,2,na,casado,menos que $40K,blue,44,5,1,3,4390.69,8454.92,69
+769396158,1,55,M,1,graduacao,solteiro,$80K - $120K,blue,43,2,3,2,24884.57,5107.25,53
+716717733,1,55,F,3,sem educacao formal,solteiro,menos que $40K,blue,47,2,4,5,4841.74,8918.21,87
+709383933,1,31,M,2,na,na,$80K - $120K,blue,18,2,3,1,4246.67,8102.96,66
+715113933,1,54,M,1,na,solteiro,$80K - $120K,blue,36,2,2,3,11077.95,8165.57,87
+715714458,1,48,M,5,mestrado,solteiro,$40K - $60K,blue,38,2,3,3,4446.04,8753.25,76
+715076358,1,57,M,1,doutorado,na,$80K - $120K,blue,36,4,3,3,23714.2,8463.25,62
+769667583,1,34,M,3,doutorado,solteiro,$40K - $60K,blue,28,2,2,3,3744.66,8202.25,69
+715645908,1,59,M,0,ensino medio,solteiro,$80K - $120K,gold,48,5,6,2,34516.58,8480.43,71
+778643733,1,48,F,1,sem educacao formal,solteiro,$40K - $60K,gold,28,3,1,2,23981.46,9140.6,64
+710980383,1,53,M,3,ensino medio,solteiro,$80K - $120K,silver,33,2,3,2,34516.9,6361.36,74
+709971708,1,51,F,1,ensino medio,solteiro,na,blue,41,3,2,3,9701.1,9404.11,62
+710153583,1,30,F,0,sem educacao formal,casado,menos que $40K,blue,13,3,3,1,6075.04,9242.04,63
+720565458,1,43,M,2,doutorado,solteiro,$60K - $80K,blue,36,2,3,3,17306.82,6205.23,65
+715496058,1,41,F,4,sem educacao formal,solteiro,menos que $40K,gold,36,3,3,3,15987.61,7832.2,73
+716238483,1,59,M,0,graduacao,casado,$80K - $120K,blue,50,3,3,2,12918.5,9138.64,76
+718297683,1,59,F,1,ensino medio,solteiro,menos que $40K,blue,50,1,3,0,4085.98,7597.16,71
+719118708,1,49,F,3,na,solteiro,menos que $40K,blue,37,2,2,2,5855.3,9202.76,80
+779333883,1,51,F,3,sem educacao formal,casado,menos que $40K,blue,33,3,3,3,7428.09,8078.47,62
+826245858,1,50,M,2,mestrado,solteiro,$80K - $120K,silver,40,3,6,4,34516.67,7661.28,79
+789817833,1,44,F,5,doutorado,na,menos que $40K,blue,33,3,2,3,9073.11,6793.18,60
+717060858,1,31,M,0,mestrado,casado,menos que $40K,blue,36,3,3,2,6911.82,8123.98,71
+757291008,1,46,M,4,na,casado,$80K - $120K,blue,39,3,2,3,34516.21,8964.74,76
+708963258,1,46,M,3,graduacao,casado,$60K - $80K,blue,39,3,2,3,13344.13,8534.7,86
+711746133,1,50,M,1,na,solteiro,$120K +,blue,37,4,2,3,32563.65,9220.16,81
+708496833,1,60,M,1,ensino medio,solteiro,menos que $40K,blue,50,4,5,4,4613.88,8970.33,78
+710895708,1,35,F,0,doutorado,casado,menos que $40K,blue,27,2,2,3,3876.64,7712.53,73
+719859033,1,32,M,3,mestrado,casado,$40K - $60K,blue,20,2,2,2,3264.37,6439.09,63
+710155983,1,52,M,1,na,solteiro,$40K - $60K,blue,36,3,4,3,4826.75,8585.65,62
+779571708,1,43,M,5,mestrado,casado,$60K - $80K,blue,25,1,3,2,4259.53,7993.64,71
+713318733,1,32,M,0,graduacao,solteiro,$60K - $80K,blue,24,3,3,2,4097,8376.76,64
+709611183,1,41,F,3,ensino medio,casado,menos que $40K,blue,31,3,3,3,3952.32,8241.13,82
+712441308,1,41,F,4,na,solteiro,na,blue,25,2,3,2,29295.6,9865.27,65
+711684408,1,50,F,0,mestrado,casado,menos que $40K,blue,38,2,1,3,4935.33,8527.41,84
+715825458,1,47,M,2,mestrado,casado,$80K - $120K,blue,36,3,2,3,12933.76,6564.82,56
+711161133,1,36,F,2,na,solteiro,menos que $40K,blue,36,2,3,3,6071.83,9338.43,59
+713242383,1,39,M,2,sem educacao formal,casado,$120K +,silver,19,2,2,1,34516.98,7721.39,75
+717457008,1,43,M,3,sem educacao formal,solteiro,$40K - $60K,blue,36,3,3,3,9267.57,7991.83,90
+712841883,1,50,M,3,graduacao,solteiro,$80K - $120K,silver,36,3,2,3,34516.78,7155.62,66
+719582058,1,41,M,3,doutorado,solteiro,$80K - $120K,blue,29,2,3,2,24001.08,9102.95,75
+711096633,1,37,F,2,sem educacao formal,na,menos que $40K,silver,29,5,6,2,12204,8600.09,94
+708197358,1,57,M,2,sem educacao formal,na,$80K - $120K,blue,48,4,3,1,30543.57,7784.91,63
+757247808,1,42,F,3,mestrado,casado,menos que $40K,blue,35,2,3,4,5230.68,9495.87,61
+710170758,1,32,M,0,doutorado,casado,$60K - $80K,blue,25,6,2,2,4469.21,8314.34,67
+780511683,1,47,M,3,mestrado,solteiro,$40K - $60K,blue,34,4,3,3,4413.33,7869.45,76
+719847108,1,52,M,1,na,casado,$40K - $60K,blue,36,4,3,3,8455.96,8124.56,73
+708385533,1,49,F,1,mestrado,casado,menos que $40K,silver,36,2,3,3,11059.05,9524.56,80
+719379858,1,39,M,1,mestrado,casado,$80K - $120K,blue,36,2,3,2,24239.58,8549.84,73
+709657533,1,44,M,3,ensino medio,na,$120K +,blue,36,2,2,3,7793.39,8260.84,54
+712487883,1,54,M,5,ensino medio,casado,$80K - $120K,blue,48,2,3,1,7464.83,9071.03,74
+753220383,1,29,M,0,mestrado,solteiro,$120K +,blue,22,2,3,2,11722.02,8302.74,78
+708340758,1,41,M,4,ensino medio,casado,menos que $40K,blue,32,2,3,3,7769.81,8109.35,74
+718376583,1,52,M,2,mestrado,divorciado,$80K - $120K,silver,44,4,2,3,34516.44,5806.39,40
+720827133,1,43,F,3,doutorado,solteiro,menos que $40K,blue,30,1,2,2,6261.78,8132.06,64
+708948483,1,54,M,3,mestrado,casado,$80K - $120K,silver,36,2,1,3,34516.23,8444.81,68
+716721483,1,59,M,0,sem educacao formal,solteiro,$40K - $60K,blue,52,1,2,2,14458.93,8696.01,72
+710527533,1,45,M,5,graduacao,solteiro,$40K - $60K,blue,36,4,3,3,4982.59,8586.45,58
+709996833,1,31,M,1,doutorado,solteiro,menos que $40K,silver,36,6,5,3,12359.02,7528.38,70
+714022833,1,42,F,2,mestrado,solteiro,$40K - $60K,silver,32,4,3,3,17909.43,5977.25,58
+710178558,1,46,M,2,ensino medio,casado,$60K - $80K,gold,38,5,6,3,34516.74,9314.97,89
+768712383,1,51,M,5,mestrado,divorciado,$120K +,blue,45,6,6,3,34516.02,8173.57,91
+711156858,1,48,F,5,ensino medio,solteiro,menos que $40K,blue,40,1,3,4,8297.03,9819.14,74
+710306358,1,38,M,1,na,casado,$40K - $60K,blue,18,1,2,1,9664.89,7995.94,56
+779055033,1,43,F,3,sem educacao formal,na,menos que $40K,blue,24,1,2,2,8256.79,8104.66,64
+714145233,1,34,M,0,mestrado,divorciado,$80K - $120K,silver,24,1,3,2,34516.35,5112.33,49
+719547033,1,40,M,4,na,casado,$80K - $120K,blue,31,1,6,3,23502.57,7957.3,60
+789432033,1,32,F,1,mestrado,casado,menos que $40K,blue,23,1,3,2,4065.56,7844.31,64
+708319908,1,37,M,3,mestrado,solteiro,$80K - $120K,blue,17,1,2,1,4116.79,8667.02,70
+714082308,1,39,M,3,ensino medio,solteiro,$80K - $120K,blue,13,2,3,1,8656.01,8056.97,89
+714820158,1,29,M,0,ensino medio,solteiro,$40K - $60K,blue,36,6,1,3,5988.12,10211.08,68
+713347608,1,54,F,2,doutorado,solteiro,menos que $40K,blue,43,2,2,3,4917.99,9442.1,69
+718080558,1,41,F,4,ensino medio,solteiro,menos que $40K,blue,36,6,3,3,4720.55,8798.5,67
+713880633,1,53,M,2,na,solteiro,$60K - $80K,blue,43,2,3,2,5905.65,8883.44,83
+758753283,1,52,M,3,doutorado,casado,$120K +,blue,45,1,3,3,34516.29,7341.92,71
+773172483,1,30,M,0,mestrado,casado,$40K - $60K,blue,23,6,4,2,4063.57,7463.41,70
+710639658,1,29,M,1,ensino medio,solteiro,$60K - $80K,blue,17,6,3,1,17744.78,9658.29,78
+712941483,1,51,F,4,doutorado,casado,$40K - $60K,silver,43,1,3,3,3735.06,6826.33,61
+714757083,1,44,M,4,sem educacao formal,casado,$60K - $80K,silver,37,1,2,2,29076.24,8765.96,84
+714136233,1,53,M,4,mestrado,casado,$120K +,blue,38,5,3,2,34516.81,8417.23,72
+778888083,1,45,F,2,mestrado,casado,$40K - $60K,blue,26,6,4,2,4307,8697.78,62
+718665033,1,44,M,5,doutorado,solteiro,$60K - $80K,silver,36,2,4,3,34140.14,8177.31,76
+771561183,1,42,F,4,mestrado,solteiro,$40K - $60K,blue,30,6,3,3,13753.47,7464.08,66
+712036383,1,49,M,4,ensino medio,solteiro,$60K - $80K,blue,30,6,3,3,18418.91,9980.96,68
+715671183,1,43,M,3,sem educacao formal,casado,$80K - $120K,blue,31,6,4,3,6824.62,9045.34,67
+822084333,1,51,M,3,ensino medio,casado,$80K - $120K,blue,47,2,3,4,4041.55,8219.05,84
+708821733,1,43,F,3,na,solteiro,$40K - $60K,silver,36,2,4,3,19713.89,8301.83,70
+710751033,1,31,F,1,mestrado,solteiro,menos que $40K,blue,13,1,3,1,4829.63,8286.32,65
+710679933,1,59,M,1,mestrado,solteiro,$80K - $120K,blue,54,2,4,5,15633.12,8660.78,58
+717174558,1,57,F,1,sem educacao formal,solteiro,menos que $40K,blue,46,2,3,3,9129.34,7733.2,81
+714543633,1,45,F,3,na,solteiro,menos que $40K,blue,36,1,5,2,7500.8,8024.83,78
+713668158,1,31,F,1,sem educacao formal,solteiro,na,blue,36,2,3,3,21067,9212.63,71
+709249083,1,40,M,2,na,solteiro,$60K - $80K,blue,20,4,4,2,4283.27,8672.54,64
+713399583,1,49,M,2,na,casado,$80K - $120K,blue,39,2,4,3,29865.98,8636.56,74
+709608708,1,29,M,1,mestrado,casado,$60K - $80K,blue,17,5,4,1,6500.67,9451.02,79
+709977933,1,52,M,5,sem educacao formal,casado,$80K - $120K,blue,44,2,4,3,9959.14,8517.37,60
+710590683,1,33,M,2,na,casado,$120K +,blue,36,3,5,3,16127.78,7729.38,82
+710081208,1,52,M,2,graduacao,solteiro,$120K +,blue,32,4,1,3,4935.05,7886.75,64
+711460458,1,44,M,1,sem educacao formal,casado,$40K - $60K,blue,34,5,3,2,10973.05,10583.79,75
+710047533,1,51,M,3,mestrado,solteiro,$80K - $120K,gold,36,4,3,3,34516.21,8614.5,63
+716708583,1,54,M,4,mestrado,casado,$120K +,blue,36,2,5,3,7684.69,7667.15,68
+712766208,1,45,M,5,sem educacao formal,solteiro,$120K +,silver,36,4,1,2,34516.47,8603.68,84
+715150983,1,44,F,3,na,solteiro,na,blue,34,2,3,3,26021.45,8898.51,60
+714879483,1,39,M,4,mestrado,casado,$80K - $120K,blue,31,1,3,3,3929.71,7773.88,64
+714919308,1,32,F,0,mestrado,solteiro,menos que $40K,blue,36,5,3,3,8135.17,8620.59,67
+717774333,1,48,M,3,ensino medio,casado,$60K - $80K,blue,36,1,5,2,8431.56,5189.41,57
+759584958,1,51,F,1,mestrado,casado,na,silver,44,4,4,2,33004.58,10156.65,72
+709660233,1,52,M,3,na,solteiro,$80K - $120K,blue,44,1,4,2,3526.6,7775.83,63
+712627083,1,38,M,4,sem educacao formal,casado,$80K - $120K,blue,25,5,4,2,5768.16,9867.74,78
+711433908,1,41,F,3,sem educacao formal,casado,menos que $40K,blue,30,1,3,2,9491.21,9061.65,51
+712509108,1,46,F,3,doutorado,solteiro,menos que $40K,gold,36,1,5,3,15164.79,8356.07,68
+711745233,1,30,F,0,ensino medio,solteiro,na,blue,22,1,4,2,13894.77,9351.12,69
+710721858,1,46,F,3,na,casado,$40K - $60K,blue,37,2,4,3,5542.27,8246.35,59
+712457208,1,58,M,1,mestrado,solteiro,$80K - $120K,blue,36,6,4,3,22718.92,8100.05,77
+713934633,1,40,F,4,sem educacao formal,divorciado,menos que $40K,blue,35,2,3,3,4423.01,8935.01,87
+714945708,1,33,M,4,graduacao,solteiro,$40K - $60K,silver,20,2,3,1,15977.73,7745.28,64
+714524583,1,56,M,3,sem educacao formal,casado,$80K - $120K,blue,46,1,3,3,23240.11,9441.06,82
+714199008,1,50,M,2,na,casado,$120K +,blue,36,6,2,2,16081.84,6100.41,61
+719326758,1,52,F,0,doutorado,casado,menos que $40K,blue,36,4,2,3,4353.85,9226.07,85
+718840833,1,49,M,3,ensino medio,solteiro,$40K - $60K,blue,36,1,4,3,4601.33,9610.24,76
+709566408,1,40,F,2,mestrado,solteiro,menos que $40K,blue,30,5,6,3,4458.98,9640.36,70
+715020933,1,44,F,4,ensino medio,na,na,blue,34,4,4,3,15944.81,9360.85,67
+711149133,1,30,F,1,mestrado,casado,na,blue,18,4,4,1,4377.79,8759.56,74
+716832858,1,46,M,3,mestrado,casado,$60K - $80K,blue,34,1,4,2,4930.4,7412.09,60
+715154058,1,49,F,0,na,casado,menos que $40K,blue,39,1,3,3,4982.61,9274.98,65
+789497283,1,50,M,2,ensino medio,solteiro,$120K +,blue,42,1,2,3,34162.75,7572.58,56
+714544908,1,56,M,4,mestrado,divorciado,$60K - $80K,blue,36,6,3,3,6224.2,8979.65,68
+714677583,1,50,F,3,doutorado,solteiro,na,blue,36,4,3,3,5173.31,8757.24,68
+715493733,1,53,M,2,mestrado,casado,$40K - $60K,blue,36,2,4,3,5735.45,9088.03,64
+827440458,1,48,M,4,graduacao,casado,$80K - $120K,blue,44,2,3,3,9524.54,7527.48,58
+720128658,1,49,M,1,sem educacao formal,solteiro,$120K +,blue,30,5,3,3,5181.12,8943.32,68
+770038983,1,37,M,4,ensino medio,solteiro,$60K - $80K,silver,31,1,3,3,28831.18,8688.68,69
+714684108,1,31,M,1,doutorado,solteiro,$40K - $60K,blue,24,4,4,2,4169.44,8565.37,70
+779134458,1,33,F,1,doutorado,solteiro,menos que $40K,blue,15,1,3,1,3709.71,8130.77,74
+710066133,1,30,M,0,mestrado,solteiro,menos que $40K,silver,36,4,3,3,12833.59,9619.18,75
+718614183,1,43,F,4,ensino medio,na,menos que $40K,silver,31,6,2,2,13651.62,9772.16,71
+709865883,1,38,M,2,ensino medio,divorciado,$60K - $80K,silver,25,1,3,2,26794.23,8788.63,58
+717390408,1,49,F,4,sem educacao formal,casado,$40K - $60K,blue,36,5,3,2,4167.52,7590.58,87
+713281833,1,37,M,3,na,solteiro,$40K - $60K,blue,29,6,3,2,13589.29,9456.24,79
+720328983,1,52,F,5,na,casado,menos que $40K,blue,36,4,3,3,9611.75,7636.02,64
+713437008,1,40,F,3,mestrado,casado,na,blue,25,1,3,2,6888.65,9038.35,64
+716644008,1,55,M,3,mestrado,solteiro,$120K +,silver,36,4,4,3,34516.78,9931.21,70
+717185658,1,51,M,1,ensino medio,casado,$80K - $120K,blue,36,4,4,3,22754.64,8531.6,77
+709646433,1,59,F,1,ensino medio,casado,menos que $40K,blue,50,1,3,4,5043.62,10170.17,66
+713924283,1,61,M,0,mestrado,solteiro,$60K - $80K,blue,54,2,4,1,11859.54,8930.16,79
+714471183,1,47,M,4,mestrado,divorciado,$80K - $120K,blue,39,4,4,3,17504.75,10468.03,66
+708564858,1,33,M,2,graduacao,casado,$120K +,gold,20,2,4,1,34516.84,9338.74,73
+713733633,1,27,M,0,ensino medio,divorciado,$60K - $80K,blue,36,2,2,3,13303.99,10219.66,85
+713755458,1,50,M,1,na,na,$80K - $120K,blue,36,6,4,3,9959.96,10310.41,63
+716893683,1,55,F,3,sem educacao formal,solteiro,na,blue,47,4,3,3,14657.85,6009.18,53
+710638233,1,41,M,2,na,divorciado,$40K - $60K,blue,25,4,3,2,4277.04,8764.88,69
+716506083,1,44,F,1,ensino medio,casado,menos que $40K,blue,36,5,4,3,5409.16,10291.78,60
+717406983,1,30,M,2,mestrado,na,$40K - $60K,blue,36,4,3,3,5281.84,8395.62,62
+714337233,1,43,F,2,mestrado,casado,menos que $40K,silver,25,6,4,2,10388.8,10294.96,61
